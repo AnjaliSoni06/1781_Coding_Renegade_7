@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>Transactions</title>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Financial Fraud Detection System</h1>
+        </div>
+
+        <div class="content">
+            <h2>Transactions</h2>
+            <ul>
+                {% for transaction in transactions %}
+                    <li><a href="{{ url_for('fraud_detection', transaction_id=transaction['TransactionID']) }}">{{ transaction['TransactionID'] }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <div class="footer">
+            <p>&copy; 2024 Financial Fraud Detection System. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,66 @@
+/* Add styling to make it visually appealing */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.h1{
+    position: absolute; 
+    height: 100%; 
+    width: 100%; 
+    /* background-image: url( 
+"./Financial-fraud-1280-x-720-1019x573.avif");  */
+    background-size: cover; 
+    background-position: center; 
+    filter: blur(10px); 
+    z-index: -1; 
+}
+.header {
+    background-color: #333;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+.h2{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+.btn1{
+    background: none;
+    cursor: pointer;
+    border: 2px solid black ;
+    border-radius: 33px;
+    width: 194px;
+    height: 47px;
+    font-size: 20px;
+    
+}
+.btn1:hover{
+    background: #e7b50aed;
+    color: white;
+}
+
+.content {
+    max-width: 800px;
+    margin: 2em auto;
+    padding: 1em;
+    margin-top: 100px;
+  
+}
+
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 1em;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.dashbord{
+    text-decoration: none;
+    color: #ff00008a;
+    font-size: 24px;
+    font-family: sans-serif;
+    cursor: pointer;
+}

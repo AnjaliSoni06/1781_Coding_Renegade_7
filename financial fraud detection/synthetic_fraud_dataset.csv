@@ -1,0 +1,1001 @@
+TransactionID,Merchant,Amount,Timestamp,Location,IsFraud
+fc478442-bdf1-415a-abc0-0ca18b1b2566,Ganesh-Grover,962.29,2023-12-07 22:18:27,Tiruchirappalli,True
+7de8c1b5-eb03-47fa-970b-5801a504e317,"Bava, Chopra and Chaudhari",82.1,2023-12-25 20:00:33,Nagpur,False
+e8450dc7-c82f-4830-b58d-32ca28939624,"Sibal, Lata and Sastry",651.16,2023-12-18 07:09:55,Raebareli,True
+601091d3-d870-49b1-a63c-72051c05a4f6,Shroff Ltd,405.41,2023-12-08 07:27:36,Tinsukia,False
+980a619f-6219-4350-b813-ce2ab7e092a1,"Thakur, Gopal and Borah",312.14,2023-12-15 15:32:19,Dhanbad,False
+1b4b8931-ca89-4ebc-890c-d023f0008220,Manne-Keer,612.88,2023-12-06 18:14:39,Khandwa,False
+93e1bb38-8613-49f9-905b-0e584239e1fb,Kapadia-Srinivasan,408.38,2023-12-11 03:13:22,Chapra,False
+1f5866aa-15a9-4089-aa28-85edccdfac89,"Behl, Kapur and Hayer",570.27,2023-12-22 11:39:19,Mirzapur,True
+f75009f8-9ec7-41c8-b2b9-f592182e6290,Barad and Sons,337.48,2024-01-03 05:30:55,Thiruvananthapuram,False
+8d9d6c06-6ed0-41f2-aa31-c19ee3f133fb,Khalsa-Chakraborty,824.11,2023-12-21 07:31:29,Nadiad,False
+800a12a1-0c92-4dff-9517-c9269fc2638e,Ravi-Garde,505.47,2023-12-22 18:24:34,Panchkula,True
+48da5ffc-88ae-40a8-9ef3-d411ccbf5e4f,Arora-Korpal,766.8,2023-12-31 18:06:27,Pondicherry,False
+64a5b4de-3562-4cec-904a-4bdb669ce387,Agate Ltd,501.76,2023-12-12 11:27:07,Gaya,True
+3758ea4b-c289-4751-8832-c632b0187912,Basak Inc,79.27,2023-12-08 14:43:06,Karnal,False
+06df6058-e811-40b9-bd34-3406dde4f435,Sidhu-Shan,166.4,2023-12-23 14:11:52,Gangtok,True
+e9ba031d-59d6-4118-af49-a9bfaa0c6d07,"Bhatt, Warrior and Som",682.35,2023-12-23 04:11:21,Sambhal,False
+7c6b467b-8e0d-47b5-9519-9fdf5e49f09e,"Madan, Goda and Doshi",376.82,2023-12-30 03:44:40,Giridih,True
+b94e6f06-f982-40a8-af9a-9ff78a3c5e73,Khanna PLC,987.36,2023-12-09 23:02:40,Panvel,False
+d730a5c7-8a41-4ff3-98d2-6bc8e7aaa3f7,"Sandal, Zacharia and Dass",676.07,2023-12-13 06:45:11,Vijayawada,False
+c157dac0-e1f2-45e2-97e0-3bb15106e0df,"Arora, Arora and Lalla",232.39,2023-12-23 08:59:00,Saharanpur,False
+daa96910-9192-473e-80fd-027987d57fa2,Kaur-Manne,697.06,2023-12-21 10:46:10,Dehri,True
+46b2e7e2-edfe-4271-aaad-5d8034b7f64d,"Saha, Sane and Brahmbhatt",633.47,2024-01-01 03:17:38,Chittoor,False
+dba343a8-e81e-4d7c-96f4-63201919bf5a,"Sahni, Shanker and Ratti",240.46,2023-12-14 13:49:16,Ahmednagar,False
+194c0ac1-bd24-4d0b-a37d-959f88d09cc5,"Bala, Hayer and Gaba",117.02,2023-12-30 00:09:22,Kumbakonam,False
+c8bd03d8-9da1-4f37-9b05-d6f022f0427c,Raman-Chakraborty,29.19,2023-12-23 07:33:04,Hubli–Dharwad,False
+e830c58d-c17e-4a03-ba80-d49528575f43,"Banerjee, Dubey and Sangha",510.3,2023-12-31 19:46:04,Salem,False
+efd4f5ee-56ba-4c15-8e93-1020cc33f781,Sabharwal-Mani,323.02,2023-12-30 16:47:44,Mathura,False
+d93efc73-bd46-4457-8ce3-4d6110656277,"Dayal, Mani and Andra",36.83,2023-12-27 12:44:27,Ramagundam,False
+04c61f6d-22b1-4f56-8444-1fb07f725e2b,Ganguly-Shanker,849.02,2023-12-06 07:02:00,Alwar,False
+df885681-b671-4526-9928-f52704d3fb12,"Sarraf, Comar and Badami",739.11,2023-12-16 03:36:12,Shivpuri,False
+f794327c-0e0a-4f96-a14a-0a273d9ae6fe,"Gopal, Majumdar and Agarwal",861.54,2023-12-27 19:12:51,Chandrapur,True
+3fb86790-7f9c-4950-9b74-9a78a8a61070,Walla-Singh,280.69,2023-12-05 14:05:43,Tinsukia,True
+932b93e7-bbc8-49f0-8628-9f8857e4077a,Ramachandran Inc,316.19,2023-12-29 08:39:56,Maheshtala,False
+1316b279-b67b-423f-b0b5-3e5ec7b6e5b8,Ghosh and Sons,963.26,2023-12-24 10:09:06,Raiganj,True
+5f8ae689-8c50-401a-bef3-a80c5909189c,Bakshi Group,114.48,2023-12-28 15:56:30,Akola,False
+4fe76438-4ecb-4622-a53b-d57c01705f77,"Bhasin, Ram and Bajwa",613.04,2023-12-06 05:58:14,Raichur,False
+9ee1b879-3502-41d8-998b-336e65645f07,"Bedi, Tak and Sekhon",111.77,2023-12-17 10:19:07,Etawah,False
+a936cd9c-4d94-439f-aa2c-0938c2c9e1d5,Kulkarni-Sagar,21.37,2023-12-06 06:20:53,Tirupati,False
+211f7a87-daff-4dcc-bf5e-1fd68f0e1ca0,"Shah, Vaidya and Sant",995.47,2024-01-01 11:20:12,Thrissur,False
+290c75d5-1b82-4cfb-838e-54fdae7f3324,"Chaudhary, Kuruvilla and Chadha",516.31,2024-01-02 18:06:54,Patiala,False
+b1564a8f-3ef0-437a-87d1-9cd9d0217097,Kamdar-Din,611.18,2023-12-07 18:46:46,Morena,False
+23bf160b-ef93-47c4-85f8-0c24d9d72fe1,Chandra and Sons,914.35,2023-12-11 21:01:56,Morbi,True
+75ed4077-dc67-4e2c-9266-65ab3af70bc5,Gill Group,474.8,2023-12-16 11:50:30,Chinsurah,True
+07941f62-018c-4470-8b0c-2baf02b8057f,Chauhan-Mani,721.53,2023-12-11 13:31:04,Jodhpur,True
+e60d74d8-e6bf-4925-a4dc-c123b3f17dae,"Anne, Sandhu and Balay",902.17,2023-12-05 09:05:29,Thiruvananthapuram,False
+6cf5d3c2-caf5-45eb-941c-1f2e000e183d,"Vohra, Jaggi and Bains",343.23,2023-12-27 20:31:49,Kanpur,False
+a648c13a-5968-400d-9eb7-9fca85ae9019,"Borde, Bassi and Bali",628.81,2023-12-08 05:11:38,Danapur,False
+388d975a-3974-4fc9-9bc4-11b290f1e536,Warrior-Mander,34.76,2023-12-24 14:01:42,Tirunelveli,False
+fae7f9fe-c10f-4906-9a7f-0db09d431d38,"Khanna, Bandi and Banerjee",407.03,2024-01-02 11:12:28,Arrah,False
+e9b7bef5-3786-4cf1-8572-8d549b6d1bb8,Jain and Sons,460.28,2023-12-28 02:51:01,Bhind,True
+e7683eff-2696-4ee7-b484-9670634d1ae1,Savant LLC,610.99,2023-12-15 07:23:32,Karimnagar,True
+3619b6ed-2925-4a60-8a5c-493d83f999e3,Ramaswamy-Johal,882.81,2023-12-14 14:41:35,Rourkela,False
+9acd0c3a-d12e-4fee-a00a-c2753229ef8f,"Din, Sanghvi and Mane",221.61,2023-12-29 06:31:25,Tinsukia,False
+b4b36b1e-1587-4e95-93a1-d5306464876a,Manne Inc,80.28,2023-12-18 09:53:10,Bhilai,False
+e09a917c-fdfe-43cd-a33a-b003bc37b2d3,Bera-Tella,182.08,2023-12-28 05:24:46,Narasaraopet,False
+343f0e67-5e38-4eca-9d11-1e9df532c868,"Chahal, Dewan and Badami",639.33,2023-12-23 08:09:23,Delhi,False
+c1e10e7a-a611-47ae-97fd-8440bda79790,"Mangat, Lata and Lata",510.9,2023-12-15 23:43:18,Bhilai,False
+bb53f17b-c824-4a90-967b-899e398aecaa,"Bava, Bhavsar and Roy",34.54,2023-12-30 08:54:50,Machilipatnam,False
+bcb53def-a2af-4607-a28c-3954d9485eb1,"Shroff, Khare and Dasgupta",328.56,2023-12-15 05:26:25,Yamunanagar,True
+4ebe0169-2d45-4918-8097-d0f48a9879c4,Jain-Gara,831.11,2023-12-09 06:35:27,Gangtok,False
+f89abccb-d4fc-4722-bb62-fa33cc6967da,Uppal and Sons,385.2,2023-12-18 11:06:18,Guntakal,False
+a98c91e9-5b59-45f7-a047-919c532fbf92,Basak-Bala,749.09,2023-12-24 19:11:24,Secunderabad,True
+eec8075b-6be9-4d78-af31-2aaaf43a9a69,Randhawa Ltd,754.49,2023-12-07 03:00:28,Pimpri-Chinchwad,False
+a751a2b6-49e3-454c-aada-af23650fe733,Kumar LLC,410.27,2024-01-01 12:54:57,Bettiah,False
+0fec96c6-aeda-4614-985d-ac41e9d24859,Salvi PLC,80.15,2023-12-05 14:29:19,Begusarai,False
+f7f38ac9-6be8-4359-b958-509c2f5c339a,Divan Inc,127.27,2023-12-15 08:32:59,Kochi,False
+9b2bb65b-2c4e-4b04-a78d-f3b4983f203c,Sheth-Mani,371.18,2023-12-14 10:16:48,Bhilai,False
+ab6c3353-050b-4be1-ad68-179700900ee8,Char PLC,954.28,2023-12-12 17:27:38,Jamalpur,False
+a85155f9-ed53-483f-8d16-45d8a881c1d1,"Karan, Saran and Kala",753.45,2023-12-08 02:30:00,Nanded,False
+f9d8dd36-1154-4f22-a4b6-a450b57d2a5b,"Lala, Lalla and Sama",36.27,2023-12-04 21:04:57,Kottayam,False
+c29cf869-0410-4c13-985f-73b3cc49248b,Sarma Group,258.89,2023-12-30 02:33:59,Vijayawada,False
+b5d5ed40-545d-41e8-8f91-05f10b7df1f2,Choudhry-Desai,315.18,2024-01-03 01:35:55,Gwalior,False
+63f9fdd1-7cad-44ce-aa3c-e709b7315b5a,Karpe-Dhawan,666.75,2023-12-28 07:32:06,Siwan,False
+5acfcf3b-d6c8-483e-b55a-83cf97cad1c2,"Doctor, Desai and Tandon",824.19,2023-12-06 05:23:31,Moradabad,True
+d4148c30-c8e5-4843-a02f-29bc0197b7e7,Deshmukh-Bhatnagar,424.83,2023-12-28 15:40:51,Dhule,False
+0a7864eb-fafc-4551-a923-65a4a8539288,Sangha-Grover,631.17,2023-12-12 14:08:07,Ujjain,False
+e105cf18-8dd9-44dd-adf0-302016b7f208,"Krish, Manne and Chada",117.01,2023-12-30 08:51:02,Kollam,False
+17679117-0f32-46dd-88ae-8cdc6952b6e5,Shanker-Sodhi,493.65,2023-12-31 06:20:06,Panipat,False
+16341a7d-9808-42ae-86a6-af3d40f15ea0,Bhasin LLC,293.33,2023-12-08 23:13:39,Ujjain,True
+d6f5e1b1-9200-405d-a504-a1d9baf25578,Reddy-Chada,465.7,2023-12-25 05:53:35,Gorakhpur,False
+43a2c27c-b74e-4504-a2a9-3b5aa8623ac8,"Dasgupta, Bandi and Kar",839.95,2023-12-28 17:25:17,Nagpur,True
+492d534c-9313-4f21-ab85-04cc8983e200,"Arora, Agate and Loke",673.43,2023-12-28 05:55:45,Gulbarga,True
+1b5c586e-61ef-4c93-9fa2-0f02b8243070,Mammen-Basak,100.33,2023-12-19 17:58:26,Phagwara,True
+2425ad17-0806-49f6-8a57-f0fe7ae7b7a4,"Kapadia, Salvi and Cherian",675.56,2023-12-19 08:15:47,Kota,True
+30ed17fd-9c48-4523-8f51-12bf63a915f3,Uppal LLC,899.99,2023-12-23 05:42:50,Thoothukudi,False
+d3266f31-6fe2-4773-a818-e6e9da385f2b,Grewal Ltd,586.68,2023-12-18 05:32:42,Rourkela,False
+8c0800e3-6cf9-4063-afe9-390ae3de79c8,Mandal-Shenoy,777.79,2023-12-26 09:03:23,Danapur,True
+c5e45dc8-6c47-4622-8e7e-54d2fdafae1b,Warrior-Yogi,767.94,2023-12-07 08:45:21,Firozabad,False
+80caa42d-cb42-4a73-8e08-6ad98e54978f,Hora LLC,763.0,2023-12-13 09:43:18,Hubli–Dharwad,False
+db851bfb-7f2e-455f-9d6d-299e779159e1,Barad-Badal,252.39,2023-12-12 03:05:47,Asansol,False
+a913a4be-a7c7-4d4e-84bd-8a214fddb971,"Acharya, Gupta and Walla",965.82,2023-12-19 20:17:48,Jamalpur,False
+881b7f29-508e-42a7-84a6-ea053258071d,Babu-Shetty,385.66,2023-12-27 16:03:02,South Dumdum,False
+30c76d05-ae86-4ffa-9bc4-6f93a53599cb,"Guha, Apte and Basak",535.54,2023-12-26 03:44:22,Anand,True
+3c87ba2c-19c2-4d6b-8a14-580844d7082b,"Kumer, Ramanathan and Tak",446.06,2023-12-29 07:44:46,Amravati,False
+db08089c-7dc7-456b-b44b-56740db46f91,Sem and Sons,873.85,2023-12-26 13:07:09,Maheshtala,True
+92622b99-b37d-4762-a786-88d411f902c9,Bora PLC,924.67,2023-12-20 03:45:13,Vasai-Virar,False
+32506ed5-9798-492a-b4ae-b839252b4d56,Keer and Sons,746.22,2023-12-25 07:30:28,Alappuzha,False
+a7cf024e-9007-4c53-9e1f-5ff033b59a13,Varty-Bandi,978.17,2024-01-01 02:39:55,Sambhal,True
+e3c1d69b-482e-45d6-b6aa-2a44fc5ae923,Gaba-Grewal,480.38,2023-12-27 02:07:24,Maheshtala,False
+9d023c27-3a70-46e6-bd50-60fdb6ff5755,Goel and Sons,100.41,2023-12-21 16:26:24,Agra,True
+7730a38d-4802-46f7-9b3a-2329c5998a45,Sathe Ltd,440.42,2023-12-07 15:52:36,Meerut,False
+21073ed3-29f2-4c14-81b1-f3310b09af7f,Chaudhry-Dugar,726.97,2023-12-16 23:45:38,Solapur,True
+09201c2e-1d58-4a1a-90f8-68aea0df2ddc,"Bajaj, Thakur and Chakraborty",415.88,2023-12-26 13:16:44,Moradabad,True
+95280066-7206-490b-b714-93fbe26b7f27,Sharma Group,941.65,2024-01-01 08:43:06,Ongole,False
+f0d171d4-57d9-4c79-aa2e-075a7e4dab97,"Bhakta, Sethi and Mammen",764.57,2023-12-26 16:05:30,Rajahmundry,False
+8cd1013c-9eae-45c2-a2d7-dcc5ae051f94,Bahl Ltd,151.69,2023-12-30 04:08:36,Sagar,True
+2049eb8a-a429-436b-9b91-49fbbbf46d2e,Bahl-Gara,46.65,2023-12-06 12:57:44,Ambala,True
+ef9fa20c-d807-4e97-ad4f-23a852662a4c,"Thakur, Hayre and Srivastava",124.27,2023-12-16 11:36:22,Vellore,False
+14da16d9-f701-471f-bbc5-d88dac735a57,Sagar Inc,10.57,2023-12-25 11:02:32,Ratlam,False
+6f0ae646-454e-4848-8abe-0ce742aa3b50,Sinha PLC,622.33,2023-12-21 02:45:32,Chinsurah,False
+597906b2-296b-48c0-bccb-20c0e2d17e52,Din LLC,969.51,2023-12-18 18:00:34,Ambarnath,True
+2a4a77fd-3ae6-49e3-84a9-10731887ada4,"Sidhu, Mallick and Shan",401.83,2023-12-22 03:19:30,Motihari,False
+580a9577-93e3-4e8a-8934-769178a7221c,Mann-Chacko,333.58,2023-12-30 12:48:20,Ramgarh,False
+96a718a2-afb9-4a33-9ecc-667281aed57a,"Jani, Baria and Ahuja",230.98,2023-12-15 14:35:15,Tiruvottiyur,False
+f05104a1-800c-4606-a49e-c718150bd679,Walla and Sons,222.09,2023-12-12 14:21:49,Sangli-Miraj & Kupwad,False
+d66ff1f1-4b80-479e-b930-e9ef5d60f1fb,Sama and Sons,295.72,2023-12-09 01:54:50,Pallavaram,True
+6f7cd4e3-593e-4055-9468-b8157a5b2592,Sabharwal Group,649.88,2023-12-19 17:54:07,Srikakulam,True
+a60efb58-037e-492e-a8e3-7abdad4bc841,Kapoor-Savant,904.39,2023-12-19 01:16:21,Bhiwani,True
+1ef4e0a4-8a7c-42cd-8247-1ac6c51502bc,Mani-Kale,939.84,2024-01-01 21:55:21,Aurangabad,False
+cfc0a265-2fbe-47c2-89a7-6f1d71158592,"Saini, Manne and Anand",15.84,2024-01-01 00:27:39,Mira-Bhayandar,False
+2bddd349-5714-43d0-a476-aaa507a9d1a5,Zacharia-Dugal,353.73,2023-12-14 01:09:38,Jammu,False
+602ac580-2193-462b-b1cc-cccb37d8296d,Apte Ltd,49.83,2023-12-28 20:23:12,Unnao,True
+54143c93-c621-4869-b0a5-d5bf5ca36b32,Korpal Group,497.7,2023-12-06 19:35:28,Kadapa,True
+8502410f-c8f2-44f0-a151-d3d6bbf3efb2,Jain-Edwin,588.71,2023-12-17 23:57:41,Baranagar,True
+52ebe26f-ec83-4ad7-97db-0596ff2aae23,Edwin-Behl,527.35,2023-12-21 04:27:42,Hajipur,False
+ff935a7c-bdca-494d-aa0a-1a98d4566202,Sahni-Dhawan,638.44,2023-12-29 18:34:19,Hazaribagh,True
+ca50f54f-28b4-4005-8461-6e44e3f4b78b,Chokshi LLC,679.93,2023-12-30 08:34:01,Bhagalpur,False
+31c41133-4e7f-4fc4-97e5-0637c5fe55bf,"Dutta, Suri and Sane",272.41,2023-12-07 17:54:29,Nangloi Jat,False
+e81a3686-0f7c-4343-9753-012346e8760d,"Kumar, Gera and Tripathi",909.33,2023-12-21 10:28:14,Jalna,True
+06f0efb3-da9b-4f11-abf4-a9865e11b785,Mander LLC,425.94,2024-01-01 01:05:59,Tiruvottiyur,False
+1c3b5271-f952-4a0e-ae3a-2e0a1874f57c,Salvi-Chaudhuri,149.35,2023-12-14 01:12:57,Vijayanagaram,True
+81f81395-45d1-4981-8115-75a5f0b71ffe,Dora-Ray,594.28,2023-12-22 10:43:29,Gudivada,True
+2a26f486-7157-465f-818a-d90a35a57473,"Wagle, Ahluwalia and Bhatti",429.34,2023-12-17 03:43:24,Thrissur,False
+1c08b651-5faf-4f46-99b3-79002c702000,"Andra, Tandon and Seth",570.27,2023-12-24 22:27:39,Kota,True
+e2067672-4e44-4b3a-bf82-e48022315a1a,Chakrabarti-Saraf,232.45,2023-12-27 17:42:12,Bulandshahr,False
+dd0f5ba1-0a06-4f31-951c-60b2998d8a07,Tata LLC,163.92,2023-12-12 05:03:36,Khammam,False
+7d5058a5-b8d1-4110-9965-ea7525d2a2cb,Rajagopal-Badami,904.89,2023-12-13 06:45:38,Bhilwara,False
+84267e8e-9e3f-4fa9-ad0c-5d4396d3f359,"Wadhwa, Raja and Ram",58.55,2023-12-23 02:42:07,Vadodara,True
+15118a74-7f6b-498a-87b8-cba880600093,"Cheema, Brar and Bera",338.86,2023-12-31 01:03:16,Pune,False
+08df0d52-3509-4cf1-8a0e-c9a02da392ed,"Walia, Khosla and Sunder",184.13,2023-12-29 23:18:04,Thane,False
+f7e47305-e137-434f-9f98-677887fb3e80,"Bir, Sachdev and Kaul",663.82,2023-12-15 20:25:27,Katihar,False
+177579a1-1329-4c0d-9a1f-4a13cb63e9f2,Kothari Inc,615.56,2023-12-06 20:28:48,Jaunpur,False
+4a9d30c8-464d-4187-8488-72773382ace0,"Kade, Gokhale and Dara",807.76,2023-12-06 00:10:25,Indore,False
+f2d8ce84-a0ad-46b3-92da-d37c14760aab,Tailor Inc,877.6,2023-12-15 05:03:45,Miryalaguda,False
+c72b4c2b-c02f-4bbc-b279-a5e2974691aa,"Dugar, Dayal and Lalla",443.72,2023-12-20 08:31:03,Gudivada,False
+fa0cadf3-b0b2-41e1-9820-768772fc9dc9,Mandal LLC,542.79,2023-12-24 08:41:49,Patna,False
+bf3398a2-553d-4255-afcf-f0586f5a76e9,Gandhi-Ghosh,162.98,2023-12-28 15:44:20,Tadepalligudem,True
+dbad9aca-5db4-4751-a213-b70a3cde5b0b,Apte Group,238.95,2023-12-18 10:52:06,Pallavaram,False
+ddde0e60-cd6e-4485-9afe-4190c79d0203,Dani PLC,892.51,2023-12-09 18:25:36,Jabalpur,False
+197bb3a7-0905-4c69-9be9-9e65a782ba01,"Kaul, Choudhury and Sandhu",884.28,2023-12-09 19:50:49,Ratlam,False
+77f7b938-5c1a-4cc2-a7e9-ecff72d33489,Mangat Ltd,109.52,2023-12-11 16:27:00,Nanded,False
+1a962448-0de3-4428-be2f-e4b60e8b0fa2,Sengupta-Divan,581.58,2023-12-29 09:05:05,Mehsana,False
+c33e2bfe-5d8a-483d-b209-cfc9381bd526,Goyal-Ghosh,599.08,2023-12-14 12:58:08,Bangalore,False
+7c5e0097-48f7-4027-a5f5-c40bf1348024,Tata Group,924.03,2023-12-26 07:27:23,Siliguri,False
+3d62794c-fb7b-433f-b2c9-2365d0347d98,"Agarwal, Chandran and Comar",988.01,2023-12-05 08:25:35,Vijayanagaram,False
+aabfa195-8425-447e-8e1d-13939ba592f2,Krishnamurthy LLC,358.24,2023-12-30 06:14:58,Ratlam,False
+77fa963d-01c6-496f-9ea4-1fe2779ce7d5,Taneja-Ghosh,34.18,2023-12-06 15:32:32,Solapur,False
+1eb28630-f0f6-45c4-9084-0f98b435d0c5,Rattan-Grewal,969.31,2023-12-31 06:04:35,Ratlam,False
+a2a24634-529a-4695-b1f8-e33fb1fcd902,Dutt-Rajagopalan,630.48,2023-12-25 01:59:55,Eluru,False
+425f4f19-bfa6-4bae-a995-b4bb391937af,Bava-Ganesan,235.21,2023-12-26 06:29:24,Arrah,False
+414db308-35b6-47a6-aeb5-e1c4686e0141,Chandran Inc,927.1,2023-12-14 21:00:47,Nagpur,False
+26da1c5b-ca6e-4d4e-b618-a146518351eb,Vora Group,922.65,2023-12-14 10:58:40,Nangloi Jat,True
+934f28ce-5930-45a2-8be1-dfc1d15e68bc,Dugal and Sons,133.11,2023-12-10 01:37:35,Nandyal,True
+d931e158-9ce5-4926-acb9-478ff32fcb35,"Bhattacharyya, Chaudhuri and Rau",676.1,2023-12-28 12:45:24,Chapra,True
+c48342fc-270b-45c5-9e7b-1bcc99657507,Korpal-Ghose,107.43,2024-01-02 21:13:49,Kakinada,False
+a58098d8-52de-4be4-8717-80dea3db4b3f,Krishnan-Gour,613.53,2023-12-15 04:07:40,Karawal Nagar,False
+1cefaeff-ce5b-49b6-ac89-18916c6e8969,Korpal Inc,916.1,2023-12-11 16:09:31,Bathinda,True
+7586009f-38be-47ad-a389-ae559f35e88d,"Deep, Banik and Chakrabarti",410.13,2023-12-08 00:35:11,Jabalpur,True
+2e45f0e9-8862-409d-a82c-8027307a059d,"Choudhry, Shankar and Deep",786.23,2023-12-13 01:17:12,Mumbai,False
+04fa92d8-f26c-45d4-9058-f2d3d139190a,Bhasin-Chakraborty,873.45,2023-12-31 01:49:52,Gandhidham,False
+d24a2980-a4c2-4c70-90d3-13dc550728cd,"Bajwa, Chand and Varty",695.78,2023-12-16 12:44:58,Tirunelveli,True
+004db1d6-4325-4ded-b83c-bcb6ff25d821,"Comar, Lalla and Arora",239.16,2023-12-29 03:24:58,Srikakulam,False
+0ec58043-0af7-4220-8f8a-46563e3ce3ba,Varghese-Ranganathan,274.16,2023-12-16 12:07:03,Ambala,False
+bd53a5d6-1337-4b91-ab38-f86426e05ce7,Thaker Group,218.91,2023-12-30 22:35:28,Secunderabad,False
+bdbaed74-03ce-43e3-b2b6-bcc80054b77f,"Sarma, Wadhwa and Bhakta",950.12,2023-12-06 07:06:29,Aizawl,False
+3ed7f249-ba5d-4e6e-8e2a-1d36a0e6694c,"Walla, Kade and Trivedi",467.08,2023-12-17 11:45:55,Amravati,False
+d2e99ac5-99c6-4cb9-a386-dc9e967f10b3,Gandhi-Deo,674.97,2023-12-10 15:05:46,Tirunelveli,False
+465960ba-d247-41a3-89a2-09a4c039e7ae,Khare-Sami,568.33,2023-12-31 06:06:08,Chandrapur,False
+c9533a01-954c-4643-9bf2-80f4f7b33928,"Mahajan, Chaudry and Saha",495.91,2023-12-27 16:45:00,Satara,False
+dd457d5f-a685-4b7b-8b70-eff56f1a2bdb,Saha LLC,447.74,2023-12-05 17:05:10,Kirari Suleman Nagar,False
+9c70b63e-9d0a-4ee2-a33b-c74c9b7eb902,Saxena-Bhagat,10.4,2023-12-25 20:54:42,Ambarnath,False
+eafb068b-b5ac-4e55-8658-21783fdfa75d,Tank Group,973.38,2023-12-30 18:13:08,Dhule,False
+4a3efe99-c6d6-4b85-9fa1-ad1387fa0a01,Solanki LLC,126.29,2023-12-24 01:03:15,Tirupati,True
+ea6b0c06-27b9-45e6-b7c2-99a91d8d2af0,Balasubramanian-Hari,161.31,2023-12-04 19:02:01,Jodhpur,False
+44c8e2e7-9c53-401d-8239-bdb59c372680,Lal-Sarma,72.89,2023-12-23 02:53:24,Kalyan-Dombivli,False
+7583dfa5-ba2c-4dcf-a949-e11d5e814875,"Sarna, Thaker and Kapadia",81.82,2023-12-17 04:05:06,Ulhasnagar,False
+2c84f85f-226b-43c9-8b91-36a3fbb06716,"Lal, Chander and Sahota",554.31,2023-12-27 03:18:58,Singrauli,False
+7b9409a7-b05e-40a5-8b0e-05eef73d0825,Dara LLC,314.54,2023-12-14 04:32:42,Raurkela Industrial Township,True
+72825ecb-5798-48eb-8516-2145cadc71f3,Goswami Inc,981.34,2023-12-15 20:00:50,Patiala,False
+810ca830-2768-44e1-b1b4-561405f9f1ba,Varghese Group,29.28,2023-12-30 22:36:50,Tadipatri,False
+791bb011-a129-482b-a51a-0b5c54d3932b,Chaudhuri and Sons,989.63,2023-12-20 07:58:34,Gopalpur,False
+6dc750b6-223d-485a-80b9-62cfbeef97b1,"Gole, Lal and Khosla",754.35,2023-12-29 14:41:41,Morbi,False
+7e2779d5-0932-4b4f-bc69-c270318038db,Sagar-Sharaf,705.83,2023-12-13 06:09:00,Bhavnagar,False
+da6d0fea-67a4-4780-8897-024e4652da08,"Goswami, Kalita and Luthra",812.66,2023-12-10 13:35:00,Siliguri,False
+8b6c3cf3-43dd-438b-ad8c-81f6239a2c02,Bakshi and Sons,431.25,2023-12-20 23:13:04,Fatehpur,False
+cb4e2490-5124-4ff5-80aa-4c211d68a7a2,Setty PLC,85.24,2023-12-26 04:06:46,Mathura,False
+c2e1c409-05b6-4ff7-baed-28958e2a92b0,"Kibe, Edwin and Swamy",556.16,2023-12-23 13:15:44,Kolkata,False
+83ada297-b47b-4dec-8545-e5c60c1c7cae,Khare and Sons,84.49,2024-01-02 16:06:17,Patna,False
+d8646823-2ebc-4bd9-a38b-ce6f0c2a6948,Chakrabarti PLC,549.12,2023-12-18 04:29:03,Uluberia,False
+a906e031-7307-48b4-8172-123830dce011,Venkatesh-Ravel,420.74,2023-12-22 03:16:33,Ghaziabad,True
+f7986624-651d-4f55-8b21-af7c617a2722,"Basu, Ray and Shenoy",385.18,2023-12-16 07:10:29,Yamunanagar,False
+e566418d-2876-4814-b5a7-6d877aefa3c3,"Chand, Bhardwaj and Savant",341.84,2023-12-12 02:35:26,Kurnool,False
+f436f69d-ff5d-46b0-adb5-40d211cf76b2,Krishnan-Srivastava,347.82,2023-12-17 06:11:55,Mahbubnagar,False
+9f8b457d-a593-4f25-868f-c858e422288d,Venkataraman-Issac,59.78,2023-12-20 14:59:19,Karnal,False
+4662fd42-24d8-4c2b-8504-e56ad2dfee75,"Chand, Aurora and Zacharia",500.38,2023-12-21 06:26:46,Amravati,True
+e5528f16-17f4-44ba-ae51-7bba132ee737,"Bir, Dasgupta and Lal",768.18,2024-01-03 03:08:29,Rewa,False
+aeda7f1b-0b45-47ad-8bb6-6ea19e681f68,Dani-Dey,557.69,2024-01-01 17:53:19,Sultan Pur Majra,False
+f08ad8f2-5074-47c8-8e62-8666091a2727,Master Group,882.06,2023-12-26 06:47:22,Machilipatnam,False
+d38e6ce7-ced1-41ca-b254-c641c6fde0c7,"Rao, Upadhyay and Dasgupta",456.01,2023-12-24 20:48:13,Ozhukarai,False
+2cef44a4-c00d-4e53-b944-0632ceefb86c,Buch-Loyal,100.0,2023-12-10 08:23:22,Vasai-Virar,False
+88c546b6-6cef-4279-816f-715336dddd86,"Choudhury, Loke and Sundaram",36.7,2023-12-27 22:09:27,Bilaspur,False
+36bf0b2c-d397-4641-bb04-258466a0acd9,Dayal Group,99.23,2023-12-10 07:37:30,Bettiah,True
+9103d24a-4461-488e-a520-d18d4c1ad759,Vig Group,809.42,2023-12-22 10:20:49,Sultan Pur Majra,False
+e429e8ad-33d2-4157-85ec-89c707cba2e9,Solanki Group,307.94,2023-12-24 22:45:35,Allahabad,False
+2074bbda-5a0a-4751-8fc4-745bc030dffc,Varma-Acharya,434.09,2023-12-17 03:45:17,Ulhasnagar,False
+f9e38d0c-6d46-43e5-af33-4449b9cf3959,Barman-Khurana,526.09,2023-12-20 19:28:05,Durg,False
+a624796b-b12c-4cec-83ff-1443bd424738,Bhatti-Gandhi,965.07,2023-12-24 20:12:20,Berhampore,False
+dec1b698-05bf-4b7e-952a-1b50887230fb,Krishna-Bedi,160.86,2023-12-19 18:44:42,Shahjahanpur,False
+8a12cbc3-5321-4a6e-bd62-15b775263ecb,"Kadakia, Talwar and Char",871.81,2023-12-27 06:12:50,Ranchi,False
+a1de8252-91d6-4f59-b2a5-ed017562bcac,Sastry-Aurora,970.48,2023-12-20 20:43:12,Deoghar,True
+fea12152-0ed2-4cc4-968c-98f461b8f4e2,Walia Inc,283.48,2023-12-08 14:19:25,Dehri,True
+8c6c9ca1-2007-4a08-a8c4-c8e0dec8e52c,Chakrabarti-Doshi,178.28,2023-12-07 00:15:14,Motihari,True
+9e0b974d-ba00-4e4c-a52f-4f5bcf2849a3,Choudhary and Sons,629.15,2023-12-13 11:47:44,New Delhi,True
+09728993-0859-473a-8300-a4d220f8ff0c,Malhotra Inc,148.38,2023-12-23 20:07:33,Sikar,True
+f95cf90e-820f-4c1c-8c2c-bf466c24667c,"Iyer, Ratta and Bal",813.29,2023-12-15 22:43:20,Delhi,True
+2cb9eb79-2fee-47b0-9347-b052dbf734c5,Sampath-Lata,555.75,2023-12-05 12:09:20,Burhanpur,True
+b1a9365e-971f-4e6e-a4e7-5d50a8945314,Kala PLC,926.32,2023-12-06 08:31:33,Katihar,False
+1c5489a5-e554-4ae7-b375-6db7bf6b0b59,Seshadri Group,101.38,2023-12-30 00:21:31,Rajkot,False
+d3c2d9ef-4283-49ba-8240-2802f623e59d,Mand-Sura,651.56,2024-01-01 22:39:09,Parbhani,False
+040c909d-8267-428a-bf78-d51bd3c4cc38,"Karnik, Barad and Srivastava",462.36,2023-12-25 02:00:57,Hindupur,True
+c1e5a608-e3cd-43b0-9be8-ee5e0817c228,"Toor, Ramaswamy and Dubey",461.9,2023-12-25 05:22:16,Sirsa,False
+05fd7cf1-01db-4d61-b62a-56eebd326a49,Kothari Group,236.76,2023-12-19 00:43:53,Pallavaram,False
+e20cb4b4-513f-4c7d-a928-1466fd89bee7,Issac-Kata,135.02,2023-12-31 11:59:32,Varanasi,False
+644e05e5-2905-4bf6-90c8-fdf3d50ea683,Dhar-Ahluwalia,20.05,2023-12-23 23:17:06,Mumbai,False
+c676af06-5790-4591-823d-84a31c58b6c6,Maharaj-Iyengar,809.06,2023-12-15 21:40:17,Begusarai,False
+e1610897-075c-43e1-8041-534834c17a9b,"Lanka, Ahuja and Dara",873.71,2023-12-15 20:46:15,Panvel,False
+a6b0e9b4-f491-461e-a964-06af15455d96,Sanghvi PLC,997.45,2023-12-13 12:58:09,Davanagere,True
+ffbae86e-12fb-45e6-b441-c7aca17875fc,Sethi LLC,568.75,2023-12-19 08:53:22,Bulandshahr,False
+529b8c49-b5a9-4bec-868f-e611e5d6493c,Baral and Sons,851.79,2023-12-31 08:21:42,Mangalore,False
+6bfa7ba7-bc96-4664-8c8f-329c322b4d40,"Mane, Balakrishnan and Sundaram",929.81,2023-12-09 12:06:24,Mahbubnagar,False
+491279ff-be23-49e2-b6c2-9e2e5179346d,Guha Group,285.19,2023-12-11 00:29:49,Kharagpur,False
+1adccabb-15c0-46ff-befa-6a99a2ffef9d,Ahluwalia Group,672.76,2023-12-14 03:07:44,Burhanpur,False
+8bea6c96-f19c-425b-92ea-f9f6bb16ee09,Gokhale Inc,246.9,2023-12-04 20:45:48,Alappuzha,True
+d22abb56-5318-470a-83f7-62525785f30f,Bumb-Garg,115.97,2023-12-06 18:43:00,Shivpuri,False
+0f95aed9-71b9-443e-a7a7-fbd985a9e70e,Deshmukh Group,257.03,2023-12-09 13:15:42,Serampore,False
+e48a6aa5-da6a-47fe-a47a-d6e40890673c,Batta Group,659.5,2023-12-04 20:23:51,Bijapur,False
+4eb55935-263d-4657-91be-3945915a9f23,"Bala, Sama and Bansal",783.42,2023-12-10 07:02:45,Surat,False
+a051221d-26f4-429d-ba66-e7574746f1e9,Date-Majumdar,389.75,2023-12-31 06:45:43,Jodhpur,True
+f21adf40-8f97-48b2-9d01-36b5f030d92f,Walla LLC,244.83,2024-01-02 10:27:36,Karnal,True
+9ea6a431-7bd7-4769-a903-5bca55ffce56,"Kulkarni, Shankar and Devan",470.06,2024-01-03 10:02:36,Ghaziabad,False
+23dcb8b5-68da-4964-b2f0-52b2fecac8e4,"Garg, Hegde and Shah",491.13,2023-12-08 05:58:04,Muzaffarnagar,False
+eb67a891-eb2a-490a-8ebe-2f67d0b1bf87,Dhar-Ratti,556.52,2023-12-12 21:53:18,Bhind,False
+f2679ae3-a596-4713-918a-15b74dd72eb4,Baral PLC,110.88,2023-12-09 05:28:37,Guna,False
+f9978c44-81d7-4d07-8777-e06d6b8387fe,Chanda-Dugal,315.84,2023-12-10 21:14:24,Kakinada,True
+0a5d0e0b-0ad0-4b7c-aaad-03d45dbbebf7,Taneja Inc,747.22,2023-12-18 09:49:48,Kolhapur,True
+5ae7159e-98e8-4de1-8b1c-2cfb8440a6d1,Bera and Sons,860.75,2023-12-09 20:44:13,Thoothukudi,True
+8d139655-a0c7-46d5-ba92-0243bfb8a7ab,"Rajagopal, Saha and Bora",698.57,2023-12-10 23:38:38,Nagercoil,False
+a434e73f-7bbc-472c-ba2f-b09f98ed7046,"Sawhney, Gokhale and Shere",454.13,2023-12-27 10:04:00,Khora ,False
+72ff2110-1ff6-4631-9f24-d65504600c67,Deol and Sons,641.28,2023-12-17 16:00:16,Munger,False
+c7887699-fa41-4269-bf08-538d0c7f96e2,Vasa Group,693.7,2023-12-17 17:54:28,Kakinada,False
+0277a6a3-ec32-4c75-bbf8-2c9bb3a2d6d9,Kar Inc,750.01,2023-12-13 16:15:30,Udaipur,True
+c24a08fc-5711-43b9-9250-da00b0f2c533,Rao Group,193.3,2024-01-02 07:50:57,Jammu,False
+d7ed81ff-f6d1-420e-a671-275b32a76aa1,Bail Inc,873.99,2023-12-11 14:32:29,Pune,False
+4729f12a-91d7-41ee-923d-03e7cb9d5bdc,Shere PLC,256.17,2023-12-31 17:42:35,Mahbubnagar,False
+57254854-319c-489f-b18d-537fa4ab1d44,Sandhu and Sons,755.94,2023-12-23 01:52:05,Nagercoil,False
+e79101e9-ce30-4195-83db-3d55c9ac97ba,Dave-Borah,970.7,2023-12-08 23:18:57,Kottayam,False
+08856975-e531-4f9a-b3a6-21114637b658,Rajagopalan and Sons,844.42,2023-12-11 05:15:43,Amaravati,False
+8d8710c3-cabf-48ef-9a6c-b2ba89cbdc77,Dhaliwal-Ravi,593.37,2023-12-21 21:52:25,Gorakhpur,False
+93db96dd-92ed-40f9-8791-fe7cae32a3de,Sheth Group,66.59,2023-12-24 16:36:11,Ludhiana,False
+894fa3e6-54a3-4b86-8c5a-32674cff70bc,Sinha Ltd,640.25,2023-12-31 12:54:04,Varanasi,True
+97d537fc-3ec6-4877-9739-f297bc090aeb,Soni PLC,832.17,2024-01-02 14:33:53,Raurkela Industrial Township,True
+f7f81483-27fd-41a2-9072-377dd163b4be,Mandal Inc,270.11,2023-12-24 03:23:00,Kharagpur,False
+804c7c46-67ce-4941-87f3-ba0223865204,Tiwari-Wagle,529.39,2023-12-25 22:49:57,Vasai-Virar,False
+7dfc6465-914d-4b68-94bb-6a8f6e768c5c,Gill-Sarma,863.06,2023-12-09 23:16:54,Kottayam,False
+c26c10fb-391e-4507-a27d-2b9ec73f687c,Rama-Agarwal,68.05,2023-12-09 14:08:53,Bhiwandi,False
+54cebb99-6e0e-4aaa-8e00-00c682796443,Dugar-Sarkar,30.18,2023-12-13 11:43:18,Davanagere,False
+1750b91b-73ae-49ec-ae91-167ed0e48130,"Anne, Ratta and Yohannan",466.83,2024-01-01 12:08:01,Dindigul,True
+afa592f3-c279-4247-86c6-b6a41a50fd20,"Sathe, Gade and Garg",702.47,2023-12-23 20:12:51,Bhusawal,False
+c1bbbb28-9e48-40f2-a536-a9311f66409b,Kaul-Chahal,546.77,2023-12-07 20:03:04,Chandrapur,False
+56390986-55ee-4f69-a523-315feceb2efa,"Grover, Korpal and Wable",207.37,2023-12-21 08:49:07,Maheshtala,False
+f81382d5-678a-494b-89de-dee29f5f9073,"Dhingra, Hans and Kade",470.34,2023-12-24 05:42:52,Madurai,False
+85cfe125-3714-4da6-8f16-85363dd36d7f,Agate PLC,847.64,2023-12-30 23:37:13,Agra,False
+598a651a-ec43-49bf-b91e-32f513100556,"Shankar, Shroff and Ratti",430.89,2023-12-25 23:02:47,Anand,False
+67a6d4da-da2e-4416-a7b3-5ee035403783,Walia-Cherian,854.19,2023-12-24 11:04:05,Pudukkottai,False
+94c61ee1-0782-48a5-b704-1565637c4bd8,"Badal, Tak and Buch",227.13,2023-12-25 06:40:19,Bidhannagar,False
+1abb6783-ebe4-416e-b20b-a571d685ca7f,"Lala, Bhardwaj and Agrawal",163.25,2023-12-10 22:47:34,Tumkur,False
+e1f8dfb7-177b-44dc-b934-d89136ba6291,Ghosh PLC,165.86,2023-12-07 14:22:27,Guntakal,False
+66427d60-0ae5-4439-9b8a-589e3f45c3c6,"Atwal, Bhattacharyya and Kurian",202.18,2023-12-12 06:26:55,Fatehpur,False
+29842f8d-8bab-4921-8ad4-5810ce4de29e,"Khare, Rastogi and Shankar",700.44,2023-12-24 16:54:03,Kota,False
+1df99df6-809e-476c-b49b-9a63d60844d2,"Atwal, Bains and Dubey",672.29,2023-12-26 19:16:06,Pudukkottai,False
+a7cfb5f5-4462-43a5-94a9-4b88c5d69654,Zacharia and Sons,645.07,2023-12-04 19:37:38,Pallavaram,False
+fa0d4b81-63f9-4dbe-98f9-1348f406309f,Badami-Dhingra,976.84,2023-12-21 13:44:31,Tirunelveli,False
+fc76afaa-b43e-407d-853b-7db7a57c9ee5,Basu-Acharya,861.04,2023-12-06 18:34:23,Mathura,False
+6b75a07e-40fa-4b53-b0b3-f01b2e5bc4bd,"Issac, Thakur and Roy",183.88,2023-12-15 12:33:00,Thrissur,True
+0735108b-3841-488b-9350-cc899538fc79,Kohli Inc,201.2,2023-12-24 01:56:42,Thrissur,False
+cfa4feb2-4203-442b-8471-26a9b4c776cc,Datta Group,310.8,2024-01-03 10:36:46,Rampur,False
+6621efec-2ce4-4def-938d-048f5ce0d277,Dutt PLC,913.7,2023-12-25 06:51:32,Ahmedabad,True
+2a02c667-2949-492d-bd0e-9da0f0b69319,"Chowdhury, Ganesan and Lad",768.16,2023-12-11 10:14:17,Guna,False
+a891c917-6dcc-44ee-b0f3-cd5395468b0f,"Som, Choudhary and Rastogi",424.94,2023-12-04 18:55:08,Jalna,True
+ceefda51-b5df-44b4-83c1-017713c5b98c,Atwal-Ganguly,709.35,2023-12-09 10:36:14,Aurangabad,False
+5a72877a-ebd2-447a-9177-c9dee72e73b4,Bhatnagar-Kant,78.52,2023-12-29 02:38:51,Vadodara,False
+29ef35ff-3917-4659-831d-463bee02025c,Seth-Basak,706.5,2023-12-19 17:03:27,Belgaum,False
+8eece1ea-d4b3-4ff0-9947-e4b5ee5cf2fe,Kalla Group,488.38,2023-12-29 02:23:08,Agra,True
+ceb0cc65-6a58-4585-8b8b-060d79e500b2,Comar LLC,156.61,2023-12-19 14:24:41,Giridih,False
+c94acd38-fd32-4775-bbb4-e7c935c36fcf,"Ravi, Ben and Dhaliwal",998.47,2023-12-17 05:59:47,Anand,False
+25393ec4-207a-4b74-aea2-ead56c2f03bb,"Chander, Mangal and Sandal",934.91,2024-01-01 12:08:33,Morena,True
+013e927d-cb01-42cf-ae55-1c8c8d634875,"Soni, Dhaliwal and Hans",370.58,2023-12-09 23:19:41,Siliguri,False
+e65e127d-a966-4996-9a25-3dd048efaeb8,Chahal Group,616.53,2023-12-31 19:01:36,Howrah,False
+42d3f3db-270a-4408-aa6d-15c197a0df00,"Varughese, Shankar and Seshadri",102.28,2023-12-30 19:05:53,Buxar,True
+c8838d36-c0f0-4401-a45f-dd00b845bc97,"Balan, Dhar and Thaker",490.78,2023-12-17 16:01:33,Madhyamgram,False
+79f9ada5-5612-4cb9-a3ef-104841c92cb8,Bansal LLC,971.77,2024-01-02 09:21:43,Kakinada,True
+117a1e88-d139-4484-ae5c-3cdaef12346b,"Sahota, Walla and Subramaniam",257.6,2023-12-11 17:39:28,Bhilwara,True
+ef92edf8-cf00-42c9-895d-1acceb8e5549,Chaudhari-Bandi,980.44,2023-12-09 07:16:00,Ahmednagar,True
+41c958f0-7ab5-478c-b4c8-3f902e39da65,Mane-Anand,673.78,2023-12-25 13:13:50,Ongole,True
+206727d6-743a-49e3-9d2a-01d09932d60c,"Kar, Mander and Sharaf",356.46,2023-12-04 21:58:43,Karimnagar,False
+6825f244-558b-47ee-b75c-92c998ecf87d,"Verma, Uppal and Kaul",478.45,2023-12-20 02:04:14,Mysore,False
+6cfd84cf-34fd-4238-8c1a-afae75f8c0e9,"Dugal, Sem and Sastry",186.78,2023-12-30 18:52:58,Saharsa,False
+8cf2d74b-74db-4618-a4b9-6747c0bea041,Shetty-Bala,115.52,2023-12-28 12:40:52,Ramagundam,False
+cb2aa382-0ea1-444a-9294-046692d932fe,Mangat LLC,77.74,2023-12-06 18:53:47,Rampur,True
+4c9da6d0-6caa-4867-9720-961dd6e78e0b,Walla Ltd,390.85,2023-12-10 09:17:27,Kanpur,True
+ca19c6d4-27bc-4389-a3b6-1d5639f50ac8,"Gulati, Gara and Sarkar",869.78,2023-12-23 15:50:43,Gulbarga,False
+54e169be-45fb-4342-bc54-30cef3adb0bc,"Swaminathan, Manne and Sur",527.55,2023-12-19 18:40:00,Rourkela,False
+f30449f5-4d26-471f-bfc5-5096121ee3cc,Sharma-Lall,11.67,2024-01-02 11:06:18,Thanjavur,False
+28f00819-2f5e-47d3-86be-2f657877829e,Kaul-Sarma,174.65,2023-12-18 14:10:57,Udaipur,False
+32089540-1803-489c-932f-11fb853c556f,"Tak, Rau and Dhar",664.57,2023-12-20 23:26:35,Jamalpur,False
+7f02d3a1-5fe5-4c84-807e-1d2d9e703c4e,Khalsa-Kara,219.54,2023-12-05 23:47:01,Bilaspur,False
+513ff68b-996c-48ef-aa47-c71b24ebd25e,Sengupta-Ramachandran,696.74,2023-12-12 13:24:32,Chandrapur,True
+56780e0e-8513-410e-965a-ec7c5b56d933,Sood and Sons,998.91,2023-12-18 09:19:35,Sikar,True
+59396fa0-1d03-4e80-aad3-2915b59166dd,"Tiwari, Rattan and Rajan",220.0,2023-12-17 07:51:29,Sirsa,False
+bd7d411d-2887-48ff-a17c-fe49b97dcf0a,Karpe-Barman,865.71,2023-12-25 10:00:25,Kolkata,False
+1da7d4ec-2811-48f7-9bdf-271436255fff,Bains-Kari,134.96,2024-01-02 14:29:43,Rewa,False
+54b3112b-4851-4b5e-b259-fecd35b7a286,Subramanian LLC,995.2,2024-01-01 22:36:46,Ambarnath,False
+b12f4f49-debc-427a-abca-f9e2f672f2bf,Kapur and Sons,578.32,2023-12-20 02:21:11,Dibrugarh,False
+e470cd2f-a7e8-4e7b-acbb-cf42e220fd4a,Wagle-Swaminathan,108.03,2023-12-25 17:09:59,Orai,True
+506a9477-f220-40a3-9654-df3a6ee08af6,"Kumar, Malhotra and Sant",690.51,2023-12-18 12:04:58,Pune,False
+3661c476-51db-4513-80bd-d15b962861be,Karpe-Bajwa,189.67,2024-01-01 20:15:18,Gudivada,True
+0cf81afb-89df-404e-aca2-0371fe035482,Mahal LLC,758.88,2023-12-12 19:21:15,Jaipur,True
+17c73610-5666-4f5d-9adf-83919d46db11,Loyal and Sons,697.01,2023-12-15 04:00:10,Surendranagar Dudhrej,False
+6f24c773-6667-440c-a0cc-59bb36cbc5a5,Lall-Bose,719.03,2023-12-18 05:51:11,Karawal Nagar,False
+70f7385b-0655-4a5c-8ea1-a9d759e00f4f,"Chokshi, Iyer and Kari",253.75,2023-12-21 17:12:43,Hindupur,False
+9c416959-c434-4d6a-b104-a6ecde83b641,Kota PLC,56.65,2024-01-01 11:22:53,Karnal,False
+d70d2d77-0afd-4562-86b9-c16f3af49998,Goda-Dugar,449.24,2023-12-30 06:24:53,Kolhapur,True
+a23ce7fd-9013-4542-aac9-af9d3444b814,Sachdev-Chad,786.77,2023-12-25 16:14:11,Gorakhpur,False
+88ae3990-3e1b-4d16-a24f-1f417eb322d9,Cherian-Vasa,475.8,2023-12-30 17:59:24,Tirupati,True
+b9bc09ff-b8f6-4842-98a3-2afa3269209f,Sarna Ltd,722.56,2023-12-06 00:24:38,Ujjain,False
+c240af90-ea8e-426f-894b-26c6168fb585,"Bedi, Walia and Ganesh",921.72,2023-12-15 11:28:51,Kolhapur,True
+72959d7b-f033-43a7-808f-51bcd0a8ebf8,Dhar-Karan,162.82,2023-12-08 03:29:56,Ambarnath,True
+03d8c5be-b7d5-46ff-aff6-f39051621939,"Sathe, Bhargava and Ghosh",936.16,2023-12-14 00:36:53,Siliguri,False
+6a4710c3-8adf-4028-bd4d-9f85b2e47302,Ahuja-Bahl,19.57,2023-12-16 14:16:19,Raurkela Industrial Township,False
+d9713a0a-2bc4-4afb-838a-d71301490ca3,Mahal Inc,512.66,2023-12-16 08:55:44,Kolhapur,True
+bbfa7c02-1022-43d9-ae98-ce12ca29d9af,Choudhary PLC,976.44,2024-01-01 23:53:41,Berhampur,False
+2fc8e5e9-d2b8-4637-8345-04c8cb8614a0,Ganesan Group,693.71,2023-12-12 18:53:50,Raiganj,False
+878c96ee-eb75-4a97-9fcf-fe66f53e131c,Mammen-Sharaf,849.54,2023-12-26 13:35:12,Warangal,False
+d718aa55-8ba1-41ab-9b79-90a06b8d9e7d,Sarkar-Hayre,95.8,2023-12-25 21:07:54,Kalyan-Dombivli,False
+ed482955-93d9-437d-9363-f3cea1fb438c,Dave-Lal,318.84,2024-01-01 13:39:04,Secunderabad,False
+e5c71cb7-111b-47e3-ae75-a09e75e28fc6,"Kunda, Walla and Mand",984.32,2023-12-16 17:50:44,Raurkela Industrial Township,False
+32f987d5-70e9-49cc-a8f2-caaaf450f309,"Sami, Bora and Mani",619.36,2023-12-06 19:53:03,Gaya,False
+98fd4158-d4eb-48bf-b0f7-bf398468c509,Gulati-Kakar,806.59,2024-01-02 09:09:55,Bokaro,True
+214596d1-94c7-4473-973b-51fac8ebba0c,Dara PLC,950.54,2023-12-14 01:01:08,Pondicherry,False
+fd709c4e-8dfe-4805-acd1-234a6bf2d428,"Golla, Raja and Mangal",495.97,2023-12-25 03:58:03,Bidar,False
+6932b904-8bdc-44c2-a67c-f51f7b5a5b3c,"Sridhar, Mannan and Chandra",739.2,2023-12-26 18:32:03,Nashik,False
+fb71dd23-b5d1-448d-885f-88dc9c99d416,"Chacko, Sidhu and Master",346.85,2023-12-28 21:18:59,Jhansi,False
+31fccc56-6792-46ca-9c7a-8e4d2470fe74,"Krishna, Barman and Hari",202.49,2023-12-24 07:29:47,Haldia,False
+9b48857b-c82a-4d35-b959-962b1cdccce5,Aurora Inc,837.67,2023-12-25 08:57:55,Udupi,False
+5e8a66b7-bad1-4073-a81b-fb3616d02eec,Raval Inc,226.45,2023-12-12 06:31:41,Thiruvananthapuram,False
+736f34d0-2e51-433f-ae58-c5872d75aecd,Aurora-Dalal,588.24,2023-12-28 03:13:51,Kanpur,False
+a393d563-ca2e-4a33-bb36-ef33e5d79ff5,Garde Inc,136.01,2023-12-08 13:23:56,Munger,False
+2160a39e-660c-447a-a5de-e99758adb395,Bhakta Ltd,933.93,2023-12-23 19:20:21,Ujjain,False
+df59d9d0-d33e-41b8-b94c-04d39e466af7,Bera PLC,330.04,2023-12-09 04:49:46,Sri Ganganagar,True
+5f34658a-e437-488f-9de7-809f51347553,Tak-Rajagopalan,17.74,2023-12-10 01:38:38,Bhind,False
+cd474ed3-daec-41d6-b412-f27a73271ac8,Swaminathan-Guha,384.75,2023-12-23 05:09:33,Danapur,False
+c9a6eaa3-ae1f-40a3-a282-40aebdd83246,Chokshi-Sarkar,821.11,2023-12-06 14:27:04,Jamshedpur,False
+c494d565-351c-430c-9d50-367400c26cfe,Mahal Group,657.44,2023-12-18 12:52:29,Hyderabad,False
+5bcfa5f5-288a-4898-a8cf-002a92e2feb0,Ramesh-Dutt,298.35,2023-12-05 13:27:40,Coimbatore,False
+44f83e5a-70f1-4bd1-aba4-339543c4b6ae,"Deshmukh, Roy and Ghosh",639.23,2023-12-22 20:08:41,Bikaner,False
+14bf094f-4043-4577-80dd-4c1a71447d7e,Chand Group,797.39,2023-12-09 16:38:03,Ballia,False
+90ea3fb9-e2f7-43c9-a1f6-6f680e0c80a5,"Vyas, Talwar and Ganguly",402.69,2023-12-08 20:01:42,Avadi,False
+003b228f-c27f-4fc7-9eca-b969b2a9d408,"Lanka, Sabharwal and Shukla",428.78,2023-12-24 05:17:37,Ozhukarai,False
+58b4edf6-d9ec-49b9-88d8-2493c2da49f5,"Bawa, Jani and Divan",136.35,2023-12-22 13:03:10,Coimbatore,False
+8b317c4b-cfc6-486c-8000-1c5046d7a4a4,"Kant, Bhalla and Agate",426.24,2023-12-24 04:27:08,Jalandhar,False
+55cc7579-fc67-400b-bca1-12b2809ff61e,Goda-Sehgal,731.79,2023-12-25 09:12:58,Erode,False
+5efd5166-5e1b-47e4-9d88-d9c5570612a2,"Zacharia, Zachariah and Ramaswamy",782.32,2023-12-29 00:52:17,Anantapuram,False
+d76a45e6-8ce0-456b-8af6-9edbbe051f1f,Roy and Sons,643.03,2023-12-15 15:01:42,Ambala,False
+6a5561f1-127f-471c-80ff-215156ed1924,"Handa, Dhingra and Bassi",717.86,2023-12-28 01:17:58,Sri Ganganagar,False
+16b94444-2cb1-4d17-9644-985a5f79653c,"Ganguly, Devi and Mahal",262.77,2023-12-26 03:06:54,Nellore,True
+2c81de42-9d61-4eeb-947f-6cfa66673700,Devan-Babu,709.89,2023-12-05 10:36:08,Sambhal,False
+71d132b7-8ac7-47cb-ab80-569e743596b7,"Sastry, Roy and Varughese",414.03,2023-12-31 09:00:54,Katni,True
+1b7a63a3-f667-4ca7-9ea6-958439256af8,Chandran Inc,535.05,2023-12-10 08:51:54,Tadepalligudem,False
+c74b54d9-f94a-420a-9b0c-e63120728b49,Samra and Sons,300.43,2023-12-06 08:02:15,Bihar Sharif,True
+e764643e-bc6a-49ef-a266-b1741b8c819f,"Bakshi, Babu and Kuruvilla",166.17,2023-12-09 05:06:32,Vellore,False
+c80a8d06-cd46-4a9c-a92d-e1593c9414dd,Viswanathan Ltd,540.51,2023-12-07 23:02:54,Jamalpur,False
+d2a7a21f-a74d-4228-8762-d8a286d3412e,Sarna-Sura,427.7,2023-12-05 21:21:34,Ghaziabad,False
+3972522c-3c06-43fe-8387-75924d076d46,"Mall, Sathe and Contractor",142.95,2023-12-23 08:21:03,Narasaraopet,False
+0f9fae7f-c61e-46b4-903f-392288c883a0,"Varughese, Brahmbhatt and Varty",136.17,2023-12-20 22:18:30,Chennai,False
+25e5da52-73b2-40fb-bccb-8c5f9db979bf,Wagle-Garde,996.14,2023-12-19 13:04:07,Jhansi,False
+7e7f7e43-36a7-4527-ab09-d43585e63f84,Dara-Bhatia,873.66,2023-12-16 16:08:00,Guwahati,True
+64f62ff6-0526-428b-96d3-b75241ca2d48,Ramanathan Ltd,540.87,2023-12-20 07:16:12,Bidhannagar,False
+27cddbc8-7ec7-457b-b365-8ef4b5ae001e,Dara LLC,242.85,2023-12-13 09:49:20,Mau,False
+79711ea3-d375-4689-b842-99bd90acf733,Sodhi PLC,163.01,2023-12-26 06:48:18,Morbi,False
+c7d28bf3-8db8-4b72-8885-0609e3481b61,Konda Group,931.51,2024-01-01 12:19:55,Ludhiana,False
+585510e9-5c70-43e5-a182-b00ed8dd942e,Issac Inc,576.2,2023-12-04 14:54:33,Siliguri,True
+e1bf3a24-46c6-4c6b-afdf-75eb48a57cda,Khanna-Kurian,207.22,2023-12-28 13:43:30,Mumbai,True
+73f1ce2a-24ff-4f0b-9d65-132561aa12e7,"Sankar, Grewal and Mane",957.64,2023-12-23 16:22:00,Durgapur,False
+b861292c-2473-4507-b1d6-ed401929cc73,"Brar, Ahluwalia and Sibal",579.06,2023-12-31 12:25:15,Tezpur,True
+f7b4fa13-0eab-4f9a-9875-4ab36a9c1888,"Lata, Sinha and Sodhi",852.44,2023-12-09 14:31:48,Tinsukia,False
+816adfcb-d44d-4c15-b7d8-23175e1d2e15,Bala Group,543.99,2023-12-18 16:42:54,Buxar,False
+74f95d06-90fd-4fd9-934e-f0a585a2d52c,Gade Group,732.63,2023-12-22 02:52:54,Kavali,False
+9feb20e1-ade8-4bcb-9abd-1ca380eef9c4,"Kamdar, Soman and Sharma",584.18,2023-12-21 07:20:51,Gandhinagar,False
+ecd1eac6-3189-4ada-bdf0-d3598ca42907,"Khatri, Edwin and Gulati",702.74,2023-12-18 03:18:26,Raipur,True
+9846823c-46e0-4902-9418-3cf0967bfad4,"Kapadia, Sarma and Karnik",573.51,2023-12-25 07:38:44,Aligarh,True
+225a55ea-ffcf-4941-acc3-fcfbfce8250b,Sinha-Lad,227.23,2023-12-08 06:42:15,Bongaigaon,False
+74c356ab-8ee4-4b1f-8552-53fc3c364e0a,Vohra-Keer,217.98,2023-12-13 04:46:23,Ambattur,False
+7e7f932d-f87c-4575-864b-7b9e7d327a0b,Desai LLC,822.54,2023-12-07 04:07:07,Kulti,True
+5c6e3710-a92d-4c74-9f17-c81c4f53054a,Gill-Swaminathan,720.44,2023-12-29 10:49:16,Tirupati,False
+1a2ff4db-09fb-490a-b44c-b5ae207fdfdb,Gole-Chaudhuri,915.4,2023-12-28 14:41:54,Machilipatnam,False
+bf8cc2b1-f607-4151-af63-ecebe2b45d2c,Chanda PLC,290.01,2023-12-10 12:50:02,Hajipur,True
+f2f8631b-d35a-4c56-bbee-c90c9969239b,Tank and Sons,67.35,2023-12-30 09:30:18,Secunderabad,False
+c6b7b28f-707a-423f-ae2d-9a6fc4245495,Sharma Inc,39.5,2023-12-10 22:25:43,Bhilwara,False
+d64c5a10-e5fd-4ffd-9f07-d6a216459cf1,Khanna Inc,832.42,2023-12-25 08:05:20,Bellary,False
+d48eb9be-0fb6-4610-9213-03fced994ec0,Korpal LLC,967.6,2023-12-18 00:22:37,Raipur,True
+f9ec0087-fba3-4479-9b74-0e373508e18f,Sandhu-Mangal,49.46,2023-12-11 10:14:16,Hindupur,True
+efa8d081-e0b1-479a-89ac-7341442317b9,Som-Walia,305.57,2023-12-08 06:25:52,Rohtak,True
+c8c2f8df-ccf3-400f-83b1-96f23fe02b38,Gola Ltd,144.34,2023-12-27 08:58:08,Ahmednagar,False
+1dd51f2c-044c-41e9-9421-1f50bd1a7052,"Kari, Raj and Gola",320.54,2023-12-11 23:56:39,Bhind,False
+c579a307-8972-43a6-ad22-ea74cf4c28d7,Kibe-Rau,940.96,2023-12-12 22:12:42,Ahmednagar,False
+8f99f39f-d22d-4160-b0e6-dba675f66f20,Taneja-Chhabra,928.4,2023-12-12 05:07:25,Bikaner,True
+3cdcf198-a289-4093-988c-3718b175c67f,"Sengupta, Kalita and Dash",704.17,2023-12-31 22:15:17,Panchkula,False
+7d32fe85-db91-46a8-9efd-56bca0d6dbae,Sankar and Sons,962.91,2023-12-17 07:59:57,Satara,False
+9b551438-a0a7-4b3a-87cf-deeabc25b3bb,Shan LLC,557.83,2023-12-12 13:00:48,Bulandshahr,False
+cab27296-e0ab-4007-acca-06899afe2514,Jain Ltd,654.99,2023-12-31 10:49:02,Amroha,True
+5e8fd182-d9de-40ef-9d1f-98b9f5e04a3f,Ramakrishnan Group,973.42,2023-12-17 09:11:20,Ranchi,True
+db3c9c1c-b1be-43a3-b681-c3c5125c2ad3,Dara Group,456.0,2024-01-01 22:22:02,Satna,False
+f948616d-7456-4b86-9820-c29188e008f2,"Shan, Banik and Tella",626.03,2023-12-17 08:28:32,Karnal,False
+52e3b78e-59ed-47ca-9a68-daf32e21ef9d,"Dua, Tank and Agate",658.88,2023-12-24 10:16:18,Karimnagar,False
+564d7952-2347-4b77-8b9e-57a111d99c87,"Ram, Bedi and Yogi",106.22,2023-12-14 00:15:00,Alwar,True
+02be6ddd-abc5-461e-9394-6d1631604b85,Tata-Brahmbhatt,575.33,2023-12-22 12:43:57,Arrah,False
+634a962b-dc2a-4dc3-b6b8-1d7f2803a88d,"Tara, Soni and Dhar",861.56,2024-01-03 07:55:47,Mirzapur,False
+5118b77e-f38e-4456-85d5-1f0ff624a685,"Khalsa, Choudhry and Baral",580.82,2023-12-05 05:35:47,Serampore,False
+a8c754ff-8061-4d7b-b13d-720a5f26b0df,"Keer, Shere and Gupta",875.45,2023-12-14 19:13:29,Naihati,True
+8e46f0e0-8b15-45d2-89d3-112549eac793,Contractor-Chad,859.16,2024-01-01 15:29:35,Kanpur,True
+c5c96cef-77b8-4d78-b0c3-c55186bab3d2,Gola-Badal,906.37,2023-12-10 22:15:00,Sonipat,False
+f25ead4e-a340-4d98-8db0-7ecd6c91910a,Chawla-Sagar,653.39,2023-12-14 02:24:20,Katihar,False
+226ec612-dadb-4ed9-88d3-3496c7f3c845,Bali-Kunda,913.5,2023-12-27 06:52:10,Durg,False
+feffd400-ce87-40a5-ab12-aab6aa0e0f7d,Vig PLC,858.16,2023-12-12 20:12:34,Sambalpur,False
+e01220a4-c1f8-4987-ba97-ceb105ded4e2,"Aggarwal, Malhotra and Dasgupta",55.37,2023-12-13 05:54:48,Lucknow,False
+33fead66-1b15-4fe4-8943-ec87a26cc205,Sandhu-Chanda,60.08,2023-12-24 03:02:49,Howrah,False
+6831d38f-6d43-4fe9-a170-aca30d004d4a,"Kara, Samra and Sarin",764.89,2023-12-13 00:24:51,Madurai,False
+7f2735b4-d3f6-4112-a72a-338b07c3e067,Bains LLC,285.76,2023-12-21 08:27:17,Eluru,False
+20f58c14-dc1f-4ed3-a13d-d2980c13a299,Kumar-Rege,441.48,2023-12-31 06:25:51,Gurgaon,False
+4e695c35-cbb4-4ca5-8f5d-42863615c202,Datta and Sons,24.01,2024-01-02 17:40:48,Pondicherry,False
+c9fc68a8-fd7c-4f79-838b-fbe9dfdaf71f,Sampath-Sura,105.75,2023-12-28 00:47:05,Nagaon,False
+4f9d7787-3ae3-42da-87d3-a3e95928f1be,Magar-Kuruvilla,117.26,2023-12-27 22:10:11,Pali,True
+55025d2e-e958-491b-97a8-5dedc799692e,Chatterjee-Doctor,206.85,2024-01-03 02:33:59,Cuttack,False
+a244be46-b211-4315-8158-df4814f1d84b,"Goyal, Gill and Amble",302.16,2023-12-09 15:12:52,Jalandhar,True
+20449f89-8afa-476d-94bb-6c75cb9048d1,Ramesh and Sons,535.85,2023-12-19 19:23:59,Gangtok,True
+7641b3e6-e63d-4cfd-bf2a-e23e8ac3f8e5,"Borra, Kaur and Aggarwal",661.08,2023-12-22 15:19:52,Sri Ganganagar,True
+0d913332-bfbe-43f0-ba41-40870e1eaccc,"Tara, Thaker and Mane",550.67,2023-12-06 11:09:31,Bikaner,False
+25c160ca-5f7d-445e-b3ea-ebcfbec28868,Hegde-Goswami,951.28,2023-12-23 05:24:54,Anantapur,True
+6d44fe7f-14c8-490b-9466-b09978da1cb7,"Wable, Kapoor and Sharaf",89.64,2023-12-20 09:10:38,Tiruppur,True
+cd86c998-26ec-48bc-8ec9-d91d29759b76,Sen Group,750.5,2024-01-03 07:20:51,Jalandhar,False
+1e88fbcf-7091-43df-874f-b4b53fcf5d73,Aurora Group,885.39,2023-12-12 21:20:22,Bettiah,True
+d4b827be-02ca-49e3-8d5e-d868f98c4863,Bala LLC,585.74,2023-12-10 08:34:16,Agra,False
+02fe285b-3b37-4940-8461-bfc5d1907df3,Desai-Bhagat,538.79,2024-01-02 20:50:47,Bulandshahr,False
+0bd34456-d8fb-46a1-b73f-5454afe8d910,"Bahri, Subramanian and Deep",326.51,2023-12-09 00:43:20,Vijayawada,False
+4c6c53ac-7174-4636-adcb-1f012a5287e1,Cheema-Das,89.31,2023-12-12 00:24:55,Gangtok,False
+32610950-34cc-4058-9e80-65f58be569aa,Bala PLC,137.11,2023-12-27 12:39:37,Sagar,False
+c06a623e-0da8-4954-97f8-bfe368e0afef,Raja LLC,607.22,2023-12-10 15:48:31,Udupi,False
+5d3008ae-ccb4-44c3-aec1-90b0cf1a07a3,Suresh-Baria,623.51,2023-12-17 12:47:37,Bharatpur,True
+b398a4d7-e332-4f67-bb8f-975d214e7b96,Kannan-Mammen,283.51,2023-12-19 05:11:50,Kolkata,False
+f34d08c4-aef8-4a2d-b5b1-06fc1ed3d6f5,Balasubramanian-Gour,553.73,2023-12-06 20:37:53,Aligarh,True
+edd76d93-d2b4-419d-b8f4-5e182412f2e5,Sahni-Korpal,124.02,2023-12-23 22:08:41,Durgapur,True
+513b34d2-0047-43cc-ae4d-103011acd172,Sangha-Sachar,59.72,2024-01-02 02:49:04,Etawah,False
+9cced7f6-6226-44c5-8ee8-ace30df463b7,"Ahuja, Deshmukh and Cheema",835.41,2023-12-09 19:42:25,Korba,False
+5a7fd53a-92fc-491b-b3ec-84cb8f98f959,Khatri-Bath,958.59,2023-12-13 09:10:28,Dehri,False
+aec11613-b142-44d9-8e78-b48d746ad0e3,"Choudhary, Varghese and Lall",391.34,2023-12-07 06:00:20,Sasaram,False
+33884b30-5cb5-4567-a9d0-74a018fdd86a,"Thakur, Hayer and Shroff",700.52,2023-12-07 02:53:34,Kollam,True
+50bbd30d-54b5-4f0c-ba8d-0dc62a5e7bcb,"Agate, Tripathi and Rastogi",980.14,2023-12-12 00:07:01,Jalandhar,True
+4bf77c52-32d2-4d7c-b86b-7340aac7576a,Garde PLC,427.66,2023-12-04 14:14:11,Rourkela,False
+3db6fef4-cc75-4d93-8e52-df395d4f540d,Srinivasan-Gala,610.25,2023-12-08 13:28:50,Hyderabad,False
+83ba8e43-e20c-45aa-839c-3865447d447f,Chowdhury and Sons,246.3,2024-01-02 12:20:54,Bhagalpur,False
+4bb7e8fd-3ef0-441c-a3ed-1edf9280178c,Cherian-Atwal,804.21,2023-12-20 18:17:55,Nagaon,False
+2c3c92e0-c15d-4399-9522-e283bbe1ec3d,"Zachariah, Toor and Gill",34.77,2023-12-18 22:52:20,Jamshedpur,True
+2c6d5d4e-c724-46d7-b3cb-ee6b7e2395b1,"Dugar, Chana and Mahal",825.62,2023-12-09 12:17:10,Srikakulam,True
+bfdfedaf-ae71-4d83-808e-8d08562927e9,Ben Ltd,993.98,2023-12-04 20:38:42,Erode,False
+41eddaa5-3cf0-4cd1-9212-bc247be9a4f0,Golla-Dada,565.79,2023-12-13 21:14:57,Karimnagar,True
+d98f1971-dd0b-43d1-bce9-1ec304a527fd,Kale-Garde,862.1,2024-01-01 12:49:37,Bardhaman,False
+9de7ef5c-320c-460d-9515-c13d748b1155,Bandi-Chaudhary,952.01,2023-12-31 11:03:17,Ballia,True
+22f341ca-7614-478b-8d45-2971193af7ff,"Sathe, Bera and Krishna",684.89,2023-12-10 14:23:18,Srikakulam,False
+a2285949-3edd-4d61-b6f3-9d69ac3c9d4b,"Rout, Iyengar and Bal",441.13,2023-12-15 01:33:57,Mathura,False
+4fa92837-b152-40d1-9789-8a51767542df,"Koshy, Majumdar and Rana",352.11,2023-12-25 23:05:59,Bidar,True
+d4adf154-eb6c-4e4f-8eac-f34eee104462,"Dalal, Brahmbhatt and Konda",957.74,2023-12-10 06:05:55,Mangalore,False
+a8bb8e13-f073-43e4-9082-53a754042b33,Mani Inc,818.93,2023-12-04 17:24:08,Panipat,False
+2ba6fdd4-2b37-41fc-bedd-3fb4f0905e8f,Bains-Tandon,221.02,2023-12-31 14:02:06,Silchar,False
+f0688a8a-3ea4-496f-887f-32ed388395c7,Sabharwal Ltd,862.74,2024-01-02 17:43:22,Raipur,False
+4985229d-a048-4baa-a614-622b1da516b6,"Lala, Bala and Mammen",658.16,2023-12-14 09:32:46,Surat,False
+233a610b-e112-4593-a740-247fafd2d3e1,Raja-Gupta,784.81,2023-12-26 10:53:24,Erode,False
+405e086a-51da-415f-bfae-5d478dce4f4b,"Kuruvilla, Sarin and Sant",722.87,2023-12-08 11:07:20,Chittoor,False
+1d77ee83-8d73-4e57-be00-7166105f1ce2,Kulkarni and Sons,891.38,2024-01-03 07:33:21,Mysore,False
+fbe48116-854f-4fd8-9f43-b301e619f498,Cherian PLC,498.86,2023-12-24 23:47:55,Gandhinagar,True
+e9ea2f59-501b-4822-acd6-756681683a44,"Singh, Bora and Biswas",640.74,2023-12-06 09:33:27,Vijayawada,False
+bfe211f2-9520-41e9-98b2-1da8b60871a6,"Kara, Bhavsar and Gera",854.91,2023-12-17 00:32:21,Bangalore,False
+d6c645dc-a9a6-49fe-889c-1e6a8f61b76b,Dara-Chokshi,496.81,2023-12-31 12:15:32,Morbi,True
+de806fe2-28a0-4969-b248-4f5f19ac0e55,Kala-Dar,198.31,2023-12-09 09:30:36,Rohtak,False
+0fb91a1f-9779-45c3-8659-ae0665298a5c,Soni LLC,862.17,2023-12-10 07:25:22,Gudivada,False
+998affa4-22d4-4fc4-9bd2-6a87f4e4eacd,"Gaba, Verma and Shenoy",808.42,2023-12-16 16:28:10,Meerut,True
+4b9898fe-bc43-46cf-a63e-41c8a96a399a,"Jayaraman, Ahuja and Ghose",229.38,2023-12-08 12:35:45,Machilipatnam,False
+264427e1-2bfe-4db7-9202-ec138f9b3e36,Bail Group,425.03,2023-12-12 11:39:41,Tadipatri,False
+36ce4250-25ac-4e27-973f-de25da5bbf09,"Agrawal, Kant and Kuruvilla",604.41,2023-12-15 23:07:46,Unnao,False
+d2dd0d72-74c9-4e97-9ea4-ec43c0b7f674,"Upadhyay, Agrawal and Doshi",701.27,2023-12-30 07:14:16,Bellary,True
+ef86345f-5cdf-4d4c-ae49-3f84fe59cdb6,"Bakshi, Sawhney and Saxena",342.77,2023-12-24 02:51:36,Sambhal,False
+dc524c5b-61de-49fa-9dc5-0a4e02fe91d8,"Som, Ahluwalia and Kaul",281.74,2023-12-25 17:28:17,Secunderabad,True
+2b4120c0-3fcd-4c07-bae1-1cc6968b4ffe,"Kaur, Bala and Bhasin",212.22,2024-01-02 09:03:48,Sambhal,False
+5e9d6e33-733f-4a15-b7a9-349d3b5d469b,"Rana, Jani and Dhawan",623.19,2023-12-14 22:30:08,Nellore,False
+fbff0691-2a75-47ec-b03b-e021d92e73a8,Bava LLC,224.22,2023-12-28 13:11:10,Kota,False
+c1b75083-8560-496b-af86-70729cb96902,Divan and Sons,773.41,2023-12-07 10:48:40,Indore,False
+d8e43e4d-0a7c-4282-8379-1bff85c01195,"Saha, Kaul and Kota",675.62,2023-12-20 18:20:23,Aizawl,True
+d48262b6-c72b-4932-8b36-c9624176a110,Roy-Doshi,544.01,2023-12-18 01:21:12,Pallavaram,True
+4f98fd1f-fb03-4ae4-b149-62a99d35e3f4,Kibe-Iyengar,673.92,2023-12-19 18:39:08,Arrah,False
+e6a901c9-2786-422c-a362-cf0306b49fb8,Ahuja Group,708.18,2023-12-14 13:33:39,Chapra,True
+0e3ed6e5-025e-4ed5-8a94-6adfa187ae5e,Sood-Bir,610.34,2023-12-25 01:58:50,Anantapur,True
+b7d3f471-4767-45f9-82ff-31068783b7c6,"Reddy, Ravi and Badal",275.71,2024-01-01 17:37:57,Eluru,False
+080ada75-c7ee-4437-8dfc-38436c3aec47,"Kakar, Banik and Malhotra",140.99,2023-12-17 07:20:14,Pali,False
+26bd1732-cec0-4b2a-98d0-5205ab37f702,Seth-Baria,612.78,2023-12-30 19:55:34,Gandhidham,True
+9d6b6080-016a-4c8b-8a39-7b13f98c9c57,"Krish, Krishnamurthy and Shukla",245.62,2023-12-15 11:58:58,Hosur,False
+dcf2e427-4c35-4db2-b068-275008548724,Suri-Rama,592.43,2023-12-18 18:07:00,Eluru,False
+08804679-08bc-46f3-ab18-fe4e3f500c1c,Acharya-Ravi,630.97,2023-12-31 17:18:28,Kumbakonam,False
+25c1ec3c-24e7-475f-903b-84c0f35774c6,Venkatesh Group,264.4,2023-12-12 12:00:33,Ballia,True
+b7379a50-2266-4abb-bfa2-7bd2de142a70,Shetty-Chokshi,334.98,2023-12-10 07:32:56,Dharmavaram,False
+b850d6dd-188f-47ce-88d1-a745340004d2,Setty-Jaggi,102.12,2023-12-26 00:45:02,Kochi,False
+3e9219fb-9e53-498d-a10a-124c44608544,Varkey-Garde,140.84,2023-12-12 17:58:05,Bellary,True
+6225934b-9f21-4309-b716-f38a01408249,Talwar LLC,541.6,2023-12-21 00:02:52,Nizamabad,False
+6d49b00f-4de6-4c13-81fc-5d23283f8516,Sami-Bera,836.25,2024-01-03 12:39:33,Phagwara,False
+31d2ae80-054d-42eb-a24d-a75dcbd7bd11,Kapoor and Sons,437.71,2023-12-27 15:25:27,Siliguri,True
+6ae8c571-b9d0-4a24-9176-bec0011099b4,Zacharia Ltd,494.74,2023-12-07 21:04:57,Hapur,True
+4967339e-34d5-43e9-8f55-5f4b83a65dfb,Saini Inc,751.47,2023-12-29 19:48:47,Tumkur,True
+66ac0a7f-e92b-45d0-aeaa-61787ab74e17,Jaggi PLC,541.21,2023-12-08 06:28:20,Dhanbad,True
+b84abc2c-b2fd-4dd6-b6ef-1977961f6bca,Manda-Balan,554.82,2023-12-31 22:29:30,Udaipur,False
+18a43607-eb4d-4ba1-87df-43c0b59fb921,"Butala, Lal and Ram",589.48,2023-12-23 10:33:32,Pali,True
+1448deda-ffe2-4f89-a1cc-1de642fa62d5,Dave-Ben,988.24,2023-12-21 04:26:37,Amaravati,True
+ca28866e-a3c4-42e9-ba83-120471b6ef94,"Ratti, Bhagat and Kalita",303.74,2023-12-09 03:05:57,Avadi,False
+3c065086-706c-4129-80fa-18d6928a9d54,"Dada, Sachdev and Mann",913.8,2023-12-16 19:39:18,Latur,True
+1fe8741f-e1e2-4b4a-bd0a-b1377d6fafc8,Choudhary PLC,556.73,2023-12-15 11:55:08,Howrah,True
+8b1a9418-727d-47bd-86c4-e895b01f95e5,"Seshadri, Biswas and Aurora",722.24,2023-12-31 09:13:02,Bhalswa Jahangir Pur,False
+91c9ff7d-74f4-48bb-802f-aa7ad2b964d3,"Subramaniam, Thakkar and Saini",811.34,2023-12-07 17:39:15,Hindupur,False
+87b06c1c-da62-4914-bc04-20bbc7201d4b,"Kala, Bobal and Roy",233.43,2023-12-30 07:42:53,Ghaziabad,False
+0d66cfcf-3036-4ad7-9e46-dd76ece63a58,Bava-Sawhney,999.91,2023-12-24 12:05:06,Coimbatore,False
+216b8e24-27e5-4d24-9368-a13d06137d1f,Sharaf-Brahmbhatt,241.23,2023-12-05 00:22:19,Dewas,True
+bf670df1-0552-4c38-808c-78e1154e1546,"Golla, Sheth and Gala",725.22,2023-12-19 13:58:50,Sasaram,True
+21d1cca1-3611-4e97-ad8e-ba944f9ee817,"Contractor, Kala and Ganesh",798.18,2023-12-31 07:34:07,Burhanpur,True
+5bf925ba-b0ab-4f40-959f-cf067a1076fe,"Devan, Singh and Deep",314.44,2023-12-10 05:10:33,Amaravati,False
+dbf2f15d-ef34-4698-b638-3de242997e3e,"Bhandari, Sinha and Koshy",460.24,2023-12-05 09:45:23,Jalna,True
+45c826ab-be57-4b56-bc96-b817bc5077c4,"Lala, Tailor and Thakur",419.12,2024-01-03 09:13:31,Jammu,True
+023cea2a-d4ec-4194-b9a7-44a6bf57d730,"Mani, Kannan and Majumdar",129.84,2024-01-01 04:55:02,Ambala,False
+a0d6abfe-f6c5-486b-8fdd-ca714985b3b0,"Ramaswamy, Vyas and Barman",881.52,2023-12-22 10:42:11,Coimbatore,False
+44a6fa01-fab9-4e59-b658-1c31c515677c,Reddy LLC,934.33,2023-12-17 11:32:25,Nanded,False
+72b58dcf-6b89-44e3-9538-c8551173f662,Deshmukh PLC,221.56,2023-12-09 22:39:49,New Delhi,False
+5a5e3f33-ead8-4c62-9238-40e6f8f3d9c6,Seth PLC,872.13,2023-12-30 18:55:55,Danapur,True
+246a88ef-630b-408f-8c16-3edf02a12bf1,Karnik Ltd,822.34,2023-12-15 13:55:35,Ahmedabad,True
+cebde6bc-a2f6-405c-a102-4a1715ccda0d,"Zachariah, Shukla and Sen",428.91,2023-12-11 16:42:28,Thoothukudi,False
+9e549f53-8598-48c2-b084-a736bc15b85b,"Bora, Mallick and Sibal",339.98,2023-12-20 11:31:27,Junagadh,True
+d59987e6-2fe0-49f6-8484-7bc693a981d2,"Khatri, Tak and Tripathi",482.95,2023-12-21 20:59:26,Satna,False
+0ea12834-a99b-4b37-8e4e-b7dd2837d2b3,"Dubey, Boase and Walla",522.4,2023-12-27 04:20:27,Gandhidham,False
+75c191fc-ebf3-487c-b35c-4ce1bc095442,Bassi Inc,272.55,2023-12-05 18:29:40,Thanjavur,False
+560b650c-e51f-4f26-be6a-1099f5b69f84,Dhar-Dutta,579.45,2023-12-19 21:51:54,Jamshedpur,True
+9d95c64e-1b96-4fa2-bbf8-79a114e9e8bf,"Lad, Rajagopal and Raja",294.04,2023-12-25 21:42:54,Gulbarga,False
+bb3b159f-b362-4726-8b9b-c0548af2d77b,Chandran Group,996.16,2023-12-14 03:41:26,Eluru,False
+ef690235-8fa4-442b-a489-8429d0726c44,"Thaker, Sachdeva and Taneja",667.05,2023-12-24 16:33:24,Orai,True
+d56f548f-aca4-4b94-ba45-505e0942d68c,Sheth Group,902.2,2023-12-31 13:45:15,Ghaziabad,True
+c035713a-7013-44a7-b6ab-2de563e5f13c,"Apte, Kari and Tella",33.43,2023-12-29 19:42:01,Mau,False
+50bc0696-0c20-4903-bcfd-13cc2e97d8dd,Barad-Batra,945.74,2023-12-23 19:28:47,Tiruchirappalli,True
+57705a3f-07a8-434c-960e-45c20524996d,Chaudry-Dash,967.22,2023-12-04 22:53:31,Gaya,False
+3d0b952b-cb39-414d-be16-d6d51b2d5cc6,Anne LLC,851.24,2023-12-14 20:22:45,Hazaribagh,False
+8b754a76-81a3-418d-9a98-56f49b8730f5,"Varty, Arora and Thaman",435.59,2023-12-27 23:06:24,Chandrapur,False
+5e104496-147c-4c60-9d2f-fef43c154e17,Dhillon-Dayal,283.91,2023-12-05 06:32:46,Dewas,False
+acda7df2-88dc-499a-baf0-ef8ba9a1f4ae,Hari-Behl,871.0,2023-12-10 05:39:14,Pali,True
+6cdeb66f-f9db-468b-aa35-03b192f002ba,Korpal-Gera,744.53,2023-12-10 02:04:19,Chandigarh,False
+60585bea-83fd-45ec-8bdf-80a8b898a22f,Sarma-Kunda,236.65,2023-12-30 10:53:53,Medininagar,False
+8db96371-1feb-48b5-935f-096d171315e0,Edwin-Sathe,769.23,2023-12-07 12:31:08,Jalandhar,False
+380d1a14-1466-4825-a147-2e1cd4647c8b,Jha Ltd,157.71,2024-01-03 07:37:40,Kozhikode,False
+0004eeb0-ce15-44d0-a225-3cf7910504f3,Kade-Chaudhari,552.39,2023-12-05 15:48:53,Chandrapur,False
+a9a367e8-c853-46bf-89db-ab5ff2d79eb6,Bhalla PLC,832.26,2023-12-15 00:30:59,Dibrugarh,False
+ac38988e-7b03-4915-a8d9-7ff287bbc665,Seshadri Group,463.7,2023-12-23 06:26:19,Morena,False
+bca517c0-e68d-4f08-abd9-e1f49b145090,Bumb-Dara,707.53,2023-12-13 08:29:18,Baranagar,False
+8b261217-e41b-4c57-91ef-c7929bae2b89,Setty-Din,105.96,2023-12-15 13:15:05,Aligarh,False
+0ebf0b0e-5fb6-4a43-9bec-5f0b6caee227,Rana-Dara,259.75,2023-12-28 09:02:57,Muzaffarpur,False
+689fa315-a426-4026-ba65-dbc501517fda,Sunder-Konda,815.43,2023-12-10 16:56:15,Khora ,True
+b376dd12-1d96-4acd-9659-6890bf36ec8c,"Sem, Suresh and Magar",540.85,2023-12-21 23:54:41,Rajpur Sonarpur,False
+235adc42-bbb9-4087-a05b-bfe00c51c49e,"Sarin, Grewal and Vig",974.55,2023-12-06 03:27:51,Bhiwani,False
+509ec4a4-d48c-4953-b6c8-1241e28f66ae,"Rao, Brar and Gara",292.87,2023-12-21 02:14:55,Saharanpur,False
+ab1e463a-7e8a-4b73-bd98-799d1c98e6d9,Kumar-Seth,687.77,2024-01-01 16:44:25,Bikaner,False
+4791d942-fd2d-4039-9e04-660b55080587,Kapoor-Sandal,719.44,2023-12-18 05:44:25,Kozhikode,True
+a86c54ee-a028-4e63-9e12-dee1eaa637ec,"Krish, Sagar and Sampath",385.33,2023-12-05 17:57:25,Sikar,False
+ef01ef01-12be-478f-916f-caf4a23475f0,Kala and Sons,662.59,2023-12-15 03:55:09,Baranagar,True
+3acd6cf2-6933-4fb2-b052-ebbe4f5c653b,"Solanki, Thakur and Varghese",688.94,2024-01-03 06:00:44,Begusarai,True
+95b1bdc6-145f-4fb7-bd72-6453cb251daf,Shere Inc,257.31,2023-12-28 09:27:58,Nagpur,False
+c8841eeb-5508-4e7f-ac09-bbe88b7d61ef,Balakrishnan-Rege,251.42,2023-12-12 05:35:55,Hindupur,False
+e3a60146-769e-4222-a730-adc1ce484b50,Sani Ltd,86.71,2023-12-27 14:28:52,Morbi,False
+45d946b0-318f-43c8-ae00-77d0809f4ef0,Sha Inc,235.62,2023-12-28 02:09:36,Bhubaneswar,False
+65dead87-6b84-49eb-9d15-dbfd39d4ecad,Sabharwal LLC,241.48,2023-12-08 11:42:27,Satna,True
+70ccb7f5-3a49-4e3b-abc8-13fba01144ec,"Majumdar, Seshadri and Saxena",346.94,2023-12-16 07:56:20,Bettiah,False
+b6a9c52f-6f6a-4a8a-acea-dfb32094f2ba,Dar and Sons,214.77,2023-12-21 23:55:05,Mangalore,False
+792ac0c6-3f30-4ffb-81d3-db1490bb69d6,"Sahota, Chahal and Srinivas",552.46,2023-12-23 07:35:47,Dindigul,False
+d3fae774-4065-431a-916a-64214d1d3502,Upadhyay Group,943.25,2023-12-26 07:38:44,Visakhapatnam,True
+4a192530-abeb-4129-a324-02ceea239cdf,Salvi-Grewal,794.16,2023-12-31 02:08:13,Darbhanga,False
+4cfa217f-bced-4c9d-9e41-96d6d3915d48,Loke Inc,60.86,2023-12-14 05:12:52,Srinagar,False
+9665ac00-94c7-48ed-939c-8406697eac24,"Dara, Bir and Mahajan",269.34,2023-12-20 01:22:31,Bangalore,False
+ed26a473-ec41-41fd-9fbe-e39a919940d7,"Dhar, Subramaniam and Bhandari",336.9,2023-12-14 19:43:37,Lucknow,False
+b32ec8e5-a05c-44d2-9fcc-bc5f9599ba64,"Kamdar, Ganguly and Lata",171.77,2023-12-31 02:59:52,Dhule,False
+1498dca3-fc21-4c66-a8f3-2e18f4dff16d,Hayer-Mall,863.09,2023-12-09 09:03:03,Latur,False
+2f33b78b-db96-4d4e-b6d7-1c5441e3b5e6,Sagar and Sons,749.3,2023-12-28 02:25:46,Bokaro,True
+1b8d5760-1e4d-4bff-b52b-3222334f7abe,Batra-Khosla,421.62,2023-12-31 15:33:55,Phusro,False
+cbd2c333-ad80-4d1e-9bb5-acc12350a259,Bandi-Sachdeva,83.34,2024-01-02 23:10:39,Bhusawal,False
+5c91810d-6673-4543-913a-e348e92959f0,Vasa-Dutt,591.7,2023-12-15 23:49:08,Serampore,True
+e82eee5a-d5cc-444b-9780-38dd4757fb01,"Varty, Buch and Madan",543.19,2023-12-10 16:09:54,Mira-Bhayandar,True
+2a7f793f-49d4-46dc-ac1f-c3127722d52d,"Date, Kadakia and Loke",548.0,2023-12-30 06:22:45,Naihati,True
+c290dd15-5f04-40a6-83da-2dd1ab88f50b,"Bora, Bakshi and Ramaswamy",731.84,2023-12-08 03:54:27,Thoothukudi,False
+c7495384-5288-452a-9843-f72ba18967d8,Dhillon-Buch,649.44,2023-12-08 13:59:48,North Dumdum,False
+3591de1d-6da8-47c7-a322-4c03ee035aee,"Tank, Kalita and Chandran",19.3,2023-12-14 19:39:01,Faridabad,True
+d8b1d499-a02c-4545-b264-be59b6930958,"Salvi, Chandra and Chatterjee",899.94,2023-12-28 20:34:45,Panipat,False
+30a981f5-157a-4f26-afe6-74fb83c00203,Singhal-Viswanathan,916.91,2023-12-23 23:58:32,Noida,True
+10184eff-ce88-4b9e-a08d-8230c1ebcd98,Andra-Sane,386.58,2023-12-20 07:30:33,Berhampore,False
+a79f117d-5983-444d-a032-1bbe469b6e31,Agarwal and Sons,275.06,2023-12-19 05:51:52,Panchkula,False
+e659f1cb-3946-4f42-9abe-1d2a002a5ac8,Sandhu and Sons,898.24,2023-12-25 21:44:34,Faridabad,False
+511b2bed-425e-41fc-903a-022ee26cefec,"Bahl, Madan and Saini",129.79,2024-01-01 14:32:21,Tadipatri,False
+33f16237-d98c-40bc-8ae8-dc77be6fb338,"Bhardwaj, Rao and Sampath",882.6,2023-12-21 12:30:55,Gudivada,False
+b1f4f30b-822a-4f7b-b410-86ba1de2f167,"Vyas, Borde and Salvi",812.64,2023-12-12 18:57:44,Cuttack,False
+52eae739-1923-4e31-894b-0e07c60bada4,Lala-Dalal,229.15,2023-12-28 06:43:21,Tiruppur,True
+db2d464b-f0ba-4f63-a3ec-c51f5c1fceb2,"Bera, Dhar and Salvi",723.72,2023-12-26 00:14:29,Guntur,True
+b8a907db-4f65-4512-a244-bc86fa645def,Sidhu-Singh,799.85,2023-12-15 03:46:54,Tadepalligudem,False
+5307cdd5-4133-4861-9dce-93b3b44bc4d6,Tata-Ben,488.66,2024-01-01 00:44:33,Farrukhabad,False
+f18d6152-059a-4258-aa97-6968dae1a9b1,Kohli LLC,905.79,2023-12-24 19:50:19,Tirupati,False
+cccf2fa2-6d10-43cf-9d53-11827defa35a,Khosla-Borde,646.32,2023-12-15 17:23:03,Faridabad,False
+32e4bba1-f4db-4ae5-81aa-2d89b8680d53,Koshy-Brahmbhatt,676.63,2023-12-31 18:29:33,Giridih,False
+f4c28d7f-3a1c-48ce-8443-be0ccf2b3247,Wali-Korpal,464.26,2023-12-10 13:19:55,Dindigul,False
+1dff927f-2ec3-4baf-badb-137caba12300,"Kade, Bose and Koshy",345.18,2023-12-07 10:23:46,Jalgaon,True
+38da0b73-7639-42c9-ba62-9cd867b57c1c,"Sachdeva, Sunder and Rama",748.48,2023-12-05 07:36:47,Navi Mumbai,False
+4ac6a8b1-34d2-4d24-9bf5-a2f50f39c3bf,Bandi Ltd,436.74,2023-12-10 19:27:36,Jorhat,False
+a16f29cf-932c-49c7-ba02-704bf0dc648b,Dass Group,850.21,2023-12-13 14:39:05,Aligarh,False
+39cbc1a1-278e-4a43-a62d-5228be62822b,"Tella, Bhalla and Badal",375.83,2023-12-25 05:32:42,Jalgaon,False
+9f7eed1d-cf65-4ae8-88e7-861f46ab26fb,"Sampath, Bhandari and Bandi",318.6,2024-01-01 09:30:15,Anantapuram,False
+6cf536fe-86e8-49c3-8ec2-fa432fd79122,"Dani, Sandal and Bains",644.55,2023-12-30 16:05:23,Dehradun,False
+8f359626-b49c-4473-a694-e27694929a2b,"Sharma, Sani and Dhawan",587.84,2023-12-08 03:20:14,Vijayawada,False
+f97091d5-8a9e-4fb9-a93a-46e1dfaf46be,Goyal-Gaba,680.83,2023-12-15 17:42:09,Tinsukia,True
+042e68fd-3d09-4fcf-a81c-2748f33e6971,Jha-Jhaveri,166.79,2023-12-20 23:40:17,Hubli–Dharwad,True
+74aa541f-7746-4295-8579-1e64c0f572df,Bhat Group,272.81,2023-12-24 08:44:26,Burhanpur,False
+eeef3ebf-652e-4008-8510-9cc28cae00cb,Sinha-Suri,999.29,2023-12-24 20:06:26,Firozabad,False
+b2da2a51-91af-4cfa-9ecf-5d20348b888e,"Kamdar, Golla and Karnik",192.52,2023-12-08 14:47:13,Hubli–Dharwad,False
+75d9ff6c-f8e6-4f62-bada-02cdfd4c4797,Tara-Shah,446.41,2023-12-04 20:30:20,Hindupur,True
+859d220a-29d5-4265-8825-cdfdfba7545f,Behl PLC,276.82,2023-12-25 20:28:40,Rohtak,True
+b41cb908-7ab5-4214-9420-b88401728047,"Kale, Mandal and Sarna",445.9,2023-12-08 02:21:02,Bilaspur,True
+242246a7-0732-487b-8233-ed0093885617,Thaker-Devi,653.64,2023-12-09 06:03:46,Ranchi,False
+b77b7a4e-ef91-462e-96ba-dd16ee6259e6,Raval-Choudhry,272.23,2023-12-24 07:27:39,Shimoga,False
+14518e26-b69f-4b81-9a14-bcdb70596209,Chahal LLC,477.94,2023-12-18 05:28:49,Ballia,False
+e87aaae8-07db-4946-9dd7-e4a8777122ec,Gupta PLC,309.17,2024-01-02 00:51:17,Jamshedpur,True
+b1ee4eb7-21c8-44ac-8888-15c285c32c2d,Chhabra PLC,905.11,2023-12-08 13:32:03,Ichalkaranji,True
+a7bfc941-3bbc-4554-8ea2-b65b06aefd64,Baria LLC,555.33,2023-12-24 12:43:32,Pondicherry,True
+2448cfd2-9b97-463b-a04e-b84126bca58b,"Ben, Saha and Shere",624.45,2023-12-21 04:20:15,Ludhiana,False
+2759128e-ad81-422a-b0c0-7898fe725387,Khosla LLC,177.99,2023-12-27 11:14:40,Unnao,False
+2dc6c075-1fc8-44d3-bef9-41b46d96beea,Bera Ltd,565.75,2023-12-13 02:40:14,Nellore,False
+02c0ab5c-f789-4314-8c3b-a576941aaee0,Saraf-Halder,176.11,2023-12-15 08:16:31,Bikaner,False
+ff71fc4e-181f-4a05-9c87-12a1de5e7e5f,Savant LLC,443.73,2024-01-01 09:36:23,Dharmavaram,True
+3dfac55e-520b-4c5f-a24a-457a13363483,"Varkey, Khurana and Aggarwal",760.58,2023-12-26 00:22:35,Rohtak,False
+f930b883-63ed-4051-9ba4-3b26d227a928,"Tata, Mallick and Ram",392.22,2023-12-06 15:57:09,Coimbatore,True
+58b8c552-c607-445b-94d5-1ae6a5db1977,Balakrishnan-Gaba,910.29,2023-12-24 07:40:54,Kumbakonam,True
+6d7a4a85-4b8b-4ca9-bfbe-04a2ff3b125a,Char PLC,459.19,2023-12-28 09:43:48,Karawal Nagar,False
+37d6626c-5e3f-4ff6-9bac-30f7b71c25bf,Toor Inc,509.73,2023-12-28 02:06:32,Rampur,False
+7124ccb3-86ce-48c3-a036-42b8dd278a8a,"Vora, Varma and Garg",118.55,2023-12-08 14:25:57,Jalna,False
+96fafa33-cd8b-4d80-a063-91bb4de49433,Kamdar-Wali,624.68,2023-12-15 21:08:03,Hazaribagh,True
+48e3c137-11f0-4450-9652-e72e71d888e0,Bakshi Inc,547.19,2023-12-20 02:37:18,Bhavnagar,False
+bd21c651-3006-4fb3-bd13-c47aa42d37da,Kakar-Bahri,336.51,2023-12-15 11:45:19,Kulti,True
+aef9a054-f32d-442a-b9f3-2c2c3dafe0f0,Sarna LLC,198.51,2023-12-06 09:53:34,Guntur,False
+3258072f-bfc3-413a-bf71-9e0f47e4d06b,"Wable, Vaidya and Agrawal",321.37,2023-12-22 20:58:51,Panipat,True
+67c0c0b8-2e54-4419-8d5e-104ff375bf7b,"Shankar, Varkey and Lanka",946.8,2023-12-14 21:30:54,Mangalore,True
+1fffb17c-d0a7-4f4e-9d7b-cf3b837a1b1b,"Chakrabarti, Batta and Sharma",144.31,2023-12-10 22:17:35,Raurkela Industrial Township,True
+c1adf852-2fd7-46b9-9c8e-7deac38dc394,Sandhu LLC,680.99,2023-12-14 06:39:34,Rewa,True
+5dbebca1-e1fc-4977-af87-4b2ebb92b834,Chowdhury Group,174.26,2023-12-11 18:03:36,Aizawl,True
+00ac4b8a-5fca-4cd8-951b-78194ebb3d71,Mannan-Borde,15.49,2023-12-04 21:00:31,Chennai,False
+562b9a9d-a3aa-47c9-91d3-1e8e2038b551,Chaudhary-Kannan,406.7,2023-12-06 01:00:10,Danapur,False
+04c431a6-2d15-4f7a-a073-33aa6a9ab167,Dora Ltd,207.14,2023-12-27 12:13:51,Vadodara,False
+982133c3-3312-468c-91c6-a1dceac54324,Sura-Garg,865.39,2023-12-28 17:05:39,Sultan Pur Majra,True
+b76f9666-4a36-4d6a-b5b9-e097793faca5,Mahal-Batta,513.16,2023-12-18 01:04:20,Surendranagar Dudhrej,True
+d14d9658-95b2-4f5f-9c75-8ab1d61138dc,Sarma Inc,38.41,2023-12-16 06:56:16,Nagpur,False
+4076299f-a1ef-46b6-b72f-77c5fa4efe31,Bala-Varty,853.82,2023-12-30 10:08:35,Jamnagar,True
+0def03c6-c50b-4f7e-bb4a-bca044c97ffe,Keer-D’Alia,254.16,2023-12-20 19:23:10,Kozhikode,False
+92d51f61-cf81-4c40-8438-e0b84452f04f,Hans Inc,413.52,2023-12-15 05:30:27,Amravati,False
+c039809c-70ab-470f-83bb-b5ce2b3cf888,Dhawan-Chahal,16.43,2024-01-01 21:37:32,Ahmednagar,False
+3fa69b1d-a5bb-42f2-9ace-f8ba863dec08,Ganguly PLC,722.08,2023-12-23 20:47:42,Bidar,False
+6dd0ca3b-fe33-47ee-993a-11be88b3128a,Batra LLC,296.49,2023-12-16 07:12:18,Bettiah,False
+fc6fad7e-ac1a-4671-9579-75bc1a0478b4,"Bhasin, Deshpande and Sekhon",93.95,2023-12-13 14:18:04,Alwar,False
+f97cd637-970b-496e-be5e-57b5e9d061d1,Bhatt PLC,321.53,2023-12-26 11:33:37,Ambattur,False
+14a0a8e8-786d-4157-9a00-ee3f0b61532d,Kashyap-Batra,747.26,2023-12-27 14:29:35,Rajkot,True
+79ad9da2-50ba-46fc-a4d3-7b5d2ad3ed1f,"Sarraf, Bawa and Upadhyay",12.65,2023-12-24 03:22:41,Sirsa,False
+db1c47e4-865c-4537-b9c3-098853e73cae,"Bumb, Yogi and Khurana",736.46,2023-12-11 19:56:02,Bihar Sharif,False
+42ddbfd0-f345-43e3-9486-f9bdee99e815,Bhakta-Tella,763.62,2023-12-06 14:33:04,South Dumdum,False
+13b6eecd-601e-4d1a-a080-e01a3cc1fa56,Ahluwalia PLC,128.69,2023-12-21 02:56:26,Gudivada,False
+b66f61c1-fdcb-4e3a-822d-185fc7ed6dea,Chacko-Bajaj,680.57,2023-12-22 18:11:58,Raipur,False
+9c286633-cc86-48e2-809a-6a313dfa859e,"Bhakta, Bali and Khurana",680.54,2023-12-21 12:32:13,Siwan,False
+213c4e54-a2a2-4c1b-846a-6990a987e8b2,Behl Group,879.23,2023-12-28 10:56:56,Secunderabad,False
+2f4f41f9-5c25-4ecf-b46c-95d515f4ec2e,Rama-Trivedi,472.35,2023-12-25 04:31:01,Mau,False
+c2097804-e0b6-4f03-b689-d0fa5688c11f,"Sehgal, Bala and Dutt",999.58,2023-12-13 18:38:34,Visakhapatnam,True
+3814fe9e-5055-4ff0-816e-ae72b941d757,Batta-Atwal,385.31,2023-12-04 12:58:49,Aizawl,False
+98db99d3-82f9-4535-a4fe-55945cb435aa,Swamy-Lall,792.11,2024-01-01 10:22:48,Mau,True
+6c2229cd-c991-4e9d-aa78-3b0c21d2bf94,Mander-Apte,780.84,2023-12-11 13:37:06,Thoothukudi,False
+099f7c01-c2a2-4b59-89e5-52e3c3e495bd,Kulkarni-Bose,860.01,2024-01-01 14:02:19,Jaipur,False
+301d198d-d2ae-4a25-9f5c-c0b4b063d84f,Mani LLC,433.41,2023-12-18 16:18:31,Jalgaon,False
+95eaaf5c-9689-434e-85bc-949a2c0d07cf,Kari and Sons,653.34,2023-12-05 18:40:31,Ghaziabad,True
+d45df62a-c531-4029-b37b-dc735d39f597,Baral PLC,480.53,2023-12-25 15:19:13,Vasai-Virar,False
+bd0a38bf-b802-48ae-aa4f-2df7f5b6992e,Lata PLC,560.21,2023-12-24 05:27:03,Madanapalle,False
+a76b483b-1c56-47b4-9a05-6a927bd0570b,"Srinivas, Kar and Bakshi",661.65,2023-12-27 04:03:49,Mathura,True
+10952d95-d4ac-4e54-a0a4-1ba5c1a6d7fd,Vyas-Sodhi,985.46,2023-12-22 07:41:49,Morbi,False
+09aab84f-b0d6-455e-a995-6c74030088af,Cherian Ltd,96.07,2023-12-13 13:31:00,Madanapalle,False
+f3ac0f4c-38b0-4ded-8e68-9cd9ec0ca6c3,"Choudhury, Chada and Ranganathan",179.43,2023-12-05 06:58:51,Tinsukia,False
+3df09b2f-8a75-420b-8e55-ad608258dcbc,Walla-Bansal,478.53,2023-12-19 00:39:39,Narasaraopet,False
+03cdae4b-cf72-44d1-8954-f00d0bfc804d,Apte-Kala,798.06,2023-12-06 05:46:33,Guntakal,False
+5417f499-eed3-4abe-8f24-5e669c0fa9b0,"Chowdhury, Sane and Ramaswamy",588.34,2023-12-28 04:06:42,Saharsa,False
+c1c258d1-9e9f-4672-a39b-b392696a9fc3,Chahal-Kari,109.99,2023-12-14 23:44:39,Jamalpur,False
+ec574f6e-0748-43e4-9cf6-530f2359dc65,Grewal-Bajaj,885.29,2023-12-18 05:42:43,Indore,False
+2b0b5bfb-ffe1-4979-b3c7-4e4e6404ef08,"Deshmukh, Roy and Kothari",84.31,2023-12-06 19:07:39,North Dumdum,False
+a23ee2fc-6acc-47b6-ae8e-43532144572b,Magar Group,123.39,2023-12-22 12:57:48,Junagadh,False
+6b371a3b-337a-4fc2-9897-b4e8178a9881,"Saxena, Gera and Kunda",472.72,2023-12-09 10:45:18,Kota,False
+3096a738-949a-467e-875a-cc4c3fb4d436,Dua-Buch,358.8,2023-12-25 07:43:15,Chennai,True
+3ec8686c-74a8-4454-99a1-7ac777b71b23,"Madan, Chander and Singh",837.6,2023-12-05 21:25:51,Hazaribagh,True
+2324339a-ffa6-4c84-80ed-f44716bcbd9f,Yogi PLC,789.95,2023-12-29 23:22:49,Udaipur,False
+9abf548e-828b-4ed6-ab4d-836dfcba63b5,Sampath-Saxena,13.51,2023-12-20 02:00:54,Siwan,False
+f8dc9bdf-bca8-44b8-b14c-2e543206e160,Das-Dewan,186.87,2023-12-14 18:42:53,Belgaum,False
+5b90fdee-6a38-46f5-8be7-4ead0ab07faa,"Shetty, Kota and Vala",439.63,2023-12-27 11:56:01,Bhilai,True
+0d15c3e3-f16c-4c78-bb25-02ab0ca4c622,"Sen, Tripathi and Kari",124.19,2023-12-26 23:06:05,Fatehpur,False
+fe9367bb-5c00-4deb-a42b-2e94ce42387d,"Srivastava, Kurian and Shenoy",42.39,2023-12-10 21:58:01,Kadapa,True
+47a0bafd-2b71-40a9-8e3d-edb6ffcdbe9a,"Sane, Ramesh and Sinha",655.24,2023-12-31 04:35:28,Berhampore,False
+ee4a779f-cbe3-4970-bae5-e8958c70d455,"Bobal, Chaudry and Amble",372.12,2023-12-16 02:09:04,Fatehpur,True
+3cee7ac3-07a7-4b76-9c9d-447e84d808ce,"Chokshi, Bhasin and Mani",992.33,2023-12-15 11:02:08,Mangalore,True
+3e5039da-ea80-4fb9-9efc-ee9cce74744a,"Batra, Shukla and Choudhary",499.43,2023-12-08 01:25:49,Etawah,False
+5f0a0924-056a-4169-8f69-34f6a4158fc7,"Basu, Srivastava and Ramaswamy",479.93,2023-12-07 06:22:01,Kharagpur,False
+cbdb6e6d-398d-45b0-b46e-b697a165a63e,Singh-Verma,129.45,2023-12-25 02:47:11,Singrauli,False
+868628d3-2d4a-4518-8216-9a6dfd147532,Bala-Garg,173.39,2023-12-19 09:45:01,Rourkela,False
+18634dde-56e0-45be-a482-948b4f10b71e,Sidhu PLC,522.78,2023-12-30 09:06:59,Nashik,False
+21903a87-780a-4143-80c3-3d8260cf07fa,Mallick-Gour,948.11,2023-12-06 05:41:22,Saharsa,False
+b18e5716-f569-44f4-8dcb-c31d3e65b0f8,"Sankaran, Kalla and Balan",266.6,2023-12-16 04:12:05,Eluru,False
+a4664863-d3a7-4a93-b1bb-41720f8ab3a0,"Tak, Tak and Sahota",279.62,2023-12-20 14:14:37,Patna,False
+a09f71d7-2821-4eb1-9aa1-3a3188b48d50,Chaudry LLC,898.84,2023-12-31 05:15:58,Shivpuri,False
+56e73938-0449-4432-89de-aa78c034b024,Kari Group,705.96,2023-12-17 15:04:23,Shahjahanpur,False
+2bad7cfe-7444-4620-8109-fcf8fee8cd17,Chokshi-Sethi,376.48,2023-12-13 12:27:30,Asansol,False
+fd0900f5-6366-4e8a-9298-cb471a229aa4,"Cheema, Lata and Bajaj",290.17,2023-12-09 23:41:57,Bettiah,False
+9f10b681-f964-4657-8884-5af78cdec7ca,"Manda, Jaggi and Mander",519.45,2023-12-24 15:57:19,Kadapa,True
+62cc4292-3b88-4ec9-85f8-211fd5998e93,"Chauhan, Chokshi and Borde",228.02,2023-12-23 16:08:45,Kulti,False
+586b62e1-2705-45ba-851b-826a657eed14,"Dutta, Amble and Vasa",735.04,2023-12-12 08:27:40,Ranchi,True
+1d393dd8-ac6a-4df7-ad46-14385150f414,Som-Ramaswamy,997.56,2023-12-12 16:57:27,Thrissur,False
+f8352c5d-beaa-415e-ae6a-c704a9e21ad7,"Ratta, Subramanian and Boase",806.54,2023-12-11 07:17:25,Vijayanagaram,True
+bb4035ba-47da-4041-a2ec-569345d30e91,"Hayre, Subramaniam and Dugar",853.2,2023-12-30 20:03:34,Rampur,False
+3fb00cf0-8de4-4b58-8bf1-fb737d06b493,"Kapadia, Doshi and Rattan",248.42,2023-12-28 15:05:27,Panipat,True
+8d5314c1-8220-4efa-9f9d-273d093f42ce,"Bhakta, Sani and Bumb",576.08,2023-12-26 19:10:57,Dharmavaram,True
+bfbf42cc-a9ab-470f-9d0e-19fe7ed4694c,Arya-Saini,460.79,2023-12-27 00:51:20,Jaipur,True
+f0d35ac6-a846-4340-9470-614bebbfa88e,Jain-Rajagopal,320.78,2023-12-09 04:36:05,Rampur,False
+0b32d8b5-1679-4c43-9bd2-b3aec59ccb4e,"Brahmbhatt, Dalal and Halder",634.79,2023-12-09 12:12:36,Sambhal,False
+50969baf-271b-4b48-83f3-0ecb3a817260,Bail LLC,405.68,2023-12-31 04:02:52,Parbhani,False
+574713fc-06c9-407b-b4b2-b1cd66881abb,"Chana, Anand and Choudhary",45.54,2023-12-09 17:48:10,Ratlam,True
+ffafff9c-0e6e-4b9a-aca9-83bb36363037,Dua-Ravel,772.35,2023-12-17 15:01:55,Nagercoil,False
+7cf4bd50-965c-4d0f-9ebb-ec51fdb5d0ce,Khurana LLC,302.7,2023-12-11 22:23:32,Phusro,False
+7cecae86-aa2d-48a7-b701-82436cc2b59d,Ratta-Dubey,107.46,2023-12-24 10:15:32,Ozhukarai,True
+f30ed1eb-02ad-4459-892f-bd0f92431a0b,"Acharya, Thakkar and Soman",88.18,2023-12-11 02:03:34,Udaipur,True
+e86f5ddd-3133-410a-b243-f2be5112980e,Sharma LLC,658.23,2023-12-08 23:24:57,Madanapalle,True
+b7734c9f-b19e-4501-9aec-5d1a19404d60,Sama Group,992.77,2023-12-06 17:05:13,Ramgarh,True
+628ad21f-402f-417b-a8bd-6c0ff85e92e2,"Buch, Lad and Bhatti",261.44,2023-12-14 09:29:11,Ramagundam,True
+531e7911-3eef-43f0-b446-ceaf762221df,"Hayre, Deep and Dara",195.71,2023-12-08 07:56:52,Gulbarga,True
+ef01c8a1-29dd-4133-8cdc-61aca69522e9,Srinivasan-Deo,219.68,2023-12-14 02:56:20,Ichalkaranji,False
+0ee5de7f-5599-4a95-9190-47d4f1a774a7,Chaudhari LLC,943.48,2023-12-21 01:45:15,Dhanbad,False
+6606c0dd-5639-4880-a421-90249e856c18,"Mallick, Choudhury and Saha",820.24,2023-12-10 07:10:20,Jorhat,False
+215199d4-5473-4d6b-8383-1f855d6508c7,"Buch, Toor and Arora",503.39,2024-01-01 03:40:28,Miryalaguda,True
+50245188-5eef-40ac-b7ba-84f72522041e,"Dash, Krishnan and Varughese",733.72,2023-12-25 22:11:13,Gaya,False
+3170a5ce-61bd-4fac-8092-c57c38191bd8,Sane PLC,543.9,2023-12-23 09:20:54,Panipat,False
+a0a506bb-d480-44a6-8a77-d40ca3b6a783,Sankar-Gupta,345.91,2023-12-22 00:22:21,Tirunelveli,False
+1f5437aa-89bb-499f-abd0-2e3e29a69b2a,"Sachar, Ravel and Rana",893.26,2023-12-28 12:24:52,Katihar,False
+47686ef7-098f-49e8-b1e3-a3ef95454415,Ray and Sons,440.22,2023-12-26 19:42:58,Kota,False
+798122bc-dc29-4a6c-8a7c-5ccbdafbdd8c,"Sagar, Choudhury and Tripathi",634.85,2023-12-31 23:10:07,Satara,True
+17794f22-b32f-4c34-9bc2-b68454cf6f9f,Mammen Ltd,412.31,2023-12-27 11:42:27,Amroha,False
+1a987d3f-fe60-4aa9-a5a2-1b5751299da3,"Dua, Chaudry and Gole",257.86,2023-12-08 06:52:32,Begusarai,True
+b8b15130-74f0-430d-9d36-5014e8ba6def,"Uppal, Khanna and Dugar",608.78,2023-12-06 03:25:18,Khandwa,False
+bf426c47-bc9c-4016-b63a-77b12bdf8787,Uppal and Sons,408.6,2023-12-27 17:17:25,Ratlam,False
+c251a3a8-aa4d-4d76-9475-58566e05c2e5,Halder Ltd,607.69,2023-12-25 21:17:28,Bhilai,False
+cb67b8f0-5770-49e9-905f-f772f2908311,Lad-Shah,939.54,2023-12-11 08:34:31,Deoghar,False
+a6d91d9a-5491-4158-b210-cba04825a94e,Shan-Sanghvi,691.79,2023-12-05 15:40:01,Jamnagar,True
+ebd2c67c-39d9-4cb5-b12d-128cb3368ea3,Bala LLC,312.33,2023-12-31 14:29:34,South Dumdum,False
+eade2d22-695d-4ad7-a323-a0cc3f154e02,Chawla Ltd,128.36,2023-12-11 12:43:29,Arrah,False
+7c90d58e-7ca1-465d-8a07-ed296d1055af,"Kale, Saha and Rastogi",826.44,2023-12-23 23:03:14,Srinagar,True
+0ad66def-f49f-4bc2-bd0a-752ca0384f7e,"Ranganathan, Rajan and Hegde",710.24,2023-12-17 20:26:01,Coimbatore,False
+85e447ad-9532-44c6-a3ec-845d6aefd57d,"Bhagat, Saran and Gaba",302.28,2023-12-26 13:36:32,Serampore,True
+41ff41a3-00ba-4be0-8e43-c86eb387ec6c,Gopal Ltd,459.49,2023-12-31 14:29:00,Miryalaguda,False
+29de47ad-6e70-4905-bcb3-9dcebe53f518,"Madan, Zacharia and Baria",489.36,2023-12-12 03:43:47,Alappuzha,False
+e340360d-3ca8-4359-b5bf-d88e1f501775,Datta-Chandran,187.65,2023-12-11 15:27:55,Tenali,False
+593394db-e2a7-45e0-ba46-58e9968a0420,"Kurian, Ratti and Ganguly",836.38,2023-12-15 17:45:01,Naihati,True
+b289348d-a2e5-43a5-ab87-86aab357012e,Rao LLC,277.38,2023-12-16 13:23:15,Arrah,False
+1deb253c-5b7f-4593-909a-25ede2fc7f4d,Acharya-Swamy,803.4,2023-12-18 09:17:37,Haridwar,False
+be27f5ec-f0d7-4375-949e-4c4d3cf793ac,Chad Inc,193.97,2023-12-06 20:17:49,Gandhinagar,False
+74ffb4bd-7c1d-4eba-9b6e-3c965f535116,"Kapur, Kala and Bera",614.23,2023-12-12 03:14:58,Pali,False
+759ae3f0-012d-44a3-a04f-db8fa4ff03d3,"Kar, Gandhi and Sampath",906.28,2023-12-13 13:45:20,Dhule,False
+2dbac013-cc36-4e7f-a604-d9cafbff4487,Batra PLC,833.82,2023-12-07 05:25:47,Satna,True
+80c5e045-8e65-4b0b-b650-ac2babbc51e2,Varma and Sons,55.53,2023-12-10 19:54:22,Panihati,True
+34c972c2-aa1e-4364-9b4f-87621d5b4d91,"Bera, Yogi and Wable",448.95,2023-12-04 15:24:50,Thanjavur,True
+faad5b94-3e31-4c7b-8478-0507e7145a73,"Sood, Talwar and Dua",507.27,2023-12-26 12:11:29,Sangli-Miraj & Kupwad,True
+45430ab3-3632-43d4-85ff-243333dc49e9,Kala-Choudhury,117.32,2023-12-08 08:43:41,Lucknow,False
+b1b44a46-931b-4790-bcf7-b4a386b6eb56,Mammen-Walia,846.85,2023-12-12 00:26:48,Kharagpur,True
+b09aa6ef-5b7e-47f3-923c-ae1429bf7dc9,Madan-Sagar,961.17,2023-12-26 15:22:54,Pudukkottai,False
+24cc16ec-508b-47e0-85a2-22235020688a,Varma PLC,38.73,2023-12-26 12:42:58,Navi Mumbai,False
+f51d5668-f07c-4d83-8b8c-155f0ad4fdd0,"Venkataraman, Bose and Koshy",990.13,2023-12-22 10:59:01,Bhiwandi,False
+24577465-b5d1-470f-86ec-9d9f74d5a12a,Vohra-Sule,237.81,2023-12-10 12:36:34,Aizawl,False
+a69024cd-91b4-48f5-b981-3829e43e988a,Buch-Bhavsar,888.39,2023-12-20 02:22:24,Varanasi,True
+b5f12f0e-9519-4228-98c9-d0b1b98f2fb9,"Sibal, Butala and Tara",544.02,2023-12-15 06:44:34,Ongole,False
+0dd4ef69-f4a5-4541-b031-e0d8620eb132,Sagar Inc,190.02,2023-12-07 19:55:28,Ozhukarai,False
+0cd0ca88-1d86-441a-aa3c-7ad830db77c9,Balay and Sons,120.44,2023-12-06 13:19:44,Amaravati,False
+fc612787-f90d-4295-9f83-a4fd17011556,"Dixit, Lal and Bassi",731.26,2023-12-18 11:45:53,Shivpuri,False
+1252aa17-6610-4306-a94b-f4b25f359972,Edwin LLC,930.58,2023-12-27 02:39:48,Vasai-Virar,False
+44d9a9f0-f75d-4588-a74c-eb021e0c64f2,Bahri LLC,535.61,2023-12-27 01:45:16,Baranagar,False
+a0b11baa-d31c-4955-81e3-f7a9b33ef700,Ranganathan-Wagle,743.82,2023-12-12 16:27:16,Bijapur,False
+a96af898-e9e2-4e96-b85d-2c85edff8d88,Dass LLC,274.31,2023-12-21 12:34:28,Munger,False
+972af017-5e69-4f49-b68f-522cc9446218,Soni-Mander,637.41,2023-12-29 20:12:30,Thanjavur,True
+769ca904-f92c-45c7-9be5-60bb4f316621,"Magar, Rout and Srinivasan",958.39,2023-12-16 11:43:37,Rajkot,False
+aa8883e7-3358-4095-90e8-f1ea13e8716f,Samra-Saxena,130.21,2023-12-28 04:54:08,Bahraich,True
+e2603929-31e3-4607-97b0-e1cd044e0a0f,Venkatesh and Sons,745.71,2023-12-15 20:34:37,Ramgarh,True
+195fa4e8-c5cc-49c6-8b3d-8b61d3e4a4e5,Chanda LLC,610.15,2023-12-13 00:39:56,Kirari Suleman Nagar,False
+bfb08053-2d59-4a8b-b474-ec7a01edf8d9,Buch and Sons,420.3,2023-12-05 21:44:03,Aurangabad,False
+0190c312-9bf2-4afc-8843-d89b2b4fc50f,Brahmbhatt and Sons,744.85,2023-12-10 14:03:41,Hospet,True
+b50cec07-9fb9-4e65-a1ad-bdf539818e42,"Jha, Bhatnagar and Golla",597.87,2023-12-06 04:45:34,Gwalior,False
+d43b81a7-bce6-483a-a3cd-3fb97e2873ae,"Deol, Sahni and Bhardwaj",818.42,2023-12-13 04:10:48,Berhampore,False
+2e39196d-9980-466e-b40b-3052c16a4911,Sachdeva-Garg,981.01,2023-12-22 02:55:05,Bidar,True
+f93af867-346b-41e3-9a7e-8600c4b26642,Hayre-Kashyap,810.12,2023-12-24 19:54:53,Kolkata,False
+43b61bf5-acef-49ec-b04e-7b49f70a148f,Majumdar-Shenoy,940.89,2023-12-06 19:27:49,Nandyal,True
+a5033988-6555-4f36-bba6-74788319e37f,"Sem, Andra and Balay",643.6,2023-12-16 20:33:07,Udupi,False
+d544478c-bbd7-4e0f-a378-f82e8d4ff516,"Bora, Raman and Mall",830.42,2023-12-31 14:59:32,Bhiwandi,False
+a69eaefa-b001-4d1f-912a-2ed7976f6369,"Sur, Ratti and Trivedi",966.84,2023-12-17 23:08:57,Surendranagar Dudhrej,True
+8a592488-16f3-4bdc-a5ee-37decd757d82,Khalsa-Dass,307.32,2023-12-08 12:39:34,New Delhi,False
+9a27ebcd-03e4-4af8-bdc2-683fd971ecd8,Malhotra and Sons,547.17,2023-12-19 16:09:20,Darbhanga,True
+fe3809cf-2357-469c-8562-2574610f8f70,"Khatri, Bahri and Krishnan",762.39,2023-12-22 22:38:20,Jamshedpur,True
+912c2fad-236e-4556-9d33-8eeebc7c4a49,"Kuruvilla, Thakkar and Ganesh",971.37,2023-12-10 22:08:23,Saharanpur,False
+ca51c524-d151-462c-b058-7e5627672401,"Basak, Goswami and Kant",599.5,2023-12-05 04:12:08,Kurnool,False
+a09f1d54-39ad-4b6a-b8fe-38bf8b0f35b6,Dave-Sethi,387.8,2023-12-31 16:27:00,Tiruppur,False
+825541f1-61d1-4f0f-83eb-f58e4fd78019,Roy-Tara,514.43,2023-12-26 02:34:54,Raiganj,False
+89ed52f1-37c9-4e29-afa5-6fc6f996a12e,"Khanna, Srinivasan and Mannan",459.11,2024-01-03 06:37:24,Bhimavaram,True
+afc22bb5-57a0-49bb-bb64-a06f392872d7,Gulati LLC,322.3,2023-12-21 03:25:32,Deoghar,False
+2240263f-9001-440d-925b-fffed511cee5,Koshy Group,953.9,2023-12-25 01:52:44,Jalgaon,False
+b58e5765-dbd2-43e6-add9-86ab2cfef4b7,Joshi and Sons,80.7,2023-12-10 05:58:00,Silchar,True
+47bded6b-9dea-4158-9632-67f64d1be314,Vohra and Sons,344.7,2023-12-28 01:34:41,Barasat,False
+98c4bbbf-ed55-4684-b661-aaa87c702602,Joshi LLC,414.31,2023-12-21 07:57:58,Berhampore,False
+c4f53b3f-77c9-4001-aebc-ce442e62043f,"Sunder, Thakur and Goswami",880.48,2023-12-27 00:31:51,Vijayanagaram,False
+0eb08d29-7111-465e-a190-66d232e3617d,Rastogi-Ramakrishnan,165.49,2023-12-16 04:57:32,Nanded,False
+af096351-0f42-483b-bd1a-73aa9c4aebd3,Kapadia-Rege,386.21,2023-12-05 08:19:20,Vijayawada,True
+47f762f5-fc78-4e61-a03e-885321f2f137,"Konda, Choudhry and Ghose",849.85,2023-12-23 14:26:46,Munger,False
+49a0e4cf-f781-47c1-bd7e-cbc4fcaab404,Bhagat Group,865.96,2023-12-18 04:29:49,Maheshtala,False
+3fd66e83-a86e-4734-ac5b-1b537b3e93df,Kalla LLC,533.82,2023-12-10 13:23:18,Karawal Nagar,False
+462582c4-0e13-49ce-92e5-217740e422e1,Kohli LLC,554.6,2023-12-16 02:42:17,Haldia,True
+3cd9801b-9c14-4c80-90ed-9831f1a909d3,Contractor LLC,251.54,2023-12-11 14:09:59,Rewa,False
+7a45186f-2150-4f9d-9b16-d5ef07c45611,Kant LLC,636.61,2024-01-01 09:07:54,Allahabad,False
+8e8a3ea9-8251-49fa-94c4-f0c8d85d72af,"Vala, Seshadri and Dewan",794.59,2023-12-24 10:36:43,Bhilwara,True
+9a7bee87-3e01-4d54-9b1f-97fa01fbe3fc,Sama LLC,323.49,2023-12-29 12:57:31,Danapur,True
+5a8be190-3878-4638-8fa9-797300ba7842,Gade-Yogi,286.33,2023-12-18 14:51:11,Raiganj,False
+0c0ac968-82ed-490b-8cd4-88bbfad26ed2,Shan PLC,699.39,2023-12-08 09:56:45,Yamunanagar,False
+072b8073-b7b7-4e7c-b098-4111340bff83,Joshi LLC,678.46,2023-12-09 03:18:40,Jalna,False
+4d01efd2-bd69-4533-ab18-ab2254ff941a,"Magar, Madan and Dutta",800.87,2023-12-13 02:09:35,Chandigarh,True
+64255c2e-4039-4009-ae65-0ab1a1592b6c,Bala Group,946.51,2023-12-23 01:19:31,Yamunanagar,True
+6adfe978-2224-477e-81e0-1dc6a4f2a9c4,"Garg, Edwin and Char",969.02,2023-12-27 00:05:53,Hubli–Dharwad,False
+232182f1-7d3c-462f-82cc-d4248ebdf638,Apte-Keer,354.48,2024-01-01 07:39:06,Morbi,True
+f2921078-fe4e-4211-a7ad-42d9a616d404,Jha-Sarin,851.08,2023-12-05 10:00:43,Kishanganj,False
+4c32e0e8-6866-49ca-8647-a6ac370c7020,Dewan-Dora,251.29,2023-12-14 00:50:04,Dindigul,True
+00d238e3-4326-428d-84ec-ac828879381e,Sandhu Ltd,792.83,2023-12-26 14:21:42,Jaipur,False
+b986ec8a-d526-4caf-8a49-12eb521f11f3,Venkatesh-Gara,448.29,2023-12-19 00:07:18,Aizawl,False
+308fa1a4-a5ce-4363-bff9-3204ae8ee812,Chawla and Sons,642.56,2023-12-17 18:42:23,Shimla,False
+c4069057-95ec-4388-b177-0fb5f52784c2,"Edwin, Dani and Sarma",329.1,2023-12-31 07:21:35,Kadapa,True
+00c14a6f-b520-4b00-a178-6667ed24ef59,"Bera, Arya and Kulkarni",196.77,2023-12-20 08:56:26,Solapur,True
+589846c7-cbde-467e-b956-6e919b2f9f97,"Karan, Lad and Lalla",856.9,2023-12-29 02:08:58,Dindigul,True
+7908c46d-3bf0-418e-b922-e9072d1839f2,Kalita-Hora,670.9,2023-12-19 07:06:28,Raurkela Industrial Township,False
+5abe3ff8-9dcd-491e-87b4-9e599c3b9895,"Comar, Karan and Jha",278.21,2023-12-16 21:01:32,Durgapur,False
+25b30506-5cee-4e26-855e-6c6ad4c2f107,Dora-Sethi,91.09,2024-01-03 07:32:02,Silchar,False
+37ade4bb-d1db-4c41-912d-f2675470a63c,Sarna LLC,544.75,2023-12-05 07:27:56,Ozhukarai,False
+68d191cf-f24d-4359-94d4-efd1498bf2c7,Kaul LLC,550.13,2023-12-20 18:08:58,Mahbubnagar,False
+c8b1520f-6f74-464d-bff4-20046fb11a4c,Balasubramanian PLC,35.42,2023-12-14 13:01:07,Bihar Sharif,False
+a2c8d564-407d-4af1-9364-8e1adce7cf4f,Chaudry-Bali,311.32,2023-12-19 12:11:45,Shimoga,True
+0e4b6a83-4048-4de5-8a0d-679995b735ea,"Mahal, Banerjee and Sawhney",903.78,2023-12-05 18:44:12,Gangtok,False
+36f84dad-11fc-4d01-b03d-621080357863,Mahal-Chaudhry,789.5,2023-12-14 20:21:01,Pune,False
+d708ec2d-5583-4a0e-b282-27d76bd363c9,Iyer-Kaul,430.07,2023-12-24 10:09:23,Meerut,True
+3df2cea3-6f91-450a-8569-9409e9866d08,"Sundaram, Kakar and Goswami",376.87,2023-12-11 07:01:15,Kota,False
+508344bd-8267-4cb0-9441-aabd912ded62,"Ben, Mann and Chada",948.58,2023-12-06 13:37:40,Ranchi,False
+a5256b4b-f3f2-4933-9113-d569b0b540db,Vaidya-Barman,474.7,2023-12-06 07:54:20,Bokaro,False
+01b80ceb-6275-4986-9b62-403cb61fed23,"Kumar, Kant and Sinha",281.57,2023-12-13 21:46:55,Unnao,False
+86f3f3bc-e265-4a7f-962e-62b99d9d707a,"Gill, Tandon and Kumar",211.56,2024-01-01 11:44:42,Mirzapur,False
+48e88fbc-26da-4c4d-b2fb-0b968a62a478,"Madan, Sheth and Yohannan",583.78,2024-01-03 12:17:24,Haridwar,True
+9fb51a17-8021-4557-9e16-ef8576fb41e6,"Gola, Walia and Chowdhury",41.78,2023-12-18 22:11:34,Pali,False
+f8f2ca11-f2f1-4320-91ea-ebb8e0759819,Ram Ltd,23.78,2023-12-13 12:44:35,Suryapet,True
+aa34edf0-efa9-4c9e-aaa5-f38aed710089,"Goyal, Viswanathan and Ganesan",200.66,2023-12-16 21:16:09,Proddatur,False
+54160b9f-9c75-4a9b-9909-544471edb62c,Dua-Dasgupta,865.42,2023-12-25 04:47:22,Alappuzha,False
+d304ea7e-a32c-4738-8d49-9a638b72f836,Kurian-Viswanathan,588.74,2023-12-23 05:18:31,Siwan,False
+86c6236e-6b9b-45eb-aedd-eaf7f4cf94f1,Kara Group,401.68,2023-12-30 14:25:12,Ambarnath,False
+816bc30e-83be-4205-911b-82bd87ac98ed,Taneja-Gole,254.77,2023-12-21 11:53:18,Hapur,False
+8da6d00a-9a00-44ed-a46c-6847bd2c1673,"Salvi, Rastogi and Kulkarni",758.71,2023-12-11 01:27:31,Nandyal,True
+62ef4b7f-9c08-4ad1-ae5b-95b2d787e042,"Dhar, Soni and Devi",400.08,2023-12-08 17:29:43,Sri Ganganagar,False
+b83d2ff5-7b29-4083-aa56-0034af0cf239,Bhat Ltd,877.09,2023-12-08 21:06:20,Ranchi,False
+68b28634-c5de-414e-82c7-e20a4dd55ee6,Chaudry-Bhatnagar,951.05,2023-12-15 08:24:50,Bhind,True
+6eb2f96e-f1ab-4e86-a322-742e71f5bc33,Kannan-Dave,256.71,2023-12-21 06:53:33,Udaipur,False
+66d38e04-06d2-4ab9-909f-37eb0bb397fb,Thaker PLC,753.63,2023-12-24 06:55:36,Eluru,False
+b66d8e76-5cfa-4ca1-bc29-59ce43952602,Iyengar-Dar,381.09,2023-12-07 06:20:49,Mirzapur,True
+b0a71f68-1f27-46d9-8403-a32fef6162f5,Wali Group,228.33,2023-12-21 07:48:45,Parbhani,False
+f6e63408-8d66-42cf-9395-7cc904434aed,Amble PLC,494.45,2023-12-17 19:48:06,Gandhidham,True
+68d71204-6a4b-4b09-8533-56d4020f5994,Chanda Ltd,732.43,2023-12-18 12:41:27,Chennai,False
+2c44a83e-1e0b-4c0a-a4be-0cf1fefa8280,Garg-Chadha,63.07,2023-12-15 10:07:24,Bhopal,False
+ce095f45-ca87-469a-b479-87c803205c1d,Raja and Sons,73.59,2023-12-31 06:50:50,Phagwara,False
+371c6d28-8454-4242-8bdc-673e1307ba27,Chander LLC,798.16,2024-01-01 22:54:56,Alappuzha,False
+f34f5e6e-9310-48a9-87cb-d08e4dc4adee,Boase-Gulati,225.78,2023-12-28 09:39:36,Silchar,False
+ba33bb2b-d73a-4f0e-81e6-1a7eac3a956e,Hari-Bhavsar,624.82,2023-12-30 11:15:33,Bikaner,False
+be815ce1-fdd7-4d09-93b1-1e23aa8947fa,"Kashyap, Chandra and Kari",487.03,2023-12-13 10:07:32,Thanjavur,True
+74791bd7-03c8-4955-9716-b0a37757f731,Varghese-Bala,591.07,2023-12-21 11:09:15,Karnal,True
+ba3d4233-36df-4986-bfc5-7a59af86dc62,"Chauhan, Sur and Shere",295.34,2023-12-06 23:41:43,Sagar,True
+c7d011e0-e7b0-4c24-a181-f96e62547741,Sidhu-Swaminathan,88.99,2023-12-25 08:17:10,Latur,False
+847bfcb5-ebf9-40d8-9573-d0c5899405ce,Doctor-Bajwa,727.34,2023-12-20 12:22:24,Bhiwani,False
+f424401d-89e6-41a6-a6e9-d32e82ad1da6,Rajagopal Ltd,507.82,2023-12-23 13:31:33,Kadapa,False
+0d6eab12-ec75-42e3-8e3c-9eaa780028bf,"Chadha, Virk and Bhandari",833.61,2023-12-10 23:46:31,Jamalpur,False
+34627f7f-6ed3-4d0c-a7ed-538d2dc53750,Sethi and Sons,279.0,2023-12-30 20:05:25,Jaunpur,False
+e5c7d58c-36fe-47a3-9a2e-6621e97ceeff,Ram PLC,270.76,2023-12-29 18:12:25,Karawal Nagar,False
+36fbe2b8-3ec6-4891-92c9-591669962735,Goswami PLC,795.0,2023-12-30 00:41:39,Rajpur Sonarpur,False
+a3459a1d-a4fc-44a5-ace4-3c74dd8371c1,"Sidhu, Srinivasan and Chauhan",756.69,2023-12-27 07:00:52,Tadipatri,False
+5b50d97e-342a-43b0-8bed-c9def5e1e705,"Majumdar, Mangat and Madan",543.07,2023-12-18 15:05:37,Tenali,False
+e526a6dd-c46d-4108-8be6-ab2018b95779,Gaba-Gill,420.79,2023-12-06 20:09:12,Narasaraopet,True
+82c8254a-ec42-4013-a923-652ede6f2323,"Thaker, Sahni and Verma",281.85,2023-12-04 14:40:33,Noida,False
+11ea0eb4-69d8-473d-b8fb-bf0321234ad4,Deo PLC,750.04,2024-01-01 02:56:31,Orai,False
+33f2e967-bb8e-45a1-aa77-4dcd9d6485c3,Gupta-Krish,778.24,2023-12-17 12:04:27,Bellary,False
+f0595985-3dcd-4f0a-ad4d-a7b9a8695f9f,Saxena-Dasgupta,211.52,2023-12-19 13:30:55,Amravati,True
+1ed1466c-5701-4e71-9492-5cf69c8a185f,Mani Inc,305.46,2024-01-02 00:48:35,Kharagpur,False
+9283be91-698f-47c0-8d99-d52c7f8b0b60,Dhaliwal Inc,750.45,2023-12-07 19:29:14,Bally,False
+9c413828-5edc-429c-8e96-cf8a3d0a978e,Choudhury and Sons,430.89,2023-12-15 23:47:13,Ahmedabad,False
+f13aef19-d6b0-4fa0-86f6-3da6edb02628,Kalita Inc,368.16,2023-12-30 19:33:29,Rajahmundry,True
+80e616f2-c05c-40f6-b60f-1f09423a1648,"Koshy, Lalla and Choudhury",833.35,2023-12-08 07:35:15,Ujjain,False
+93e75570-9703-4e7a-b649-ed3fe94273b4,Seshadri PLC,937.29,2023-12-07 22:04:04,Indore,False
+017ba2cb-ab30-4587-a0b2-dc666f1bc1e4,Mammen PLC,306.38,2023-12-26 12:14:13,Allahabad,False
+a9aef6b6-0366-484c-8b30-5c9891897a9c,"Lall, Barman and Zachariah",345.33,2023-12-29 08:30:22,Sikar,True
+79ca618b-167b-46f2-a500-b4d46564b24d,Choudhry PLC,228.24,2023-12-12 18:46:05,Kulti,False
+2a8cbfe8-aa5b-4b68-b166-0c3fd63f631d,Keer-Kurian,274.14,2023-12-16 05:19:23,Sangli-Miraj & Kupwad,False
+2dc53cd8-4063-4ddf-bc4f-9362ccf5baf5,"Chaudhary, Khare and Korpal",493.69,2024-01-01 16:20:07,Darbhanga,False
+73dc22fd-2590-49aa-90e0-517add1c78fd,Rege Inc,935.36,2023-12-12 08:08:34,Mau,False
+836ccbb6-b202-4d30-b4d1-f268708d27da,Kurian-Sachdeva,792.78,2023-12-18 11:47:14,Avadi,True
+1480ea24-f6ea-4f40-bafa-833ab746dfed,"Singhal, Sidhu and Gade",556.4,2023-12-09 14:35:08,Kavali,True
+9988c229-3d80-4124-afdb-2545ce065c73,Chander Group,262.18,2023-12-29 14:29:56,Karimnagar,False
+b16ab1e9-c4aa-4764-9162-2c241c341fcd,Sankar Group,549.49,2023-12-22 02:58:06,Anand,False
+58df2a48-008d-43ee-b384-6d92d3d6eb62,"Dugar, Ravi and Tiwari",94.8,2023-12-13 18:21:26,Chennai,False
+2bee79aa-2966-4794-85d5-9b781ae02aef,"Agrawal, Khare and Ahuja",101.82,2023-12-24 16:03:40,Berhampur,False
+8619726f-5ca3-43ea-9c4a-058c9b858e3e,Gole and Sons,447.31,2023-12-22 14:00:19,Vasai-Virar,True
+5cde86f5-00a5-4597-a02e-749aee8ed3a8,Manne and Sons,742.69,2023-12-23 04:40:34,Rajahmundry,False
+eaf70e88-ab8a-40d4-93b5-bf71bf6087ac,Bava Inc,505.58,2023-12-25 21:12:05,Purnia,False
+f215212b-8e55-4912-92fe-7ede41fba2b7,"Saha, Ben and Sura",429.34,2023-12-12 04:29:15,Suryapet,False
+5e8f8ed5-9109-4379-9665-548a2a122679,Gole-Rau,53.21,2023-12-17 04:55:09,Yamunanagar,True
+57058b2b-8c64-43d6-ad67-bbb5f6414342,"Sagar, Madan and Rajagopal",82.53,2023-12-14 23:29:31,Jorhat,False
+e9ea7c00-0ab2-46ee-8894-78e81c3f0199,Majumdar Ltd,774.76,2023-12-22 12:00:22,Pune,False
+9bbbd3c5-0f68-4787-9ceb-be1cef15b253,Sundaram Group,947.48,2023-12-08 01:59:51,Dharmavaram,False
+c00495aa-ff6f-4e3b-be74-5b0ad8ef16cc,Ray PLC,209.14,2023-12-07 15:29:49,Bongaigaon,False
+78f62238-7b02-4250-bb9c-7c818ebe327a,Ganesh LLC,466.54,2023-12-17 16:02:28,Thane,True
+29047d12-60e2-4424-97b9-71c530d9e5f9,Dara-Roy,271.34,2023-12-31 07:02:39,Haridwar,False
+03030a46-b33a-495d-9b87-ea075fdb43a0,Dass-Sibal,282.28,2023-12-23 13:13:51,Amaravati,False
+1c00a67c-1fed-4208-a37a-137d3232a573,Datta Group,694.87,2023-12-12 21:21:57,Shivpuri,False
+3739ff93-f37f-4b2a-80cd-2f93f555bd73,Lad-Taneja,631.97,2023-12-24 05:19:46,Silchar,True
+724cbd31-a03d-4115-975f-fcde00bc51ec,"Dyal, Ramaswamy and Ratti",351.67,2023-12-20 11:18:05,Tezpur,True
+ee04f03f-96b9-42d7-9d29-6f088f766f99,"Tailor, Sekhon and Banik",653.38,2023-12-24 16:52:22,Amroha,False
+9bf2c2e5-83f6-4867-8711-43e4a2e2a5c6,Rama and Sons,880.53,2023-12-20 15:33:42,Mau,True
+7d579a70-fb14-4441-a2ce-b6c091b6e200,Sharaf-Dixit,230.21,2023-12-19 09:35:49,Nagpur,False
+989520be-f642-49d7-b4b8-0be3dd15b689,Badami Inc,598.57,2023-12-20 08:42:10,Gorakhpur,False
+89b8544d-6f92-4d89-8b60-7d16ed87c350,"Solanki, Dixit and Tara",642.55,2023-12-27 18:05:50,Dewas,True
+788287c6-8dfa-4269-8e47-ebef085804e7,"Lad, Ramakrishnan and Buch",530.69,2023-12-27 08:33:30,Fatehpur,True
+e73db015-9d00-40d1-a2cc-3ba86795f43c,"Bhakta, Raj and Dewan",583.39,2023-12-25 20:47:03,Anantapuram,False
+6ecd51ec-56fe-4e3f-94e1-41dd3d75f8f5,Kurian-Lall,94.76,2023-12-10 16:58:35,Nadiad,False
+73e8824d-2b00-46e8-8bfe-a1ee963edf90,Kashyap-Bedi,460.46,2023-12-22 01:59:19,Sangli-Miraj & Kupwad,False
+4c5ffbdb-0026-4c12-bceb-665d7e7b6791,Chatterjee LLC,961.18,2023-12-14 13:03:36,Indore,False
+c5d9e8a4-e37a-43e5-ae91-3bd4fbe40447,Cherian-Tank,513.78,2023-12-23 22:05:24,Aurangabad,True
+9859f03b-f2ad-49d4-89bf-c503e2e279c3,"Bhakta, Randhawa and Talwar",761.81,2023-12-15 14:05:42,Alwar,True
+3d822193-0edb-4136-8732-fbe2f3d559a6,Mangat LLC,218.87,2023-12-08 23:14:10,Pudukkottai,False
+066411db-f834-42db-8b69-5d2ad6fd32bf,Kale Inc,272.55,2023-12-29 12:46:22,Navi Mumbai,False
+f2aabe6a-3f60-4501-9891-8f7ce02059d7,Chokshi-Bawa,441.22,2023-12-28 13:28:09,Bijapur,False
+cf71ff56-4c34-42e5-b925-d9aa9c4f4183,Dhaliwal-Kant,414.21,2023-12-21 11:13:34,Madhyamgram,True
+76f6e5dc-655b-43fe-8006-27ed347a7ebf,"Kaul, Joshi and Ganesh",879.93,2023-12-17 09:26:12,Udaipur,False
+b599a0db-9c0c-4df2-bffc-61cc8c478b31,Kala-Ghose,307.0,2024-01-01 00:33:04,Alappuzha,False
+55f2c6d8-4368-4ebb-9456-67e6252a944c,Ranganathan PLC,235.32,2023-12-12 22:09:40,Dehradun,False
+88bc57be-3b79-447b-882c-6c5218d3ff5c,"Tripathi, Shenoy and Chopra",157.11,2023-12-26 05:20:48,Bhimavaram,True
+eccce3b0-8bf2-442c-a74e-29fc64e2a333,"Reddy, Sahni and Kamdar",217.41,2023-12-21 13:22:28,Jammu,False
+f8d64552-1cb5-426f-b41d-066388e215dc,Ratti LLC,701.16,2023-12-27 13:51:57,Ballia,False
+3a7dbbe5-2ce3-4e9e-af61-f3906b4bf8fd,Dar-Sehgal,313.14,2024-01-02 07:07:22,Saharsa,False
+41905062-4019-4b18-a2d4-5de795bff38d,Viswanathan-Bhagat,823.89,2023-12-14 13:31:55,Maheshtala,False
+f0886c8d-eb02-4823-8fbe-a0bd9083d065,Ramaswamy Group,633.15,2023-12-23 20:22:06,Sasaram,False
+7f30f7bd-ed0c-4a74-920b-3ff7eb66c293,Khanna-Dugal,721.22,2023-12-11 01:49:10,Latur,False
+44b9e9b9-e27e-4a52-9aef-1903fffe8cd9,Dhaliwal-Dhillon,215.71,2023-12-17 20:48:34,Alappuzha,False
+665e389a-5bbb-4436-9a0d-fe08ce0a154e,Bal-Kumar,427.94,2023-12-24 09:13:59,Proddatur,False
+752a7564-8a61-4bb6-96fc-7c04b6c8682a,Hegde Group,146.99,2023-12-30 16:10:10,Aizawl,False
+8b7ccaf4-4f95-4d4b-86ec-7267045af146,Sarraf-Chand,853.25,2023-12-12 07:56:42,Gurgaon,True
+f27427ad-acb4-4c55-a7f6-752ecee7268b,Bhavsar PLC,154.11,2024-01-03 03:33:48,Silchar,True
+f505001d-ab83-43b5-b800-50ebccca8fca,Balakrishnan PLC,72.58,2023-12-27 21:36:23,Sambhal,True
+3d2b18f8-0fe0-43d3-b2b5-f17c95995383,Suresh Group,330.91,2023-12-06 01:18:39,Hyderabad,False
+143ae300-201c-499c-8c37-a48b8d150f16,Warrior and Sons,448.7,2023-12-14 11:25:51,Tirunelveli,False
+f73d96c2-6168-41c9-b427-c4cd405c5411,"Gupta, Bava and Bandi",637.9,2023-12-15 20:07:20,Eluru,False
+8c4350b7-acf3-4945-9510-d897527cc12a,Sheth-Kalita,520.3,2024-01-01 11:05:25,Rourkela,False
+41dcdfc4-2a21-4de8-810a-9e4c59e36e29,Ramakrishnan Group,561.38,2023-12-22 14:12:33,Kakinada,False
+ea0e0fcb-8a50-4db2-a660-b51af36b34fd,Basu-Yogi,711.7,2023-12-24 10:05:00,New Delhi,False
+4324e609-70fd-4421-a280-ddf508705a94,Kumar and Sons,567.21,2023-12-21 09:39:39,Saharsa,False
+16b840d7-04cd-4c3c-933c-f3cd68f8754b,Sachar-Wason,904.37,2023-12-19 10:54:07,Srinagar,True
+67e24af6-9182-411c-aeaf-3255f50e7263,Gara Inc,984.01,2023-12-18 03:33:24,Hospet,False
+cb369647-e222-47c9-9255-54abb464d569,Dutta LLC,667.6,2023-12-10 01:38:13,Akola,False
+d6e3918d-b9f2-427a-81a2-29c0bbfab0df,Rajagopalan-Roy,828.36,2023-12-19 22:09:35,Alappuzha,True
+e6a24191-cbd7-45b8-96eb-0ed416b0ba81,Dey-Bal,723.51,2023-12-04 23:21:46,Raichur,False

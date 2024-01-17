@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fraud Detection Result</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        h1 {
+            color: #343a40;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 18px;
+            text-align: center;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 0;
+        }
+
+        p.fraudulent {
+            color: red;
+            background-color: #ffc7c7;
+        }
+
+        p.legitimate {
+            color: green;
+            background-color: #d1f7c4;
+        }
+    </style>
+</head>
+<body>
+    <h1>Fraud Detection Result</h1>
+    {% if is_fraudulent %}
+        <p class="fraudulent">This transaction is suspected to be fraudulent.</p>
+    {% else %}
+        <p class="legitimate">This transaction is likely legitimate.</p>
+    {% endif %}
+</body>
+</html>

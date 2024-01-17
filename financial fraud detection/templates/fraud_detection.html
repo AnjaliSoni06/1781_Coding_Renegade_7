@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>Transactions</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        header {
+            background-color: #343a40;
+            color: #fff;
+            padding: 15px;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        table {
+            width: 80%;
+            border-collapse: collapse;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+
+        th, td {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid #dee2e6;
+        }
+
+        th {
+            background-color: #2d2d2e;
+            color: #fff;
+        }
+
+        form {
+            text-align: center;
+        }
+
+        button {
+            background-color: #3a3a3b;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Financial Fraud Detection System</h1>
+    </header>
+    
+    <table>
+        <tr>
+            <th>Field</th>
+            <th>Details</th>
+        </tr>
+        <tr>
+            <td>Transaction ID</td>
+            <td>{{ transaction['TransactionID'] }}</td>
+        </tr>
+        <tr>
+            <td>Amount</td>
+            <td>{{ transaction['Amount'] }}</td>
+        </tr>
+        <tr>
+            <td>Merchant</td>
+            <td>{{ transaction['Merchant'] }}</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>{{ transaction['Location'] }}</td>
+        </tr>
+        <tr>
+            <td>Timestamp</td>
+            <td>{{ transaction['Timestamp'] }}</td>
+        </tr>
+    </table>
+    
+    <form action="{{ url_for('fraud_detection', transaction_id=transaction['TransactionID']) }}" method="post">
+        <button type="submit">Detect Fraud</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,1001 @@
+Timestamp,Amount,Merchant,Location,IsFraud
+11-03-2022 07:51,9332.99,Keer PLC,Kalyan-Dombivli,TRUE
+13-11-2022 07:08,8296.06,"Ghosh, Yohannan and Ramesh",Ichalkaranji,FALSE
+23-04-2023 01:14,1234.03,"Mahajan, Sengupta and Jain",Unnao,FALSE
+03-05-2023 01:13,785.31,Srinivasan and Sons,Dehri,TRUE
+12-10-2020 02:58,6956.48,Bhatnagar-Gara,Chapra,TRUE
+15-04-2023 12:25,1537.69,Yogi LLC,Coimbatore,TRUE
+11-08-2022 01:18,3294.69,Sem-Gopal,Haridwar,FALSE
+15-03-2020 19:55,2215.29,Suri-Khosla,Kumbakonam,TRUE
+29-09-2023 04:38,3312.08,"Badami, Kashyap and Mandal",Yamunanagar,TRUE
+30-08-2023 03:13,9443.64,Cherian-Brar,Bhalswa Jahangir Pur,TRUE
+28-12-2023 18:05,1022.51,Bhardwaj Inc,Khammam,TRUE
+18-04-2022 19:54,2246.99,"Anne, Tiwari and Chanda",Amaravati,TRUE
+12-09-2022 09:17,2974.58,Dua Group,Siliguri,TRUE
+05-06-2022 20:53,958.29,"Agarwal, Magar and Tak",Kottayam,TRUE
+25-07-2022 00:31,8321.41,"Doctor, Gala and Suresh",Sangli-Miraj & Kupwad,FALSE
+10-12-2020 14:44,4392.69,"Sandhu, Ahuja and Sunder",Kakinada,TRUE
+04-01-2020 11:00,823.53,Amble-Goswami,Barasat,FALSE
+13-02-2023 21:18,9244.67,Venkataraman-Kota,Loni,FALSE
+16-12-2022 12:06,801.13,"Borde, Bakshi and Borde",Tadepalligudem,TRUE
+20-04-2023 04:40,8142.98,"Ahluwalia, Singh and Manne",Udaipur,FALSE
+14-12-2023 05:44,6994.53,Yadav LLC,Raiganj,FALSE
+15-04-2022 16:58,500.32,Madan and Sons,Bhavnagar,TRUE
+19-10-2021 10:26,2436.86,"Banerjee, Saran and Chaudhry",Vijayanagaram,TRUE
+29-06-2023 09:35,8989.75,Vala Group,Dewas,TRUE
+24-05-2023 01:42,5955.28,"Tripathi, Rattan and Dani",South Dumdum,TRUE
+18-12-2023 09:44,5717.19,Chandra-Yadav,Bhubaneswar,FALSE
+27-04-2020 13:59,7311.41,Ben-Dugar,Gaya,TRUE
+14-08-2021 15:36,7937.99,Dass-Sekhon,Nagpur,FALSE
+02-04-2022 22:09,5266.1,Dugal-Vala,Jamalpur,TRUE
+29-06-2020 11:40,5172.9,"Dhaliwal, Gokhale and Goda",Arrah,FALSE
+21-05-2022 04:08,183.08,Date and Sons,Etawah,FALSE
+26-12-2021 13:38,1367.82,Bora-Sagar,Madhyamgram,TRUE
+24-08-2023 02:04,3243.49,Din-Ranganathan,Ajmer,TRUE
+21-10-2021 04:29,7799.35,"Dhaliwal, Bhasin and Sekhon",Indore,FALSE
+22-11-2023 02:37,3377.82,Dhar LLC,Khora ,TRUE
+02-04-2021 21:51,6510.31,Hayer LLC,Sasaram,TRUE
+30-05-2022 08:14,1656.21,"Dada, Krishnan and Sant",Maheshtala,FALSE
+20-08-2022 11:40,8783.62,Bhat Ltd,Bhilwara,TRUE
+02-05-2021 05:21,3624.86,Sant-Varghese,Mirzapur,FALSE
+12-08-2022 06:23,1442.96,Bhat-Sule,Farrukhabad,TRUE
+19-06-2020 22:20,7341.31,"Master, Sengupta and Kapadia",Panipat,TRUE
+15-09-2023 08:27,5106.19,D’Alia LLC,Bokaro,FALSE
+11-12-2022 12:12,8625.38,"Sood, Roy and Jhaveri",Nandyal,TRUE
+06-01-2020 07:17,8923.5,Samra LLC,Mysore,FALSE
+27-02-2021 16:28,5705.1,"Edwin, Amble and Keer",Saharanpur,FALSE
+31-03-2022 01:28,7108.92,"Jaggi, Lal and Warrior",Katihar,TRUE
+18-03-2022 16:07,6499.86,"Sha, Mall and Uppal",Hospet,FALSE
+09-09-2021 00:03,3726.58,Bains Group,Bettiah,TRUE
+20-09-2021 05:27,9120.37,"Kant, Vaidya and Kibe",Hospet,FALSE
+03-03-2023 10:50,9627.21,Mane-Tara,Chittoor,TRUE
+01-07-2021 01:14,6986.15,Savant-Badal,Asansol,TRUE
+23-03-2022 02:59,7265.39,Bhargava-Mangal,Sirsa,TRUE
+04-11-2020 12:46,2119.12,Borde-Sathe,Gurgaon,TRUE
+10-05-2020 14:13,3737.61,Mall-Dass,Pune,FALSE
+28-10-2023 03:05,6090.09,Loke Group,Tiruchirappalli,TRUE
+09-02-2021 09:51,5253.23,Halder PLC,Hospet,FALSE
+05-04-2020 09:23,1269.49,Bhattacharyya-Bobal,Akola,FALSE
+23-08-2021 02:59,7607.42,"Loke, Anne and Devi",Rajkot,FALSE
+17-05-2023 17:15,8557.58,Basak LLC,Hazaribagh,FALSE
+20-06-2020 10:46,7581.79,Saxena-Dyal,Sikar,FALSE
+18-02-2023 19:28,3706.12,"Bajwa, Badal and Toor",Panvel,FALSE
+17-06-2023 18:12,4593.22,"Kibe, Loyal and Bahri",Nanded,FALSE
+31-07-2021 14:26,6860.53,Kara-Gala,Satna,TRUE
+06-01-2021 22:02,7341.88,Devi PLC,Anantapur,TRUE
+25-11-2023 21:28,6676.61,"Sarkar, Aggarwal and Samra",Shahjahanpur,TRUE
+30-07-2023 18:34,1975.36,"Chokshi, Shetty and Malhotra",Raurkela Industrial Township,TRUE
+09-05-2022 01:58,7605.01,Bhardwaj-Andra,Panchkula,FALSE
+11-02-2020 21:56,4366.75,"Keer, Bhatia and Saha",Delhi,FALSE
+31-08-2022 07:22,323.07,Ghosh Group,Noida,FALSE
+21-02-2022 04:48,827.04,"Bhakta, Kata and Dhaliwal",Panihati,FALSE
+20-05-2021 15:21,7834.09,"Basu, Bains and Rao",Madanapalle,TRUE
+23-05-2022 17:20,3879.25,Kanda-Hans,Maheshtala,FALSE
+06-09-2022 05:42,2566.13,"Aggarwal, Choudhury and Mandal",Korba,FALSE
+09-06-2020 13:43,4629.18,"Rau, Ganesan and Tara",Kanpur,FALSE
+30-12-2021 19:26,9747.26,Vora Inc,Gulbarga,FALSE
+19-08-2022 04:00,7199.33,Kashyap-Venkataraman,Bahraich,FALSE
+30-03-2021 13:39,5635.67,Shah-Yadav,Sagar,FALSE
+26-03-2022 14:03,9114.92,Yogi-Gokhale,Kanpur,TRUE
+23-06-2021 23:36,5554.99,Chacko Inc,Bally,TRUE
+21-09-2020 01:56,8543.02,"Lall, Garg and Manne",New Delhi,TRUE
+06-05-2023 00:43,1430.31,"Swaminathan, Ramachandran and Rajagopal",Bathinda,FALSE
+26-10-2022 22:34,9538.8,Dara Ltd,Munger,FALSE
+07-03-2023 10:36,8807.39,"Rajagopalan, Bajaj and Chacko",Udaipur,FALSE
+01-07-2020 23:44,758.57,Mandal Inc,Udaipur,FALSE
+14-04-2022 23:00,230.58,Bumb and Sons,Hosur,TRUE
+24-04-2021 06:14,3262.35,Golla Group,Nashik,FALSE
+28-11-2020 07:12,4285.74,Varughese-Chandra,Naihati,FALSE
+31-08-2023 19:20,1400.77,Anne PLC,Nagaon,TRUE
+28-12-2021 00:41,7474.38,Salvi Inc,Darbhanga,FALSE
+08-07-2021 16:21,4437.91,Bala-Acharya,Kamarhati,FALSE
+05-03-2020 04:43,1705.57,Verma-Sur,Silchar,TRUE
+23-09-2023 19:16,852.9,Tiwari-Bahri,Imphal,TRUE
+05-08-2022 23:56,1692.28,Dutta and Sons,Gandhinagar,TRUE
+30-06-2022 13:04,665.83,Vasa and Sons,Gudivada,FALSE
+20-09-2023 19:19,4338.6,"Khurana, Khalsa and Ratta",Pallavaram,TRUE
+09-06-2023 19:40,1534.4,Mani Ltd,Buxar,TRUE
+05-03-2023 15:35,6573.17,"Dixit, Guha and Mall",Mango,TRUE
+15-06-2021 14:38,6452.81,Malhotra Inc,Darbhanga,TRUE
+13-03-2022 06:24,9336.69,Virk Inc,Davanagere,FALSE
+02-07-2023 09:20,6261.71,Varghese-Warrior,Phusro,TRUE
+01-09-2022 06:05,5560.27,Ravi-Luthra,Navi Mumbai,FALSE
+03-07-2021 14:53,503.49,"Sampath, Kakar and Bajwa",Nangloi Jat,TRUE
+10-02-2020 05:31,265.27,Doshi Inc,Sasaram,TRUE
+07-02-2021 12:37,8469.18,"Sibal, Wadhwa and Jayaraman",Mathura,FALSE
+01-03-2020 02:11,5438.04,Tella-Chhabra,Parbhani,TRUE
+06-02-2023 20:36,2985.42,Bassi Ltd,Rourkela,FALSE
+07-02-2023 23:19,2637.07,Thaker and Sons,Bhusawal,FALSE
+04-09-2020 14:44,1954.54,"Sha, Thaker and Chakraborty",Malda,FALSE
+09-03-2022 06:59,7415.56,Bains-Wali,Bahraich,FALSE
+27-07-2020 16:13,1681.39,Bahl-Vaidya,Jalgaon,FALSE
+09-06-2023 11:48,2606.89,"Garde, Sahni and Sidhu",Tiruppur,TRUE
+26-03-2021 21:41,5305.04,Bansal-Sem,Mango,FALSE
+12-08-2021 13:52,9364.39,Batra-Sarna,Hajipur,FALSE
+16-05-2022 00:56,3008.86,"Batra, Bora and Singhal",Darbhanga,FALSE
+01-09-2021 14:18,3701.73,"Dewan, Ravi and Chand",Dibrugarh,FALSE
+05-10-2022 20:31,3834.83,"Chana, Brar and Bhagat",Khammam,TRUE
+22-09-2020 05:30,2671.98,Srinivas Inc,Kishanganj,TRUE
+23-10-2023 10:39,8240,"Chanda, Samra and Sharaf",Giridih,TRUE
+05-11-2022 21:28,8807.26,Srinivasan Group,Bhusawal,TRUE
+14-06-2023 16:17,5538.37,Garde-Comar,Imphal,TRUE
+06-11-2022 22:55,9236.4,"Maharaj, Mane and Baria",Jaunpur,TRUE
+14-05-2023 13:03,9353.31,Ramanathan PLC,Chandigarh,TRUE
+25-07-2021 20:51,4903.05,Dhingra-Kurian,Pudukkottai,FALSE
+07-07-2020 04:09,1859.06,Lall-Bassi,Vijayawada,TRUE
+23-05-2021 14:59,1231,Dash LLC,Bongaigaon,FALSE
+07-11-2022 09:50,3409.98,Kale LLC,Guwahati,FALSE
+22-08-2020 22:37,1617.76,Bhalla LLC,Chittoor,TRUE
+09-01-2023 03:10,9324.52,"Kalita, Amble and Vasa",Naihati,TRUE
+22-07-2023 14:35,2877.32,"Sekhon, Goswami and Kara",Agartala,TRUE
+13-04-2023 23:04,5414.23,"Kothari, Manne and Chaudhry",Jamshedpur,FALSE
+26-06-2020 23:31,1230.21,Saxena Group,Delhi,FALSE
+30-03-2020 07:27,7252.6,Bhasin-Sekhon,Agartala,TRUE
+04-07-2020 15:46,391.63,"Saha, Thakur and Gala",Thoothukudi,FALSE
+18-12-2022 05:03,4859.25,"Singh, Manda and Wagle",Bhubaneswar,TRUE
+31-12-2020 10:09,8306.67,Hayre Group,Adoni,FALSE
+04-05-2022 19:28,8488.39,Deo-Mand,Dehri,FALSE
+24-05-2022 22:14,4130.49,De-Kala,Bharatpur,FALSE
+11-11-2021 15:37,6864.14,Sem and Sons,Srikakulam,TRUE
+30-10-2022 18:27,4503.54,Sankar PLC,Ambarnath,TRUE
+11-01-2023 18:20,9057.93,Gola-Upadhyay,Pimpri-Chinchwad,TRUE
+23-06-2023 04:57,4205.3,Master-Kara,Surat,FALSE
+20-10-2023 13:58,5450.96,Kurian Ltd,Burhanpur,TRUE
+30-01-2021 14:13,2072.22,"Chokshi, Chopra and Mahajan",Berhampore,FALSE
+05-02-2022 17:18,4793.06,"Kaur, Khosla and Ratti",Kollam,TRUE
+01-07-2022 15:12,2793.96,Johal-Kant,Rewa,FALSE
+16-03-2023 08:22,1956.58,"Shan, Shetty and D’Alia",Bardhaman,TRUE
+17-03-2021 18:31,8015.65,Sathe-Dhar,Malegaon,FALSE
+19-02-2022 18:23,7667.19,Trivedi LLC,Panihati,TRUE
+28-12-2022 19:52,5958.24,"Shah, Swamy and Garg",Shimla,TRUE
+17-05-2022 10:51,5733.03,"Sekhon, Guha and Bala",Gopalpur,FALSE
+13-10-2021 16:05,8046.43,Ram and Sons,Nashik,FALSE
+11-06-2020 07:25,7409.07,Balay Group,Nagpur,TRUE
+31-10-2021 09:36,7055.19,"Seth, Kapadia and Som",Noida,TRUE
+03-07-2021 12:49,8817.19,"Chacko, Agarwal and Sankaran",Bhalswa Jahangir Pur,TRUE
+23-08-2022 16:55,5278.95,Khare-Srivastava,Tumkur,TRUE
+15-11-2022 20:02,24.75,"Swaminathan, Wagle and Gade",Guntakal,FALSE
+01-02-2023 04:55,6670.11,"Gour, Sood and Koshy",Deoghar,FALSE
+05-01-2020 17:27,4350.11,"Aurora, Kota and Sharma",Agra,TRUE
+29-02-2020 15:16,2475.17,Bhavsar-Chawla,Bhind,FALSE
+14-11-2022 03:29,4372.88,Banik Ltd,Ichalkaranji,TRUE
+11-05-2020 09:54,8653.8,Gill-Malhotra,Kollam,FALSE
+07-06-2021 12:27,6788.92,"Guha, Kalla and Chandran",Jamalpur,TRUE
+28-04-2021 18:13,7973.6,"Sengupta, Sant and Deshpande",Ozhukarai,TRUE
+19-01-2022 06:55,6906.64,Madan-Mani,Nashik,TRUE
+05-10-2020 16:24,2104.13,Anne-Magar,Kadapa,FALSE
+14-02-2020 23:57,4092.75,Gara-Issac,Dindigul,TRUE
+12-07-2022 01:12,9078.71,Kalla PLC,Panvel,TRUE
+08-08-2023 19:22,1783.22,Thaker-Varghese,Bidhannagar,FALSE
+29-09-2020 13:49,3670.63,Sule Group,Mahbubnagar,FALSE
+14-11-2020 23:41,5356.65,Ratta Inc,Agra,FALSE
+26-07-2023 05:34,784.36,Mannan Inc,Bihar Sharif,FALSE
+11-01-2021 13:47,4204.7,Dutt Ltd,Silchar,FALSE
+05-04-2023 03:11,9095.45,Handa-Majumdar,Mangalore,FALSE
+19-12-2022 08:04,7150.77,Doctor-Hegde,Silchar,FALSE
+12-01-2023 10:34,9449.6,Sabharwal LLC,Katihar,TRUE
+18-08-2023 12:08,2690.66,Agate-Char,Gandhidham,FALSE
+29-06-2020 20:35,9003.31,Bail Group,Panchkula,FALSE
+08-07-2023 12:30,8879.71,Jain Inc,Morbi,TRUE
+04-08-2022 16:33,6804.93,Wable Inc,Hapur,TRUE
+08-03-2020 14:13,4977.42,Suri-Tailor,Chennai,FALSE
+04-12-2023 03:14,4498.85,Sabharwal Inc,Belgaum,TRUE
+10-12-2022 07:37,462.15,Barad-Madan,Kishanganj,TRUE
+15-03-2022 05:43,2345.13,Borra-Randhawa,Tadipatri,FALSE
+22-12-2023 03:19,5445.94,"Chhabra, Rege and Chakrabarti",Buxar,FALSE
+13-06-2020 03:49,2521.03,Zacharia-Tank,Bokaro,TRUE
+02-01-2024 11:33,3264.16,"Dhar, Kumer and Dani",Udupi,FALSE
+28-06-2021 02:55,1039.72,"Sharma, Gera and Wadhwa",Sangli-Miraj & Kupwad,FALSE
+25-08-2020 21:13,1703.19,"Bora, Bhagat and Apte",Rajkot,FALSE
+14-04-2021 17:17,3335.87,Lanka LLC,Nagaon,TRUE
+27-10-2021 20:18,2121.24,Raja Group,Thanjavur,FALSE
+06-07-2021 10:07,9707.94,"Dube, Babu and Bajaj",Asansol,TRUE
+17-02-2022 13:58,1755.7,Issac-Kulkarni,Thiruvananthapuram,FALSE
+30-11-2023 11:04,5789.51,"Hayre, Iyer and Bora",Madanapalle,FALSE
+24-03-2022 15:15,4891.96,"Sangha, Sanghvi and Talwar",Gwalior,TRUE
+22-11-2023 18:08,4644.67,Bera PLC,Ranchi,FALSE
+29-04-2020 12:10,6820.84,Kala PLC,North Dumdum,TRUE
+10-09-2021 21:27,499.86,"Goda, Edwin and Vig",Proddatur,TRUE
+13-12-2020 16:45,8454.48,"De, Maharaj and Shenoy",Thane,FALSE
+27-09-2023 21:19,362.1,Jani-Varughese,Chittoor,FALSE
+15-08-2020 21:18,3679.01,"Dugal, Atwal and Chokshi",Hosur,FALSE
+11-10-2020 00:43,205.69,Chakraborty Ltd,Jehanabad,TRUE
+24-12-2021 01:35,1429.13,"Bhargava, Barman and Sampath",Suryapet,FALSE
+01-10-2022 15:23,3192.52,Taneja Inc,Machilipatnam,TRUE
+17-10-2023 01:42,9478.58,Krishnamurthy and Sons,Coimbatore,FALSE
+30-04-2020 11:37,8351.95,Hari PLC,Kishanganj,TRUE
+14-06-2022 21:34,2879.9,Ganesh-Dube,Warangal,TRUE
+29-07-2020 14:17,7314.11,Ratti Group,Patna,TRUE
+06-05-2022 14:21,9615.25,Thakur and Sons,Shimla,TRUE
+22-10-2020 16:42,2480.47,Venkataraman Ltd,Mysore,TRUE
+03-09-2023 22:04,1924.5,Dora LLC,Nashik,TRUE
+21-11-2020 19:07,5674.05,Mandal and Sons,Alwar,FALSE
+21-12-2021 02:42,1075.15,"Chaudhari, Jayaraman and Kari",Bellary,TRUE
+29-07-2023 22:50,1543,Som PLC,Udaipur,FALSE
+30-04-2022 17:38,5799.31,"Bobal, Dash and Chad",Jamshedpur,FALSE
+15-05-2020 00:23,3191.04,Chada LLC,Tiruvottiyur,TRUE
+07-12-2023 10:24,3501.57,Chaudhry-Reddy,Gaya,FALSE
+18-07-2022 06:26,3490.25,Din-Balakrishnan,Tinsukia,TRUE
+24-05-2021 15:59,4433.02,"Devan, Tak and Sampath",Mumbai,FALSE
+09-02-2023 21:22,8599.42,Koshy PLC,Tadipatri,FALSE
+04-06-2020 13:43,9357.03,Sethi-Sahni,Khammam,TRUE
+16-01-2023 06:52,1975.22,"Ramakrishnan, Chawla and Balay",Agartala,TRUE
+03-07-2020 18:21,9861.27,Ram-Bhattacharyya,Dindigul,FALSE
+03-03-2023 09:59,9849.22,"Raval, Rastogi and Batra",Sonipat,FALSE
+11-09-2020 01:43,3047.51,Saxena LLC,Shahjahanpur,FALSE
+06-11-2023 21:33,4440.89,Brar-Mane,Yamunanagar,FALSE
+01-08-2022 23:13,1151.89,Sood-Brar,Rewa,FALSE
+21-03-2023 08:13,2645.95,"Deshpande, Sawhney and Goel",Motihari,TRUE
+10-01-2020 03:57,5901.56,Thaker-Seth,Dibrugarh,TRUE
+04-04-2020 00:15,5915.47,Kothari Group,Bharatpur,TRUE
+21-01-2020 18:05,1937.03,Ahuja-Kakar,Panvel,FALSE
+24-07-2022 15:46,7637.67,"Srinivasan, Halder and Dhar",Nadiad,FALSE
+09-05-2021 05:45,9167.56,Doshi PLC,Pune,TRUE
+25-02-2023 19:22,5291.35,Guha Group,Sirsa,FALSE
+04-02-2023 23:00,566.87,Tripathi Group,Gandhinagar,FALSE
+28-06-2020 02:31,7773.81,"Bhagat, Kala and Balasubramanian",Shivpuri,TRUE
+13-06-2021 09:26,2819.57,Rajan-Som,Rohtak,FALSE
+01-05-2023 15:46,2369.13,Bose-Batra,Bahraich,FALSE
+19-04-2022 07:32,4391.14,Chowdhury-Korpal,Pudukkottai,FALSE
+05-01-2023 17:12,8974.2,Raman-Dewan,Bahraich,TRUE
+06-07-2020 01:02,9553.35,"Saha, Dugal and Reddy",Tiruchirappalli,FALSE
+11-04-2020 21:34,5902.34,Chakraborty-Subramaniam,Secunderabad,TRUE
+18-03-2023 05:08,2874.06,"Dash, Bala and Balan",Surendranagar Dudhrej,TRUE
+19-02-2022 20:22,7778.46,"Kurian, Choudhary and Gill",Danapur,FALSE
+20-05-2023 10:59,9807.5,"Chauhan, Joshi and Chakraborty",Faridabad,FALSE
+29-11-2020 17:34,2986.19,Shukla Group,Kottayam,TRUE
+01-03-2020 08:36,184.31,Viswanathan and Sons,Erode,FALSE
+12-07-2022 09:47,2378.14,Randhawa LLC,Ongole,TRUE
+03-02-2022 16:34,2043.07,"Korpal, Dube and Ramanathan",North Dumdum,TRUE
+02-12-2020 02:18,8959.76,Singhal Inc,Gangtok,FALSE
+23-07-2022 02:48,9208.59,Bedi-Kale,Sasaram,TRUE
+29-05-2021 16:21,9847.03,Krishna Group,Dharmavaram,FALSE
+11-09-2021 11:51,1749.44,Ramaswamy-Jayaraman,Vasai-Virar,FALSE
+12-10-2021 05:45,5760.33,Bhavsar-Varma,Bhubaneswar,TRUE
+18-10-2020 02:45,6871.14,Sama-Vala,Madanapalle,FALSE
+23-04-2023 02:00,1028.54,Dewan-Wable,Sri Ganganagar,TRUE
+21-10-2021 09:51,8037.74,Loyal Inc,Raurkela Industrial Township,TRUE
+20-06-2020 14:09,3731.13,Banik-Kara,Karaikudi,FALSE
+12-08-2021 03:49,6840.28,Ganguly PLC,Suryapet,TRUE
+20-02-2022 09:30,2728.02,Desai-Gaba,Siwan,FALSE
+09-03-2022 20:03,771.07,"Yohannan, Kunda and Divan",Nangloi Jat,FALSE
+19-04-2020 02:56,3320.93,"Saran, Batta and Rout",Jamalpur,TRUE
+07-02-2021 01:37,1266.65,Kala PLC,Hyderabad,TRUE
+06-08-2023 14:31,9155.11,Kurian Ltd,Kharagpur,TRUE
+04-06-2023 19:45,6029.53,Deol-Saini,Agartala,TRUE
+30-10-2021 22:37,8158.08,"Trivedi, Sule and Grover",Pimpri-Chinchwad,TRUE
+30-06-2020 08:41,4549.31,"Kumer, Wason and Raju",Madanapalle,FALSE
+03-02-2022 18:23,5122.72,"Sachdeva, Bora and Kaur",Dhanbad,FALSE
+26-06-2022 12:24,1551.78,"Rastogi, Bhargava and Sagar",Guwahati,FALSE
+09-04-2020 09:54,192.46,Wagle LLC,Sirsa,TRUE
+23-12-2023 21:57,6665.96,Lal PLC,Jalandhar,TRUE
+19-10-2022 22:30,9632.99,"Soman, Divan and Chakraborty",Malegaon,TRUE
+30-06-2021 23:53,2391.78,Bath-Shanker,Kurnool,FALSE
+25-04-2023 14:41,3885.71,Sridhar Inc,Muzaffarnagar,TRUE
+08-09-2021 14:50,1268.48,"Dua, Goyal and Sridhar",Bidhannagar,TRUE
+28-02-2022 03:45,5238.11,Raja-Randhawa,Ajmer,FALSE
+20-02-2020 04:23,1370.84,Sundaram-Batra,Saharanpur,FALSE
+10-05-2022 23:22,4081.36,Lal Inc,Pimpri-Chinchwad,FALSE
+10-03-2023 10:53,9490.26,Ganesan-Rajagopal,Motihari,FALSE
+26-05-2022 00:30,2993.99,Sunder-Wali,Rourkela,TRUE
+07-07-2022 19:30,5416.54,Salvi Ltd,Bihar Sharif,TRUE
+18-01-2021 14:00,5413.32,Khurana PLC,South Dumdum,FALSE
+04-10-2020 20:59,2182.19,"Sengupta, Kashyap and Bir",Mahbubnagar,TRUE
+02-11-2020 21:03,7119.21,"Uppal, Loyal and Hayer",Ludhiana,TRUE
+23-01-2021 04:58,8195.49,"Halder, Kurian and Bhatti",Tiruvottiyur,TRUE
+16-08-2023 07:00,3820.21,Sachdev and Sons,Raiganj,FALSE
+28-12-2020 06:29,4098.71,Bhatt Ltd,Kadapa,TRUE
+18-12-2022 19:17,7372.48,Desai PLC,Bhusawal,TRUE
+13-07-2020 04:23,7090.68,"Hans, Sastry and Mann",Patiala,FALSE
+29-05-2021 00:50,5825.26,Garg-Tara,Khandwa,TRUE
+17-08-2022 11:23,4671.87,Barad-Joshi,Ramagundam,FALSE
+01-01-2021 12:15,6092.75,"Bhatnagar, Kothari and Dass",Nizamabad,TRUE
+29-03-2021 21:22,53.66,Badal Ltd,Ramgarh,FALSE
+26-02-2020 18:40,5487.41,"Dhillon, Bal and Sehgal",North Dumdum,FALSE
+09-10-2021 22:31,6884.26,Yohannan-Vohra,Ghaziabad,TRUE
+06-08-2020 17:46,37.01,Manne PLC,Bihar Sharif,FALSE
+29-11-2020 05:17,4121.84,"Dutta, Sama and Agate",Thoothukudi,FALSE
+23-08-2020 10:34,5714.31,Upadhyay-Chander,Agra,FALSE
+26-11-2020 14:20,1069.5,Thakkar-Keer,Gandhidham,FALSE
+03-06-2023 07:33,6899.91,Bora-Kalla,Allahabad,TRUE
+10-02-2022 15:04,324.3,"Salvi, Kala and Majumdar",Hyderabad,TRUE
+02-09-2021 10:01,6615.92,"Sarraf, Gara and Roy",Khora ,FALSE
+09-02-2021 20:04,7323.63,Chaudhari-Magar,Unnao,TRUE
+02-03-2022 10:27,3021.7,Keer Inc,Shimla,FALSE
+09-03-2023 00:21,7794.75,Thakur LLC,Kota,TRUE
+04-02-2020 01:50,5842.3,"Gour, Bhatia and Tara",Gandhinagar,TRUE
+05-02-2020 22:15,8524.89,Kalla-Srivastava,Kota,FALSE
+11-04-2020 08:21,2891.93,Dass Inc,Karaikudi,TRUE
+22-09-2023 21:11,1837.12,Deshpande-Dhillon,Morena,TRUE
+19-07-2021 17:36,5985.12,Shah Ltd,Nagaon,FALSE
+26-04-2021 00:52,8320.72,Saraf-Bhat,Gopalpur,TRUE
+03-02-2020 10:37,3567.67,Shan-Lad,Guntakal,TRUE
+14-04-2023 11:21,1129.58,"Brar, Wali and Ratta",Jodhpur,FALSE
+05-03-2021 04:30,8610.25,Srinivas LLC,Dibrugarh,TRUE
+22-03-2021 17:22,7755.9,Shere Inc,Sri Ganganagar,FALSE
+28-04-2023 06:51,7440.25,Balan-Grover,Ichalkaranji,TRUE
+20-09-2023 18:20,6481.58,Comar-Dhawan,Burhanpur,FALSE
+27-04-2023 17:46,5870.24,Behl PLC,Tezpur,TRUE
+13-02-2022 17:00,2129.81,"Sundaram, Bora and Konda",Bhagalpur,FALSE
+05-06-2020 07:42,2700.11,Toor-Sandal,Amroha,FALSE
+06-08-2023 20:46,1741.05,Aurora Ltd,Bongaigaon,TRUE
+07-04-2023 18:26,2070.37,"Sandal, Anand and Kalita",Firozabad,FALSE
+16-12-2021 04:54,7421.11,"Guha, Sani and Dash",Aizawl,FALSE
+13-07-2021 23:07,9245.28,Chaudhari Inc,Ludhiana,TRUE
+11-07-2023 18:42,8138.51,"Kala, Khalsa and Dada",Asansol,FALSE
+09-01-2022 05:29,3235.6,Bala-Yohannan,Shivpuri,FALSE
+12-04-2022 13:21,1092.27,"Dhar, Bedi and Gupta",Navi Mumbai,TRUE
+20-11-2023 17:31,6426.13,"Viswanathan, Sahni and Bala",Raichur,FALSE
+26-03-2021 20:35,7395.41,Bora Inc,Motihari,FALSE
+13-03-2022 09:54,1295.1,Vaidya-Vora,Parbhani,TRUE
+01-11-2022 09:58,2851.54,Sastry-Iyengar,Dewas,FALSE
+18-03-2022 08:21,2214.92,Bajwa and Sons,Uluberia,FALSE
+14-05-2020 19:35,4485.7,Goel and Sons,Bhubaneswar,TRUE
+09-01-2022 05:13,204.51,Mallick-Kamdar,Amroha,FALSE
+29-04-2023 05:34,5582.05,Hayer Group,Rajahmundry,FALSE
+03-07-2022 19:36,6055.07,"Bhalla, De and Vohra",Giridih,FALSE
+02-01-2021 02:11,8851.16,"Rege, Raval and Kala",Solapur,TRUE
+10-04-2020 01:47,4626.62,"Sarkar, Acharya and Kaul",Haridwar,FALSE
+25-03-2021 02:10,3478.58,Master-Bhardwaj,Ozhukarai,TRUE
+16-02-2023 01:11,6906.92,"Dua, Yadav and Rao",Jammu,FALSE
+14-05-2021 11:11,9646.52,Anand Ltd,Bangalore,FALSE
+18-11-2021 03:53,9578.38,"Deshmukh, Jaggi and Gaba",Jamnagar,FALSE
+26-08-2021 15:15,1224.3,Loke LLC,Salem,TRUE
+28-01-2020 09:50,7896.67,Yogi LLC,Tezpur,FALSE
+29-01-2021 04:57,8960.37,"Gala, Saha and Dass",Alappuzha,TRUE
+17-02-2022 16:02,9418.47,"Handa, Thakur and Sandhu",Nandyal,TRUE
+14-03-2023 05:23,2779.68,Shere-Sankaran,Anantapur,TRUE
+02-08-2023 01:03,3315.41,Bhatt LLC,North Dumdum,TRUE
+19-08-2021 12:17,1114.57,Bhalla Group,Mau,TRUE
+18-04-2021 21:40,9670.04,Vyas Inc,Mango,FALSE
+24-05-2022 08:16,1279.69,Tiwari LLC,Munger,TRUE
+14-10-2022 03:15,480.85,"Hans, Chakrabarti and Brahmbhatt",Hindupur,TRUE
+01-07-2021 03:33,2864.08,"Buch, Badami and Shah",Tadepalligudem,TRUE
+14-05-2022 15:40,6307.49,Bahl-Ranganathan,Jalgaon,TRUE
+30-08-2020 18:48,8310.79,Swaminathan Inc,Unnao,TRUE
+23-11-2021 15:45,4559.97,Raja-Gala,Pallavaram,TRUE
+24-06-2022 11:41,1958.68,"Srivastava, Kala and Master",Dhule,TRUE
+01-08-2021 22:28,4604.53,Aggarwal-Sehgal,Purnia,FALSE
+23-12-2023 13:29,4990.25,"Sampath, Lata and Thaman",Etawah,TRUE
+10-11-2021 14:31,7292.49,"Ghosh, Sanghvi and Kala",Jabalpur,TRUE
+15-05-2022 16:32,471.98,Atwal-Handa,Rajahmundry,TRUE
+28-09-2020 00:16,7041.39,Raman LLC,Tirunelveli,TRUE
+19-06-2023 19:52,5424.81,Lata-Bhat,Akola,FALSE
+24-04-2021 01:25,6627.42,Garg Group,Ranchi,TRUE
+19-05-2023 14:14,2792.3,Saxena-Lala,Shimoga,FALSE
+16-08-2021 10:51,7534.47,Shenoy Group,Amaravati,TRUE
+05-12-2021 04:16,2552.28,"Kapoor, Kurian and Dhaliwal",Gwalior,FALSE
+30-01-2022 17:50,4625.36,Shan-Chahal,Gandhidham,FALSE
+12-03-2021 21:14,7275.85,"Kant, Hari and Lad",Machilipatnam,FALSE
+11-08-2020 01:50,1076.03,Shanker-Varkey,Mumbai,TRUE
+18-05-2021 12:21,2313.51,Sule Group,Vijayawada,FALSE
+19-02-2020 14:11,8939.01,Sodhi-Sarma,Tirunelveli,FALSE
+27-01-2021 19:53,608.88,"Sharaf, Tata and Chopra",Mumbai,TRUE
+21-03-2020 10:44,1882.89,"Ben, Subramaniam and Lata",Burhanpur,TRUE
+08-10-2020 05:55,7302.4,"Gade, Lad and Kala",Tirunelveli,FALSE
+22-05-2020 21:36,9612.01,"Gour, Madan and Kalla",Hosur,FALSE
+29-03-2023 09:29,244.32,Vala-Dube,Proddatur,TRUE
+16-07-2021 09:16,9204.08,Bahl-Jhaveri,Nagercoil,TRUE
+30-11-2020 18:22,6987.2,Swaminathan-Bawa,Rajkot,FALSE
+26-12-2021 12:31,8277.64,Sastry Ltd,Guwahati,FALSE
+06-12-2021 14:08,4750.06,Maharaj LLC,Tiruchirappalli,TRUE
+25-07-2020 00:42,6123.17,Bains-Ram,Muzaffarpur,FALSE
+29-02-2020 03:33,2829.69,Kala-Krishnan,Madanapalle,FALSE
+07-01-2020 02:42,4161.69,Loke-Deo,Avadi,TRUE
+27-03-2023 19:48,4047.62,"Jha, Bajaj and Raju",Tezpur,TRUE
+14-12-2020 15:18,1287.47,Khurana LLC,Kumbakonam,TRUE
+15-01-2022 23:53,7295.55,"Ravi, Saini and Kalita",Rewa,FALSE
+15-07-2021 07:31,4747.99,"Mand, Sen and Dhaliwal",Erode,FALSE
+17-05-2020 00:45,4608.68,Ganguly Inc,Kolhapur,FALSE
+24-03-2022 11:12,3935.15,Agate Group,Rohtak,FALSE
+30-04-2021 14:21,2179.96,Tank-Balay,Satna,TRUE
+08-08-2021 10:25,8647.36,Bakshi-Lata,Ichalkaranji,FALSE
+29-04-2020 23:17,7131.07,"Ratta, Saxena and Anand",Ghaziabad,FALSE
+28-11-2023 14:43,6195.25,Bawa-Sanghvi,Maheshtala,TRUE
+28-12-2023 01:14,4901.13,"Gopal, Bawa and Issac",Jhansi,TRUE
+16-01-2021 00:08,711.49,Rattan-Salvi,Thoothukudi,FALSE
+03-11-2021 01:51,3806.47,"Lata, Sahota and Ahuja",Katihar,TRUE
+01-12-2022 07:08,3656.51,Desai and Sons,Patiala,FALSE
+27-06-2020 14:26,4750.87,Kata Group,Amaravati,FALSE
+24-07-2021 10:06,4495.85,Bava-Viswanathan,Saharanpur,TRUE
+07-02-2021 00:20,870.21,Handa Inc,Mango,FALSE
+10-04-2022 04:00,6798.7,Goel Group,Belgaum,FALSE
+29-05-2020 21:05,1200.03,Dhaliwal-Sen,Pallavaram,FALSE
+18-10-2022 08:53,3441.57,Lad Inc,Bareilly,TRUE
+01-07-2021 07:14,4557.55,"Buch, Chandra and Bir",Chittoor,FALSE
+03-10-2022 08:27,4165.43,Buch and Sons,Morena,TRUE
+11-05-2020 19:07,3701.37,"Dugal, Sandhu and Behl",Surendranagar Dudhrej,FALSE
+03-09-2023 22:55,845.72,"Raju, Chowdhury and Baria",Ratlam,FALSE
+11-07-2020 18:56,905.71,"Bhardwaj, Bassi and Gara",Bellary,FALSE
+30-01-2022 02:01,1554.46,Bajaj-Kari,Bulandshahr,TRUE
+27-07-2022 03:58,4871.62,Sampath-Bava,Katihar,TRUE
+09-02-2021 19:41,1864.42,Virk-Bhatt,Pimpri-Chinchwad,FALSE
+18-04-2020 18:13,9343.32,"Kaur, Taneja and Hayre",Karimnagar,FALSE
+02-02-2022 19:28,7585.83,"Jani, Walia and Vora",Sasaram,FALSE
+09-08-2023 06:21,2916.16,Singh PLC,Raurkela Industrial Township,FALSE
+21-04-2023 13:17,925.28,"Krishnan, Agarwal and Savant",Amravati,TRUE
+24-07-2023 05:34,5628.84,Kamdar Group,Hindupur,TRUE
+28-03-2022 03:03,8198.08,"Borde, Hans and Gade",Bharatpur,FALSE
+09-01-2021 21:13,3125.95,"Anne, Bose and Sha",Mirzapur,FALSE
+31-08-2021 14:33,1311.62,"Agate, Chakraborty and Dayal",Madhyamgram,TRUE
+05-09-2022 15:36,1968.15,"Venkataraman, Choudhury and Balakrishnan",Lucknow,FALSE
+07-05-2020 03:53,3709.24,Batra-Bhandari,Rajpur Sonarpur,TRUE
+22-09-2022 00:50,5690.17,Dada and Sons,Berhampore,TRUE
+30-12-2020 17:24,6259.02,Chanda PLC,Kochi,TRUE
+18-12-2020 08:26,9142.42,"Kulkarni, Bir and Sehgal",Kavali,TRUE
+29-10-2023 01:40,5014.62,"Ganesan, Dara and Chad",Shahjahanpur,TRUE
+14-05-2021 01:24,4656.9,"Dhaliwal, Karan and Sundaram",Uluberia,FALSE
+29-08-2023 00:39,2414.62,Vala-Vig,Guntakal,TRUE
+30-08-2022 18:38,25.94,Ghose PLC,Begusarai,FALSE
+27-04-2021 03:41,9499.41,Andra Inc,Berhampur,FALSE
+21-01-2023 19:04,1645.68,Chand-Chauhan,Vadodara,TRUE
+17-12-2023 02:47,2296.03,Gara-Sha,Asansol,TRUE
+02-02-2023 17:27,6072.85,"Bhargava, Sama and Karpe",Silchar,TRUE
+13-05-2023 13:27,563.86,Rattan LLC,Nangloi Jat,TRUE
+11-02-2022 08:08,5586.03,Bala-Shanker,Nashik,FALSE
+10-04-2021 04:40,2173.44,Sarraf Ltd,Karawal Nagar,FALSE
+01-08-2023 01:38,4148.31,Halder Group,Morena,TRUE
+29-07-2023 15:48,8878.27,"Mander, Rastogi and Dave",Kadapa,FALSE
+24-02-2022 20:16,1679.13,Dugar-Contractor,Bally,FALSE
+13-03-2020 09:38,5117.55,Bawa-Majumdar,Shahjahanpur,TRUE
+17-08-2023 22:42,1277.69,Subramanian LLC,Gandhidham,FALSE
+15-09-2023 06:20,4970.23,Sem and Sons,Bellary,TRUE
+07-03-2021 23:38,1550.64,Badal-Ghose,Adoni,FALSE
+14-06-2022 21:01,2455.7,Kara-Sachdev,Kanpur,TRUE
+08-01-2023 08:23,9333.94,"Basu, Thakur and D’Alia",Delhi,FALSE
+12-10-2022 18:00,5725.8,"Vasa, Chawla and Sani",Jamshedpur,FALSE
+04-09-2023 14:34,5175.23,Chandra-Chaudhary,Lucknow,FALSE
+12-01-2022 16:31,4023.43,"Shetty, Deshpande and Ramachandran",Karimnagar,TRUE
+15-06-2022 12:27,1669.33,Karnik Ltd,Parbhani,TRUE
+16-07-2020 07:53,1521.95,"Kakar, Bhardwaj and Luthra",Darbhanga,FALSE
+25-02-2023 19:02,6572.79,Vig LLC,Ajmer,FALSE
+25-12-2022 22:13,6228.22,Contractor Group,Jaunpur,TRUE
+19-07-2023 00:40,3100.16,"Hari, Bassi and Cherian",Alwar,TRUE
+10-03-2023 02:32,3813.6,"Kaul, Goswami and Gulati",Ratlam,TRUE
+02-03-2023 20:10,5908.34,Tata Inc,North Dumdum,TRUE
+26-05-2023 00:02,399.68,"Bal, Bawa and Char",Noida,FALSE
+21-07-2021 01:40,5751.22,"Ram, Deol and Chahal",Anantapur,FALSE
+10-12-2021 14:10,3115.28,Bora Group,Faridabad,TRUE
+08-09-2023 09:37,4838.02,Dora-Vala,Amravati,TRUE
+25-10-2023 09:28,3259.44,Batra-Deshpande,Allahabad,FALSE
+17-11-2021 03:48,6578.58,"Dugar, Wable and Sachar",Kurnool,FALSE
+16-07-2020 17:22,6557.84,"Thaman, Sarraf and Sibal",Kanpur,FALSE
+15-05-2021 13:54,7289.61,"Dua, Borra and Tak",Jalna,FALSE
+27-03-2021 08:51,2933.35,Baria-Malhotra,Bathinda,TRUE
+05-07-2023 15:15,5589.12,"Dhingra, Rana and Manda",Rewa,TRUE
+23-11-2021 17:30,4353.66,Seshadri-Seth,Shahjahanpur,FALSE
+26-02-2020 05:37,7707.71,Khurana Ltd,Howrah,FALSE
+30-06-2021 02:22,4596.26,"Bhardwaj, Chatterjee and Reddy",Thiruvananthapuram,FALSE
+09-11-2020 10:43,2868.19,"Sharma, Sarna and Raj",Amroha,FALSE
+26-06-2023 07:23,2245.1,Gokhale Group,Noida,FALSE
+04-04-2020 05:37,7157.95,Borde-Garde,Karnal,FALSE
+06-11-2023 05:36,9470.37,Walla Ltd,Yamunanagar,FALSE
+07-03-2020 07:20,3470.23,"Korpal, Varkey and Iyer",Dindigul,FALSE
+17-12-2021 10:46,3895.91,Bhargava-Cherian,Mahbubnagar,TRUE
+02-08-2022 12:42,4719.2,Kashyap-Bhattacharyya,Bettiah,FALSE
+05-11-2022 13:41,3207.25,"Jhaveri, Thaker and Thaker",Mysore,TRUE
+03-02-2020 09:39,8476.73,"Butala, Sundaram and Dhar",Guntur,FALSE
+08-09-2021 13:25,5946.75,Chaudhary-Mangal,Hyderabad,TRUE
+29-10-2021 01:54,9763.69,Ganesan-Magar,Rampur,TRUE
+16-02-2022 02:15,2821.04,Choudhry LLC,Kozhikode,FALSE
+24-05-2022 06:15,6630.56,Hari LLC,Bahraich,TRUE
+29-09-2022 20:42,501.18,"Dube, Varghese and Dube",Pudukkottai,TRUE
+31-12-2020 14:31,2786.2,Kata and Sons,Kurnool,TRUE
+26-08-2023 02:10,9527.8,"Gandhi, Dhar and Rao",Avadi,FALSE
+07-12-2021 17:45,3710.41,Sarma-Andra,Asansol,FALSE
+12-12-2022 03:00,8942.7,Varghese LLC,Latur,FALSE
+23-05-2021 18:57,850.25,"Jha, Sunder and Kunda",Serampore,FALSE
+03-08-2021 14:10,3035.95,Luthra-Kara,Raebareli,TRUE
+23-01-2020 00:01,7376.09,Sridhar LLC,Jammu,TRUE
+16-02-2021 07:24,4000.79,"Kumer, Chaudhuri and Rao",Sultan Pur Majra,TRUE
+02-06-2022 05:31,7533.12,Wable-Ram,Bhubaneswar,TRUE
+09-07-2022 06:26,9934.79,Bali and Sons,Ranchi,TRUE
+06-12-2020 19:14,6451.65,"Bains, Hegde and Jhaveri",Panvel,TRUE
+27-01-2022 05:47,3705.4,Singhal and Sons,Cuttack,TRUE
+24-12-2020 01:51,4013.13,"Buch, Kata and Krishna",Bettiah,FALSE
+11-12-2022 02:43,9783.48,Apte-Ramaswamy,Dindigul,TRUE
+22-10-2022 04:04,6694.28,"Chakraborty, Kant and Kara",Vasai-Virar,FALSE
+02-03-2022 22:46,8586.1,"Thakkar, Kant and Karnik",Shimla,FALSE
+29-11-2022 21:11,6181.65,Hayer Inc,Adoni,TRUE
+13-02-2020 19:42,3629.94,"Khalsa, Srivastava and Wadhwa",Munger,TRUE
+03-10-2020 07:41,7706.24,Aurora-Sandal,Khora ,TRUE
+10-09-2020 08:46,3406.42,Gill-Shanker,Katihar,TRUE
+09-02-2023 07:34,5698.46,Lalla Ltd,Danapur,TRUE
+07-03-2023 23:49,3149.46,"Dhaliwal, Kannan and Apte",Nizamabad,TRUE
+27-05-2023 06:11,321.23,"Doctor, Thakur and Baral",Ranchi,TRUE
+20-06-2021 07:55,4236.37,Mann-Ahuja,Karaikudi,TRUE
+17-09-2022 03:11,5363.88,Chadha Inc,Bhiwani,TRUE
+16-02-2022 14:48,2889.9,Chakraborty-Biswas,Bilaspur,TRUE
+16-10-2021 04:11,5358.61,Dara-Majumdar,Lucknow,FALSE
+03-02-2023 17:13,9342.29,Behl Ltd,Indore,FALSE
+23-06-2022 06:29,9612.54,Grewal Group,Durgapur,TRUE
+20-04-2022 19:18,3966.93,"Kota, Dhillon and Bath",Danapur,TRUE
+16-03-2023 20:06,749.35,Sathe PLC,Ujjain,FALSE
+12-10-2023 15:22,9231.54,"Mandal, Tiwari and Baria",Gudivada,FALSE
+12-09-2020 23:19,9970.22,Chaudhry-Chaudhuri,Bhilai,TRUE
+23-12-2020 18:58,8671.65,Som Inc,Silchar,TRUE
+20-02-2022 18:33,8805.97,Buch PLC,Bharatpur,FALSE
+11-04-2021 03:29,2715.97,"Mammen, Manne and Sanghvi",Kanpur,FALSE
+29-05-2020 21:51,4703.65,"Badami, Wali and Setty",Panihati,TRUE
+14-05-2020 08:29,1642.68,"Kalita, Bera and Khurana",Kozhikode,TRUE
+16-03-2021 10:54,4758.87,"Korpal, Dave and Sahota",Buxar,FALSE
+11-01-2021 16:47,5764.7,Kanda LLC,Kolkata,TRUE
+20-06-2022 11:55,4296.75,Saraf and Sons,Rewa,FALSE
+01-05-2022 14:31,351.96,Bajwa-Kara,Warangal,TRUE
+10-06-2020 16:23,6825.1,Lad Inc,Indore,FALSE
+09-07-2021 13:52,7855.01,"Bansal, Chhabra and Bera",Chandrapur,TRUE
+24-04-2022 17:59,4049.15,Bhattacharyya-Tailor,Thiruvananthapuram,TRUE
+29-06-2023 16:30,196.85,Seth-Bhavsar,Jehanabad,TRUE
+10-02-2022 00:49,2914.88,Brar-Brar,Udupi,FALSE
+24-09-2021 04:44,8614.17,Lad-Rao,Ahmedabad,TRUE
+25-09-2023 12:58,7373.32,Cherian-Balan,Satara,TRUE
+21-10-2021 15:32,8876.65,Lad and Sons,Ghaziabad,TRUE
+27-08-2021 02:28,8149.74,Devan-Kashyap,Mumbai,FALSE
+04-09-2023 00:43,4972.56,Sridhar-Dhillon,Machilipatnam,FALSE
+07-03-2022 05:27,4593.16,Dua-Hegde,Adoni,TRUE
+16-02-2023 13:48,2624.11,Hayer Group,Nellore,TRUE
+02-06-2021 20:01,4502.12,Jha and Sons,Thane,FALSE
+05-02-2020 12:18,1027.58,Chandra and Sons,Sasaram,TRUE
+07-02-2023 11:07,4672.34,Gill Ltd,Jalandhar,TRUE
+18-06-2020 17:15,8144.36,Karpe LLC,Pudukkottai,FALSE
+20-03-2023 14:37,2507.64,"Rana, Kamdar and Dora",Nizamabad,TRUE
+25-07-2023 18:57,2611.85,Sule-Bumb,Bilaspur,FALSE
+02-01-2023 11:56,841.02,Issac-Chada,Ahmednagar,TRUE
+29-10-2023 04:57,826.86,Gupta Group,Bhagalpur,FALSE
+09-03-2022 06:47,705.54,Dey PLC,Deoghar,FALSE
+20-12-2022 10:32,1385.31,"Chadha, Krish and Dass",Bhind,FALSE
+21-11-2022 17:43,7900.71,Bobal Group,Pune,TRUE
+27-11-2020 10:23,8243.77,Sachdev LLC,Mirzapur,TRUE
+24-06-2022 10:50,1070.08,"Hans, Bhalla and Zacharia",Deoghar,TRUE
+26-08-2020 22:53,5555.88,"Mandal, Yohannan and Ben",Etawah,FALSE
+20-07-2023 08:43,5989.09,Madan LLC,Hazaribagh,TRUE
+10-04-2021 13:09,3248.34,Kari-Yadav,Chennai,FALSE
+22-04-2020 07:33,339.54,Grover-Kannan,Unnao,TRUE
+01-12-2023 16:14,2377.79,"Karan, Chana and Iyer",Mahbubnagar,FALSE
+28-07-2023 11:18,9290.61,Srivastava-Raval,Faridabad,TRUE
+24-09-2022 16:37,5041.12,Sheth Group,Baranagar,FALSE
+26-07-2021 04:28,5155.54,"Bose, Chander and Vasa",Mango,FALSE
+26-09-2020 11:43,6314.14,Viswanathan-Sastry,Rourkela,FALSE
+26-12-2020 22:29,2745.79,Venkatesh PLC,Gorakhpur,TRUE
+30-09-2021 00:03,3496.35,Bhatti PLC,Shimoga,FALSE
+26-08-2022 04:35,1735.84,Deol LLC,Tiruchirappalli,TRUE
+22-12-2021 17:05,9674.16,Saraf and Sons,Ballia,FALSE
+16-05-2022 23:40,9816.06,Sama-Apte,Srikakulam,TRUE
+15-06-2023 15:01,4426.21,Ray Group,Surat,TRUE
+20-05-2023 20:50,7290.33,Bajaj Group,Allahabad,TRUE
+12-10-2021 16:11,966.4,Devi-Mandal,Dhule,FALSE
+23-02-2023 17:54,4837.67,"Bhandari, Bali and Grewal",Gandhidham,TRUE
+01-03-2021 19:53,6375.77,Gera-Srinivasan,Ballia,FALSE
+15-02-2021 18:05,8316.01,Dugar-Shankar,Bokaro,FALSE
+17-05-2021 06:17,6193.49,"Bhatia, Hans and Sehgal",Karaikudi,TRUE
+07-02-2020 04:03,7388.67,"Deshpande, Kakar and Tak",Unnao,TRUE
+11-11-2022 17:35,7173.83,"Rama, Upadhyay and Verma",Munger,FALSE
+12-02-2023 16:11,7613.77,Kumer and Sons,Tezpur,FALSE
+13-07-2023 20:26,6171.78,"Madan, Vala and Batra",Chapra,FALSE
+19-10-2023 11:18,9612.34,"Toor, Cherian and Som",Ozhukarai,FALSE
+15-12-2021 04:54,7232.04,Ramesh PLC,Bhiwani,FALSE
+03-11-2021 09:57,9642.99,Ravi-Vasa,Kamarhati,FALSE
+29-01-2020 09:11,4987.58,"Shukla, Dutt and Ramakrishnan",Farrukhabad,TRUE
+29-12-2023 10:42,4252.41,Balasubramanian Ltd,Alwar,TRUE
+26-12-2022 16:07,1813.03,"Dhar, Karnik and Andra",Gulbarga,FALSE
+14-02-2020 15:37,4156.52,Baria Inc,Tadipatri,FALSE
+22-02-2023 15:08,9133.96,"Kala, Toor and Agate",Jamalpur,TRUE
+27-04-2021 05:08,6568.23,Madan and Sons,Udupi,TRUE
+30-09-2020 05:07,1951.49,Chaudry Group,Morena,TRUE
+21-04-2022 07:29,749.42,"Kant, Rastogi and Kulkarni",Ambala,TRUE
+25-04-2022 04:05,5825.28,"Ganguly, Thaman and Dubey",Ahmedabad,TRUE
+12-07-2021 01:17,1332.3,Ahuja-Luthra,Amritsar,FALSE
+29-09-2021 07:19,344.84,"Sundaram, Bail and Raj",Bareilly,FALSE
+08-01-2020 17:27,9321.99,Sant and Sons,Sangli-Miraj & Kupwad,TRUE
+22-12-2021 19:39,8487.66,"Goswami, Sarma and Chandran",Amroha,FALSE
+23-12-2021 03:14,4385.81,Bhavsar-Gade,Jalandhar,FALSE
+07-03-2020 06:09,7743.48,Seshadri Inc,Aurangabad,FALSE
+16-01-2022 02:11,3682.2,"Rajagopal, Ramakrishnan and Dave",Ballia,FALSE
+27-04-2020 05:59,8673.26,Issac-Bose,Gudivada,TRUE
+13-08-2022 12:08,368.66,Gole-Batra,Gwalior,TRUE
+07-10-2021 06:50,3533.6,Ranganathan-Jani,Hubli–Dharwad,FALSE
+25-10-2021 01:25,4548.28,Sahni Group,Rourkela,TRUE
+25-05-2020 22:17,3075.64,"Taneja, Kulkarni and Chandra",Malegaon,TRUE
+04-09-2021 01:16,5745.79,Zachariah and Sons,Kurnool,FALSE
+08-03-2021 11:35,698.93,Mani-Dhaliwal,Saharsa,FALSE
+17-05-2020 15:17,5884.31,"Swamy, Batta and Kota",Gurgaon,TRUE
+18-03-2021 21:36,7641.73,"Choudhary, Sangha and Majumdar",Nangloi Jat,FALSE
+14-01-2020 05:56,754.35,"Lal, Dhillon and Yadav",Haldia,FALSE
+23-05-2022 16:57,5032.21,"Sagar, Kibe and Thakkar",Bhimavaram,FALSE
+06-04-2020 22:45,6517.16,Sarkar-Dewan,Kumbakonam,TRUE
+24-04-2023 17:22,164.36,Choudhary and Sons,Ozhukarai,FALSE
+09-04-2021 19:32,1683.96,Saha-Bandi,Etawah,TRUE
+23-06-2023 00:34,9196.32,"Sheth, Anne and Dugar",Aligarh,TRUE
+27-09-2022 20:10,9522.9,Bhat LLC,Kadapa,FALSE
+14-12-2022 11:14,5006.69,"Raval, Soman and Khare",Bhiwandi,TRUE
+04-05-2023 05:08,2465.63,Malhotra Inc,Suryapet,TRUE
+17-09-2023 22:22,2255.24,Kakar-Chaudry,Moradabad,TRUE
+04-01-2021 04:54,3618.66,Lalla-Mahal,Bally,TRUE
+02-07-2021 23:26,3570.24,Mander-Sridhar,Fatehpur,TRUE
+04-03-2020 23:30,3109.96,Dayal Group,Surendranagar Dudhrej,FALSE
+11-11-2020 21:11,7531.68,Rajagopalan-Reddy,Guwahati,FALSE
+20-09-2023 04:22,9759.93,"Sarna, Halder and Varty",Ajmer,FALSE
+15-02-2022 00:30,7225.87,"Vora, Dhawan and Das",Indore,TRUE
+11-08-2022 15:47,6166.8,Amble-Baral,Durgapur,FALSE
+04-09-2022 21:58,1753.39,Shroff and Sons,Silchar,TRUE
+04-06-2020 09:17,2916.07,Loyal-Krish,Shivpuri,FALSE
+26-05-2022 05:09,579.39,Jaggi Group,Machilipatnam,FALSE
+22-11-2022 16:37,6944.94,"Bahl, Ravi and Mallick",Tadepalligudem,TRUE
+27-07-2022 05:59,2466.73,Agarwal and Sons,Ambala,FALSE
+24-04-2020 18:09,3693.25,Vyas and Sons,Thane,FALSE
+23-10-2022 13:42,5092.01,"Suresh, Hora and Mangal",Tezpur,FALSE
+22-02-2020 02:33,8026.9,"Kurian, Sami and Sheth",Chandrapur,TRUE
+31-01-2022 10:44,9512.79,"Gara, Soman and Srivastava",Medininagar,TRUE
+07-11-2020 09:52,3609.37,"Virk, Borah and Reddy",Khammam,TRUE
+14-12-2020 08:25,2959.34,Aggarwal PLC,Navi Mumbai,TRUE
+13-08-2022 19:53,5644.92,"Ahluwalia, Kothari and Sule",Darbhanga,FALSE
+13-08-2023 03:03,236.32,Bhasin-Sama,Ghaziabad,FALSE
+28-10-2020 09:11,8603.89,Chawla-Anand,New Delhi,TRUE
+19-06-2021 00:00,1778.83,"Ravi, Singh and Bora",Gopalpur,FALSE
+07-04-2020 02:11,3866.47,"Kumar, Dhar and Hora",Ongole,TRUE
+10-10-2022 20:28,722.25,Dube-Kurian,Deoghar,FALSE
+18-12-2022 11:49,8090.23,"Basak, Dhillon and Majumdar",Gwalior,TRUE
+25-03-2023 16:11,7043.36,"Rajagopalan, Saxena and Ratti",Saharsa,FALSE
+26-05-2021 13:58,839.31,"Acharya, Kanda and Chokshi",Karaikudi,TRUE
+06-10-2023 16:58,3366.2,"Randhawa, Sabharwal and Jain",Satara,FALSE
+28-12-2021 22:14,6258.42,Gala Ltd,Kadapa,FALSE
+03-11-2022 18:57,8730.62,"Cheema, Cheema and Apte",Kishanganj,FALSE
+29-04-2020 05:14,5104.27,"Tank, Bajaj and Kumar",Mau,TRUE
+18-05-2020 06:11,1464.38,Seth-Sodhi,Davanagere,FALSE
+11-09-2020 01:58,3304.85,Dutta-Ramanathan,Maheshtala,TRUE
+26-02-2020 13:35,4578.82,"Sawhney, Dube and Mandal",Junagadh,FALSE
+25-06-2021 06:56,2978.58,Chopra-Datta,Kavali,TRUE
+03-08-2023 01:30,3610,Kamdar-Deep,Gorakhpur,TRUE
+12-12-2021 21:02,9239.11,Arya-Basak,Malda,FALSE
+15-03-2022 01:55,699.57,Hari-Korpal,New Delhi,FALSE
+16-11-2021 11:11,9468.75,Bora Group,Ichalkaranji,TRUE
+27-09-2022 20:22,93.13,Sekhon Inc,Katni,TRUE
+11-05-2020 13:52,5039.19,"Banik, Brar and Chander",Aizawl,FALSE
+18-04-2022 04:54,274.74,Ramaswamy-Dash,Ulhasnagar,FALSE
+13-08-2023 16:34,5349.53,"Thaman, Tailor and Ramakrishnan",Kumbakonam,TRUE
+27-09-2020 13:25,7935.96,Madan-Randhawa,Gaya,FALSE
+15-09-2022 03:05,1906.19,Konda-Randhawa,Madurai,FALSE
+07-02-2023 06:21,9577.89,Mangal-Bandi,Fatehpur,FALSE
+08-10-2023 23:46,6210.12,Bath-Hans,Alappuzha,FALSE
+02-07-2021 05:42,423.22,Thaker Ltd,Bidar,FALSE
+14-10-2021 20:56,2838.95,Guha Group,Kirari Suleman Nagar,FALSE
+21-04-2021 18:54,1053.23,"Sinha, Kohli and Varghese",Belgaum,TRUE
+12-01-2021 12:37,1312.93,"Maharaj, Tak and Baria",Moradabad,FALSE
+07-06-2021 04:50,722.93,Dhillon LLC,Rajahmundry,TRUE
+29-05-2023 00:59,5072.57,"Dugar, Lad and Chander",Tadepalligudem,FALSE
+09-04-2021 20:00,1776.43,Krishna-Badal,Berhampur,TRUE
+20-02-2021 07:34,2644.79,Deep Group,Hospet,TRUE
+03-04-2023 12:17,9143.86,"Issac, Kade and Kurian",Amaravati,TRUE
+17-06-2023 08:30,8646.27,Kumar Group,Nangloi Jat,TRUE
+30-05-2022 16:42,6841.51,"Mani, Rao and Ramesh",Bijapur,TRUE
+07-05-2023 18:05,4243.17,"Brar, Balan and Chandra",Bhilai,TRUE
+05-02-2021 18:20,6088.4,Bhagat-Chhabra,Muzaffarnagar,TRUE
+20-03-2020 01:55,7376.53,"Sanghvi, Swamy and Deep",Ahmedabad,TRUE
+28-10-2023 10:16,43.66,Kota-Dar,Kurnool,TRUE
+25-02-2020 19:21,6336.49,"Bose, Tara and Dora",Farrukhabad,TRUE
+02-07-2020 15:27,4304.26,Kaul and Sons,Gandhinagar,FALSE
+10-06-2020 02:00,3536.37,Kara PLC,Surat,TRUE
+27-05-2020 04:55,8605.38,Kohli Group,Indore,FALSE
+14-08-2022 20:17,9092.21,"Loyal, Luthra and Deo",Eluru,FALSE
+06-08-2021 13:48,7518.08,Tak LLC,Dewas,FALSE
+11-08-2020 12:35,9810.78,"Khare, Banerjee and Bhatnagar",Fatehpur,TRUE
+28-10-2022 01:34,7601.26,Salvi-Uppal,Tiruchirappalli,FALSE
+21-10-2023 02:38,9800.74,Sarna-Choudhry,Chandrapur,FALSE
+14-03-2020 00:29,3672.71,"Apte, Sahota and Sarma",Begusarai,TRUE
+22-12-2020 04:31,1925.76,"Mammen, Swamy and Seth",Nashik,FALSE
+22-03-2021 01:42,4623.97,"Raja, Bhatia and Subramanian",Karaikudi,FALSE
+27-11-2021 04:02,6050.94,"Chawla, Shanker and Sama",Sagar,TRUE
+24-05-2020 13:37,3032.56,Shah Ltd,Srikakulam,FALSE
+06-01-2023 20:20,3044.49,Mall Inc,Hubli–Dharwad,FALSE
+16-11-2021 10:11,8379.5,"Saxena, Rout and Warrior",Chennai,FALSE
+23-07-2022 07:29,3285.9,Dey Ltd,Jammu,FALSE
+31-12-2021 10:11,5638.78,Suresh-Sule,Dibrugarh,TRUE
+30-03-2020 04:49,5370.56,Bora and Sons,Visakhapatnam,FALSE
+26-01-2023 06:58,5369.33,Gill Inc,Katihar,TRUE
+30-10-2022 02:02,3299.22,Mander-Gour,Karawal Nagar,TRUE
+11-04-2023 05:31,2074.35,Keer Group,Sangli-Miraj & Kupwad,TRUE
+04-08-2021 09:24,7999.21,"Hans, Bhattacharyya and Tripathi",Malda,FALSE
+23-10-2020 02:56,2437.22,"Dyal, Kanda and Balay",Ludhiana,FALSE
+15-02-2023 13:50,7551.77,Cherian Ltd,Mahbubnagar,TRUE
+23-12-2023 02:36,6468.57,Jha PLC,Jorhat,TRUE
+19-02-2023 13:44,4036.02,Kalita Ltd,Bijapur,FALSE
+01-04-2021 09:22,127.99,"Tara, Gokhale and Venkatesh",Bilaspur,TRUE
+20-02-2021 19:31,8775.65,Dhaliwal Inc,Unnao,FALSE
+13-08-2022 19:26,505.44,"Virk, Baria and Kakar",Pune,TRUE
+06-05-2023 14:30,3683.92,Kade Group,Ranchi,FALSE
+24-03-2023 05:54,7496.45,Kothari-Baral,Bihar Sharif,TRUE
+31-10-2020 11:36,2581.53,Bala Ltd,Vijayawada,FALSE
+09-11-2023 15:20,2281.28,"Kuruvilla, Chand and Tak",Giridih,FALSE
+30-07-2022 18:18,7277.22,Lad-Bose,Ghaziabad,FALSE
+01-07-2020 19:05,9285.68,"Sachdev, Sankar and Dhaliwal",Thanjavur,TRUE
+16-01-2023 20:16,1733.9,"Sha, Kant and Ahuja",Noida,TRUE
+05-09-2023 19:17,7043.84,Warrior Ltd,Thanjavur,TRUE
+13-07-2021 09:55,1033.61,Chhabra Inc,Kirari Suleman Nagar,TRUE
+30-11-2023 16:13,4509.22,Gupta and Sons,Solapur,TRUE
+25-07-2022 02:16,6219.68,Joshi-Chowdhury,Dewas,TRUE
+26-11-2021 17:17,3356.72,Basu LLC,Gulbarga,FALSE
+05-10-2023 14:58,7078.21,Sachdeva Group,Uluberia,TRUE
+11-06-2023 16:53,296.96,Mangat-Wason,Aurangabad,TRUE
+06-10-2021 14:27,9466.84,"Venkatesh, Kakar and Dhaliwal",Junagadh,FALSE
+07-05-2023 17:21,5015.51,Ramesh PLC,Nagpur,TRUE
+01-03-2021 11:13,5624.26,Garg-Varkey,Bhind,FALSE
+20-10-2022 00:08,1253.63,"Bedi, Sura and Chakrabarti",Burhanpur,FALSE
+20-12-2021 22:11,8175.5,"Deol, Sankar and Rege",Gurgaon,TRUE
+04-11-2023 01:06,3358.06,Chaudry-Walla,Begusarai,FALSE
+17-07-2023 10:49,6082.04,"Sarkar, Grewal and Chhabra",Ichalkaranji,FALSE
+20-05-2022 11:49,6701.73,Singh and Sons,Agartala,TRUE
+02-11-2022 16:45,639.32,Chanda-Mandal,Davanagere,TRUE
+07-02-2023 18:42,4305.28,"Bajaj, Ranganathan and Sankaran",Aizawl,TRUE
+07-01-2022 01:39,6071.83,"Keer, Chander and Ravi",Dhanbad,TRUE
+21-02-2021 23:52,6742.33,"Loyal, Kashyap and Kala",Kolkata,TRUE
+20-03-2023 13:56,8592.49,Jani-Tak,Siwan,TRUE
+26-09-2022 00:39,6317.37,"Sarna, Tailor and Basak",Buxar,TRUE
+17-01-2022 03:04,5301.04,De and Sons,Anand,TRUE
+08-06-2022 16:18,1608.36,"Dasgupta, Raja and Talwar",Bidhannagar,FALSE
+14-12-2022 13:59,8594.87,Bhargava-Bal,Karnal,TRUE
+27-02-2023 02:05,4138.47,"Kapadia, Devi and Dugal",Howrah,FALSE
+12-04-2022 04:30,3420.82,"Sem, Sule and Mall",Nagaon,TRUE
+02-02-2022 22:19,1234.94,Amble-Salvi,Bhubaneswar,FALSE
+14-09-2022 18:15,471.34,"Sharma, Mander and Ganesan",Rourkela,FALSE
+07-07-2021 09:58,8729.91,Chatterjee-Kadakia,Bhilai,FALSE
+26-04-2020 23:31,4753.6,Uppal LLC,Katihar,TRUE
+17-07-2023 09:45,4205.49,"Bajaj, Bobal and Dhillon",Patiala,TRUE
+01-12-2022 14:30,4798.36,Mani Ltd,Thiruvananthapuram,TRUE
+14-08-2021 02:29,6881.55,Lata-Kurian,Sonipat,TRUE
+25-12-2023 04:36,862.9,Vora-Mall,Ambattur,TRUE
+30-12-2023 07:50,72.29,Biswas-Devi,Nangloi Jat,FALSE
+03-09-2021 17:40,8329.21,Swaminathan LLC,Nashik,TRUE
+14-11-2023 08:42,3836.34,Bajwa-Issac,Buxar,TRUE
+23-07-2023 20:46,7738.72,Srinivasan-Cherian,Giridih,FALSE
+25-04-2022 00:24,2103.39,Guha PLC,Medininagar,TRUE
+03-10-2022 15:11,8040.41,Sama LLC,Raurkela Industrial Township,FALSE
+10-11-2021 00:57,1086.1,Kant-Butala,Gudivada,TRUE
+31-08-2023 04:39,6782.69,"Balay, Babu and Kapur",Suryapet,FALSE
+22-05-2021 22:32,3001.4,Ahluwalia-Sant,Jaunpur,TRUE
+05-09-2021 14:25,6930.5,Bose and Sons,Ambarnath,TRUE
+20-04-2020 02:26,3550.56,"Gour, Char and Gokhale",Ranchi,TRUE
+25-09-2020 05:12,5794.17,Shenoy-Subramanian,Alwar,TRUE
+16-11-2023 04:14,5540.22,"Amble, Yogi and Venkataraman",Panvel,FALSE
+10-01-2022 15:11,5015.61,Yogi-Shroff,Buxar,FALSE
+13-02-2020 16:47,3551.72,Zacharia Inc,Vasai-Virar,TRUE
+10-08-2020 23:46,1175.07,Thaman Inc,Gurgaon,TRUE
+28-03-2020 10:12,9808.63,"Dass, Thaker and Kade",Nellore,FALSE
+17-05-2021 06:24,2478.38,Sarna-Loke,Kamarhati,TRUE
+02-01-2020 00:26,7407.69,"Seth, Shetty and Raman",Morbi,FALSE
+06-02-2021 04:21,7973.15,Sethi-Sachdeva,Pudukkottai,TRUE
+14-02-2023 18:33,2507.39,Ganesh Inc,Baranagar,TRUE
+20-03-2021 23:49,3655.69,"Chad, Sant and Rau",Gwalior,FALSE
+20-04-2020 17:23,6151.98,"Shah, Loke and Vala",Coimbatore,FALSE
+12-07-2023 14:50,9013.01,Ahuja Group,Moradabad,TRUE
+13-08-2020 02:34,7070.61,Doctor LLC,Sasaram,FALSE
+25-08-2023 11:15,3999.27,"Raman, Goswami and Keer",Kadapa,TRUE
+02-10-2023 05:05,307.34,Bora-Sheth,Ujjain,TRUE
+23-05-2023 19:35,5756.66,Chandra-Borah,Kanpur,TRUE
+16-10-2023 07:12,1267.65,Karnik-Swaminathan,Siwan,FALSE
+20-08-2021 22:01,9930.31,"Bose, Wable and Kuruvilla",Deoghar,FALSE
+27-11-2021 17:34,8951.51,Aurora PLC,Orai,TRUE
+09-03-2021 02:55,1105.04,"Banerjee, Sachdeva and Chauhan",Bardhaman,TRUE
+27-10-2021 15:33,2303.73,Kalla-Dada,Satara,TRUE
+31-01-2022 20:50,9475.78,"Dar, Randhawa and Dugar",Mumbai,FALSE
+15-12-2020 14:02,9314.05,Bhatia-Jayaraman,Ambattur,TRUE
+23-04-2023 22:35,504.86,"Venkataraman, Toor and Seth",Bahraich,FALSE
+01-06-2022 11:07,1552.87,Andra Group,Satara,TRUE
+15-01-2022 10:09,2640.6,Dhar-Choudhary,Nadiad,TRUE
+07-11-2023 16:51,9205.63,Mall Ltd,Jammu,FALSE
+28-08-2022 01:00,5901.71,Goswami-Sengupta,Jalna,FALSE
+21-08-2022 01:08,2002.84,Ganesan Group,Ambattur,FALSE
+04-01-2022 05:14,4690.29,"Sen, Hora and Chauhan",Karawal Nagar,FALSE
+07-06-2023 22:06,1131.32,Konda Ltd,Begusarai,FALSE
+01-11-2021 08:46,9634.71,Sandhu Ltd,Bulandshahr,TRUE
+22-10-2021 21:24,9451.1,Cherian Group,Jamnagar,FALSE
+12-06-2020 21:01,4408.66,Kadakia-Lad,Mahbubnagar,TRUE
+25-06-2021 05:51,7533.45,Deol Ltd,Barasat,TRUE
+06-07-2021 15:37,4292.88,Chaudhari Group,Darbhanga,FALSE
+24-08-2021 02:02,3049,Dixit Ltd,Ambala,TRUE
+06-01-2021 08:49,4961.43,Cheema LLC,Shahjahanpur,TRUE
+03-03-2023 23:28,3195.34,"Sandal, Issac and Saxena",Tiruppur,FALSE
+10-12-2020 13:16,3942.43,Amble Group,Ludhiana,FALSE
+05-01-2023 03:21,2369.02,Char-Dey,Vijayawada,FALSE
+13-03-2020 23:09,465.05,"Saxena, Cheema and Mander",Mira-Bhayandar,FALSE
+24-03-2023 21:50,9222.59,"Chanda, Bir and Lad",Karnal,TRUE
+04-01-2022 03:59,9255.34,"Sane, Karpe and Lal",Silchar,TRUE
+07-01-2022 06:49,5082.96,Banik-Tandon,Kota,FALSE
+12-12-2022 03:51,6396.96,"Bahri, Gade and Agarwal",Navi Mumbai,FALSE
+01-11-2021 09:56,2204.56,Doshi-Ganesh,Mirzapur,FALSE
+23-06-2023 00:05,6643.82,Keer Inc,Ludhiana,FALSE
+23-08-2020 17:03,296.37,"Subramaniam, Sane and Ganesh",Farrukhabad,FALSE
+20-09-2022 12:44,2536.91,Guha PLC,Tiruvottiyur,TRUE
+08-09-2020 04:26,3771.16,Gour-Apte,Vadodara,FALSE
+26-12-2020 21:52,1854.65,Bassi Ltd,Dhanbad,FALSE
+20-10-2022 17:46,1183.76,Lanka-Basu,Coimbatore,TRUE
+13-02-2022 11:52,8502.39,Aurora Inc,Dehri,FALSE
+19-06-2023 06:26,187.62,Sethi Inc,Parbhani,FALSE
+22-02-2020 16:13,8540.57,Lala Ltd,Karawal Nagar,FALSE
+28-02-2021 23:26,5420.19,"Jha, Hayre and Chadha",Barasat,TRUE
+31-12-2020 23:48,1828.56,Hayre-Tata,Nangloi Jat,FALSE
+03-11-2023 11:55,396.42,"Acharya, Salvi and Bera",Panvel,FALSE
+28-04-2020 06:33,3927.55,"Barman, Apte and Sane",Mahbubnagar,FALSE
+18-08-2021 18:14,110.34,"Vig, Tara and Kamdar",Danapur,FALSE
+30-07-2023 01:19,4371.41,Atwal-Chowdhury,Sagar,FALSE
+18-08-2020 14:55,9320.5,Kant-Lall,Khora ,TRUE
+07-04-2023 14:08,8425.87,Saini LLC,Nadiad,FALSE
+05-06-2023 07:05,7710.11,Sridhar-Dhar,Nizamabad,FALSE
+25-05-2023 06:43,5356.39,"Dass, Barad and Choudhry",Mysore,TRUE
+28-11-2020 19:52,3393.29,"Kamdar, Batta and Kata",Munger,TRUE
+13-01-2022 06:12,1491.52,"Yohannan, Choudhary and Bava",Srikakulam,FALSE
+17-03-2020 23:22,5531.57,Bhatti-Raj,Amravati,FALSE
+02-07-2020 12:21,9228.71,"Sridhar, Sarma and Gulati",Tiruppur,FALSE
+09-04-2023 07:41,34.89,"Raval, Garde and Grover",Nadiad,FALSE
+19-11-2022 13:52,2355.42,"Chandran, Sibal and Raval",Ahmednagar,TRUE
+02-01-2020 13:37,7600.39,Handa and Sons,Uluberia,TRUE
+24-10-2022 23:52,775.66,Arya-Vala,Saharanpur,TRUE
+03-03-2022 14:13,3169.34,"Wable, Sekhon and Mand",Medininagar,TRUE
+03-11-2022 01:10,7904.02,Lad Ltd,Bhagalpur,TRUE
+25-08-2021 11:46,4121.65,Kothari-Rana,Rewa,TRUE
+12-09-2020 08:15,9692.83,Kalita Ltd,Karimnagar,TRUE
+29-05-2022 14:24,2937.64,"Boase, Arora and Barad",Tirunelveli,TRUE
+21-07-2021 23:42,9744.4,Sawhney Inc,Kochi,FALSE
+25-05-2021 02:07,7847.07,"Kar, Keer and Arya",Tezpur,FALSE
+06-10-2022 00:28,5177.55,Bajwa PLC,Kochi,TRUE
+13-01-2022 17:43,44.42,"Rajagopal, Khalsa and Goel",Kurnool,TRUE
+12-02-2022 15:13,2687.56,"Varghese, Saxena and Dua",Bokaro,FALSE
+26-10-2020 20:55,1632.88,"Sami, Mahajan and Kapoor",Jaipur,TRUE
+06-05-2023 12:41,3734.4,"Lalla, Sharaf and Hegde",Nangloi Jat,TRUE
+02-07-2020 16:56,5287.79,"Kuruvilla, Jain and Raju",Baranagar,FALSE
+24-10-2022 10:22,1108.04,"Krish, Issac and Ratta",Bhimavaram,TRUE
+10-08-2022 07:51,7487.48,Rama-Mall,Bhubaneswar,TRUE
+24-01-2023 06:40,2231.93,Dhingra Ltd,Vasai-Virar,TRUE
+12-12-2023 22:42,1643.92,Konda-Bhakta,Dindigul,TRUE
+25-10-2020 23:38,9187.03,"Kaul, Vasa and Bora",Adoni,TRUE
+22-08-2020 11:53,8657.2,"Raju, Gaba and Toor",Ambattur,FALSE
+27-09-2022 12:29,7531.2,Viswanathan Ltd,Sikar,TRUE
+30-08-2023 16:23,7494.33,Brar Ltd,Orai,FALSE
+23-11-2020 09:26,2568.62,Yadav Ltd,Kochi,TRUE
+10-05-2022 13:08,2250.4,Suresh Inc,Sambalpur,TRUE
+10-12-2022 10:42,1446.38,"Verma, Taneja and Majumdar",Bareilly,FALSE
+30-09-2023 03:22,8349.25,Loke LLC,Darbhanga,FALSE
+07-04-2021 10:41,9148.1,Dhar-Ranganathan,Khammam,FALSE
+21-09-2020 22:28,3612.56,Singh-Jaggi,Bardhaman,FALSE
+09-03-2020 14:52,5526.38,Deep and Sons,Bulandshahr,TRUE
+16-07-2021 12:45,7462.46,Dugar Inc,Dhule,TRUE
+25-09-2022 14:14,8134.57,"Date, Sridhar and Lata",Saharsa,FALSE
+01-10-2020 06:40,4561.22,Bhatnagar-Gokhale,Durgapur,FALSE
+06-03-2021 15:28,7869.24,Kurian-Lad,Hajipur,FALSE
+31-10-2023 00:38,6876.3,Verma and Sons,Mathura,TRUE
+20-01-2021 17:34,788.1,Bala and Sons,Mango,TRUE
+19-08-2021 11:29,9396.96,Borde PLC,Madurai,FALSE
+14-02-2022 13:36,402.41,Sastry-Tandon,Navi Mumbai,TRUE
+11-02-2022 18:33,1820.02,De-Kalla,Anantapur,TRUE
+06-03-2022 01:28,1834.61,Karan LLC,Deoghar,TRUE
+22-01-2023 15:20,7965.77,Krish-Mallick,Sangli-Miraj & Kupwad,TRUE
+05-03-2022 16:21,8067.85,Ratti LLC,Jalgaon,TRUE
+15-02-2023 21:24,7357.01,Salvi-Brahmbhatt,Tiruchirappalli,TRUE
+17-10-2021 14:16,3554.26,"Sidhu, Sandal and Barman",Unnao,FALSE
+26-09-2022 03:25,5987.46,Dar LLC,Gudivada,TRUE
+23-06-2021 11:54,8796.65,"Kapadia, Saini and Kapadia",Pallavaram,FALSE
+20-10-2020 08:57,1684.3,Batra PLC,Mysore,FALSE
+10-02-2022 14:39,8885.64,Wable Ltd,Sangli-Miraj & Kupwad,FALSE
+11-05-2023 02:27,4040,Babu-Iyengar,Dhanbad,TRUE
+14-02-2022 23:28,7067.84,"Badal, Verma and Devan",Visakhapatnam,FALSE
+05-08-2021 14:38,7306.96,"Gulati, Sarkar and Dubey",Srinagar,FALSE
+16-04-2023 16:42,1370.01,"Khosla, Bhargava and Jaggi",Guna,TRUE
+22-12-2021 04:08,633.71,"Ratti, Jaggi and Dave",Kirari Suleman Nagar,TRUE
+21-05-2020 22:46,435.94,Dada PLC,Berhampore,FALSE
+15-06-2023 10:07,868.16,Kapadia and Sons,Shivpuri,TRUE
+19-09-2023 17:53,5601.03,Walia and Sons,Pondicherry,FALSE
+02-07-2023 06:42,5400.41,"Keer, Kalla and Mand",Tiruchirappalli,FALSE
+13-06-2022 04:40,9734.9,Joshi Inc,Phagwara,TRUE
+23-12-2023 05:27,7604.85,Agarwal Ltd,Vijayanagaram,TRUE
+04-03-2023 16:15,4074.72,"Baria, Sheth and Swaminathan",Kadapa,FALSE
+23-06-2020 10:50,1249.13,Sen-Ray,Pondicherry,TRUE
+18-08-2020 00:50,860.63,"Gaba, Wali and Soman",Karawal Nagar,TRUE
+13-06-2023 06:20,4637.04,"Swamy, Khare and Kapoor",Hazaribagh,FALSE
+30-12-2022 12:50,1729.54,"Dada, Kala and Khurana",Hapur,FALSE
+04-03-2023 07:40,4069.71,Venkatesh and Sons,Dhanbad,TRUE
+28-11-2022 03:47,43.68,"Mani, Vala and Lala",Thane,TRUE
+24-08-2021 17:55,1668.04,Tank-Baria,Karnal,FALSE
+16-08-2021 14:38,5813.38,Varghese and Sons,Jalandhar,TRUE
+23-09-2020 04:40,5846.86,Chana-Savant,Vijayanagaram,TRUE
+28-01-2020 00:51,4501.26,Dugar-Mammen,Phagwara,FALSE
+15-09-2023 17:29,4400.36,Tiwari-Raval,Moradabad,FALSE
+15-05-2020 06:45,1139.46,"Banik, Hora and Sathe",Gaya,FALSE
+23-06-2023 01:29,5305.66,Chhabra-Deshpande,Narasaraopet,TRUE
+05-06-2023 00:45,2774.34,"Bhalla, Srinivas and Chahal",Phusro,TRUE
+03-08-2021 02:56,1345.26,Chopra LLC,Ujjain,FALSE
+28-10-2023 06:45,5829.75,"Tank, Sengupta and Luthra",Udupi,TRUE
+25-08-2023 01:48,4003.77,"Gala, Manne and Gokhale",Shimoga,TRUE
+25-08-2021 13:07,2538.69,Saraf-Madan,Jehanabad,FALSE
+07-03-2022 15:53,5008.85,Krishnan and Sons,Bhind,FALSE
+21-02-2020 16:51,188.35,Ranganathan-Karan,Junagadh,FALSE
+15-12-2023 20:48,6221.14,Gala-Sarkar,Saharanpur,TRUE
+18-02-2020 22:31,1154.75,Wadhwa-Bobal,Ichalkaranji,TRUE
+08-07-2022 01:36,6749.82,"Lad, Srinivasan and Ghose",Uluberia,TRUE
+03-04-2020 21:52,6922.28,"Kant, Hegde and Bail",Ambattur,TRUE
+06-02-2023 17:01,4092.76,Wagle-Bobal,Kishanganj,TRUE
+20-03-2020 10:30,4075.38,"Sankar, Atwal and Gill",Rourkela,TRUE
+22-05-2022 11:18,9900.64,Kar-Dada,Surat,TRUE
+10-06-2022 16:56,8829.94,Kakar-Konda,Bongaigaon,FALSE
+26-09-2021 08:11,2821.41,"Agarwal, Raju and Uppal",Gwalior,FALSE
+30-10-2022 00:01,5845.97,"Ghosh, Jha and Bhattacharyya",Eluru,TRUE
+10-01-2022 16:46,1011.37,"Chhabra, Krishnamurthy and Bose",Ghaziabad,FALSE
+22-03-2023 11:42,6126.17,Reddy-Mall,Pali,TRUE
+09-04-2021 02:56,4426.19,"Suri, Mahajan and Cheema",Kulti,TRUE
+06-08-2022 01:46,4554.21,Baral-Issac,Orai,TRUE
+04-06-2023 05:38,3513.03,"Chand, Joshi and Ganesh",Chandigarh,FALSE
+12-09-2021 21:46,9850.33,"Das, Salvi and Dugar",Kurnool,FALSE
+04-05-2020 00:35,5336.79,Balasubramanian-Upadhyay,Vadodara,FALSE
+28-03-2020 03:41,7138.22,"Rege, Rattan and Dubey",Dehri,FALSE
+28-01-2020 09:56,8761.5,"Chaudhuri, Sidhu and Grewal",Unnao,TRUE
+10-06-2022 10:41,466.08,Karpe and Sons,Hyderabad,TRUE
+21-11-2021 02:09,5629.34,Sodhi-Sarma,Nandyal,TRUE
+05-01-2022 19:08,6123.3,Vohra-Master,Bhopal,TRUE
+26-10-2020 17:29,3379.03,Gara and Sons,Chandrapur,FALSE
+08-06-2023 15:19,9556.77,"Dalal, Kota and Lall",Baranagar,FALSE
+28-02-2020 14:30,7363,Srinivas-Maharaj,Raebareli,TRUE
+05-09-2022 10:24,5394.67,"Shere, Basak and Lata",Bahraich,FALSE
+20-04-2022 01:34,8062.31,Uppal-Sanghvi,Udaipur,TRUE
+30-07-2021 14:15,8295.98,Sheth PLC,Chandigarh,TRUE
+29-01-2023 18:01,5607.21,"Ahluwalia, Kurian and Chad",Nadiad,TRUE
+24-11-2022 21:56,2920.41,Dua Ltd,Tinsukia,TRUE
+15-08-2022 06:31,5263.39,Handa and Sons,Moradabad,TRUE
+26-05-2022 18:10,2939.08,Gopal-Cheema,Tirupati,TRUE
+18-12-2023 12:40,8336.21,Wason-Hora,Gaya,TRUE
+21-03-2021 04:58,7343.77,Rajagopalan LLC,Jehanabad,TRUE
+04-03-2020 19:59,9465.61,"Sura, Trivedi and Buch",Deoghar,FALSE
+25-11-2021 16:51,4676.82,Cherian Ltd,Allahabad,TRUE
+25-10-2020 13:40,3594.08,Sinha-Loke,Jodhpur,FALSE
+18-06-2023 22:42,7598.71,Mammen LLC,Madhyamgram,TRUE
+12-06-2021 00:12,7193.07,"Khalsa, Ahluwalia and Karan",Hyderabad,FALSE
+07-05-2023 06:10,241.04,Dugar-Andra,Unnao,TRUE
+21-07-2022 14:22,8226.93,"Chawla, Dora and Chander",Kamarhati,TRUE
+03-10-2023 07:22,7902.49,"Suresh, Saha and Kalla",Mangalore,FALSE
+23-02-2020 07:35,7307.41,Edwin-Ganguly,Kadapa,TRUE
+01-11-2023 13:01,419.2,Sant-Sridhar,Kumbakonam,TRUE
+18-04-2020 16:42,9581.08,Vyas Group,Hazaribagh,TRUE
+05-05-2022 18:46,789.45,Ghosh Ltd,Gwalior,TRUE
+13-02-2021 18:57,5713.47,"Sood, Wagle and Sachdeva",Jamalpur,TRUE
+01-06-2021 15:40,6752.13,Thakkar Ltd,Ichalkaranji,FALSE
+07-10-2023 18:55,8194.78,Sachdeva-Goda,Amritsar,FALSE
+17-10-2023 08:46,2764.76,"Dube, Mammen and Ramakrishnan",Durg,FALSE
+13-04-2020 19:27,7470.36,Varughese-Apte,Raiganj,FALSE
+24-06-2020 06:42,629.19,Badami-Shenoy,Bareilly,TRUE
+14-01-2022 06:58,4568,Sabharwal Group,Anand,TRUE
+20-05-2023 10:00,2950.66,"Ratta, Arya and Sachdev",Nagercoil,TRUE
+25-12-2023 09:04,2902.83,"Yohannan, Dugar and Saini",Kakinada,TRUE
+16-05-2020 18:54,5501.8,"Sodhi, Hegde and Chatterjee",Tirunelveli,FALSE
+27-03-2020 22:56,1411.11,"Shenoy, Singh and Dhingra",Akola,TRUE
+09-07-2021 12:35,5265.31,"Ramakrishnan, Iyengar and Iyer",Yamunanagar,TRUE
+26-09-2021 18:43,3264.87,Mallick-Salvi,Dehri,TRUE
+21-03-2022 15:34,7488.42,"Kohli, Manne and Chana",Kolhapur,FALSE
+04-09-2022 16:30,3417.61,Atwal and Sons,Pallavaram,FALSE
+12-12-2021 19:53,9739.59,Chatterjee-Bhakta,Kozhikode,FALSE
+16-03-2021 03:47,6598.39,Sachdeva-Khanna,Kamarhati,TRUE
+12-12-2021 02:46,9532.33,Mani-Kuruvilla,Pimpri-Chinchwad,TRUE
+27-04-2023 03:13,3563.83,"Ghose, Chandra and Ranganathan",Kurnool,FALSE
+12-08-2023 12:00,3977.29,"Hayre, Khanna and Dubey",Tiruchirappalli,TRUE
+26-04-2021 04:07,5744.25,"Devi, Biswas and Vaidya",Miryalaguda,TRUE
+18-09-2021 21:04,9541.16,"Khurana, Choudhury and Basak",Bihar Sharif,FALSE
+08-10-2023 22:13,8885.08,Bora-Goswami,Proddatur,TRUE
+19-11-2023 13:38,5413.3,Kibe Inc,Jammu,FALSE
+28-01-2021 09:09,4523.14,Wali-Thaker,Tirunelveli,FALSE
+06-01-2021 10:01,8555.39,Kamdar-Kuruvilla,Hospet,TRUE
+20-11-2023 23:00,6198.79,Balan LLC,Madurai,FALSE
+02-10-2020 20:56,4921.58,Vyas-Raj,Mahbubnagar,TRUE
+21-06-2022 17:51,4900.52,Kumer-Badami,Rajpur Sonarpur,TRUE
+26-07-2023 00:36,1929.87,Mane-Handa,Muzaffarnagar,FALSE
+01-09-2021 07:22,5691.61,Dhingra-Chaudry,Madhyamgram,TRUE
+05-01-2023 01:37,6975.05,Venkatesh LLC,Pondicherry,TRUE
+21-03-2021 14:34,5915.48,Dutt-Sahni,Farrukhabad,FALSE
+07-06-2023 05:02,5841.79,"Tak, Behl and Sandal",Jaipur,FALSE
+19-09-2022 16:41,2123.37,Shanker-Loyal,Hapur,FALSE
+14-09-2022 00:44,6510.1,Dutta-D’Alia,Belgaum,TRUE
+12-05-2022 03:19,2305.74,Ganesh PLC,Lucknow,TRUE
+17-10-2022 06:43,7511.77,Balasubramanian Group,Agartala,TRUE
+21-10-2023 21:50,2962.1,Saran-Kunda,Saharsa,FALSE
+24-01-2021 23:23,57.25,Hari-Deo,Darbhanga,TRUE
+11-12-2023 20:33,9693.5,"Ratta, Baral and Bhargava",Darbhanga,FALSE
+27-12-2020 19:33,5941.74,Gopal-Dayal,Karawal Nagar,TRUE
+27-11-2023 00:32,4154.95,Guha-Gade,Alwar,TRUE
+12-10-2022 18:42,213.05,Ganesh Ltd,Madhyamgram,TRUE
+08-08-2022 17:44,9272.9,"Rajan, Raja and Soni",Haridwar,FALSE
+23-05-2022 11:59,3501,Ravi-Agate,Khandwa,TRUE
